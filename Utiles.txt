@@ -1,0 +1,5 @@
+
+// si se retorna un bool se puede leer los datos de la siguiente manera (sobre carga de operadores de estructuras)
+
+while (arch >> clientes[cant]) cant++;
+     clientes[cant].dni = 0; //delimitador
