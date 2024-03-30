@@ -3,3 +3,25 @@
 
 while (arch >> clientes[cant]) cant++;
      clientes[cant].dni = 0; //delimitador
+
+
+// forma swith case
+
+switch (mod) {
+        case 'S':
+            strcpy(alumno.modalidad, "SEMIPRESENCIAL");
+            arch >> alumno.porcentaje >> c >> alumno.escala;
+            break;
+
+        case 'V':
+            strcpy(alumno.modalidad, "VIRTUAL");
+            alumno.porcentaje = 0;
+            arch >> c >> alumno.escala;
+            break;
+            
+        case 'G':
+            strcpy(alumno.modalidad, "PRESENCIAL");
+            alumno.porcentaje = 0;
+            arch >> alumno.escala;
+            break;
+    }
