@@ -29,6 +29,10 @@ int main(int argc, char** argv) {
     leerAlumnos(archAlum, arrAlu);
     
     cargarMatricula(arrCur,arrAlu,"Matricula.txt");
+    calcularTotales(arrCur,arrAlu,"Escalas.txt");
+    
+    
+    emitirReporte(arrCur,arrAlu,"Reporte.txt");
 
 
 

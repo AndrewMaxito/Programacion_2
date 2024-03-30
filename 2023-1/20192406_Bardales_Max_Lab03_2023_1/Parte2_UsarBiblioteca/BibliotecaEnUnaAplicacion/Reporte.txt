@@ -1,0 +1,780 @@
+                                            Datos por Cursos
+====================================================================================================
+Codigo         Nombre                   Creditos
+INF263         Algoritmia               3.75
+Profesor:  INGA_FLORES_CESAR_ADOLFO  [35030611]
+Alumnos matriculados: 
+Semestre    Codigo
+  20231      1260
+  20212      5400
+  20231      9103
+  20231      3065
+  20231      5527
+  20211      5802
+  20221      7030
+  20212      7660
+  20231      2050
+  20231      8072
+  20222      2447
+  20231      8383
+  20231      8318
+  20212      7344
+  20222      4569
+  20212      9735
+  20221      1325
+Numero de de alumnos 17
+Total  Ingresado 27459.8
+
+Codigo         Nombre                   Creditos
+MEC270         Procesos_De_Manufactura  4
+Profesor:  PAIRAZAMAN_ALAMO_MOISES_MIGUEL[83265244]
+Alumnos matriculados: 
+Semestre    Codigo
+  20211      1397
+  20212      9719
+  20222      6929
+  20222      5778
+  20221      6453
+  20231      5643
+  20231      2360
+  20221      9437
+  20222      4569
+  20231      1247
+  20211      3223
+  20222      6249
+  20231      2501
+  20212      5400
+  20212      5775
+  20231      3754
+  20231      5724
+  20211      9153
+  20211      9958
+  20212      7344
+  20221      5494
+Numero de de alumnos 21
+Total  Ingresado 37259.2
+
+Codigo         Nombre                   Creditos
+MEC289         Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo4.25
+Profesor:  DELGADO_GONZALES_GUILLERMO_ALFONSO[49516360]
+Alumnos matriculados: 
+Semestre    Codigo
+  20231      2000
+  20221      4204
+  20221      9437
+  20222      7316
+  20231      3122
+  20211      1260
+  20211      9707
+  20212      9735
+  20211      4285
+  20222      6249
+  20211      6963
+  20211      5802
+  20231      2360
+  20221      5067
+  20231      8320
+Numero de de alumnos 15
+Total  Ingresado 32059.5
+
+Codigo         Nombre                   Creditos
+MAT241         Metodos_Numericos_En_Ingenieria3
+Profesor:  HERNANDEZ_BARRIOS_EMILIO_ [17750908]
+Alumnos matriculados: 
+Semestre    Codigo
+  20221      6453
+  20222      5400
+  20231      8320
+  20212      1791
+  20221      9773
+  20212      5400
+  20222      5778
+  20231      5724
+  20231      3249
+  20212      9785
+  20211      6038
+  20231      5763
+  20231      3122
+  20221      1325
+  20231      9927
+  20231      9103
+  20231      5318
+  20211      4739
+  20221      4712
+  20231      1247
+  20211      9958
+  20231      5400
+  20231      2050
+Numero de de alumnos 23
+Total  Ingresado 33390.6
+
+Codigo         Nombre                   Creditos
+MEC206         Termodinamica_1          4.5
+Profesor:  SALAS_AGUERO_DANIEL_      [66152145]
+Alumnos matriculados: 
+Semestre    Codigo
+  20221      5494
+  20211      5802
+  20222      3508
+  20231      3122
+  20231      2000
+  20222      4569
+  20212      6490
+  20212      5607
+  20231      2501
+  20231      2050
+  20211      4739
+  20221      5067
+  20211      6963
+  20212      5775
+  20221      6453
+Numero de de alumnos 15
+Total  Ingresado 33761.7
+
+Codigo         Nombre                   Creditos
+INF246         Bases_De_Datos           3.75
+Profesor:  MEJIA_DIAZ_BLANCA_MILAGROS[65071478]
+Alumnos matriculados: 
+Semestre    Codigo
+  20231      3754
+  20221      4204
+  20231      2360
+  20222      5400
+  20221      4712
+  20231      1748
+  20211      1260
+  20231      6015
+  20221      3745
+  20211      9958
+  20231      5318
+  20231      5527
+  20222      5778
+  20231      5643
+  20231      5724
+  20221      9773
+  20212      3373
+  20211      6038
+  20231      8318
+  20212      9719
+  20231      9103
+  20231      8383
+  20212      3402
+  20231      3249
+  20211      9707
+Numero de de alumnos 25
+Total  Ingresado 42887.6
+
+Codigo         Nombre                   Creditos
+FIS220         Tecnicas_Computacionales_En_Fisica4.5
+Profesor:  VASQUEZ_PAZ_ALEX_MARTIN   [37500242]
+Alumnos matriculados: 
+Semestre    Codigo
+  20212      5775
+  20231      3249
+  20231      8320
+  20231      5400
+  20221      5494
+  20222      3508
+  20231      9103
+  20222      4569
+  20212      5607
+  20222      6929
+  20211      9153
+  20212      9719
+  20231      1748
+  20212      9735
+  20231      2360
+  20211      6963
+  20231      6015
+  20231      2000
+  20212      2742
+  20211      5400
+  20211      1397
+Numero de de alumnos 21
+Total  Ingresado 49080.2
+
+                                            Datos por Alumno
+====================================================================================================
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          1260      GORDILLO/CASTRO/RONAL         PRESENCIAL                   2
+Codigo de cursos matriculados: 
+              MEC289
+              INF246
+Numero de Cursos: 2
+Costo total:  2896
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          1397      ZEVALLOS/PRADO/RICARDO        SEMIPRESENCIAL Con  50%      2
+Codigo de cursos matriculados: 
+              MEC270
+              FIS220
+Numero de Cursos: 2
+Costo total:  3077
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          2598      MORI/ZAVALETA/LUZ-LOURDES     SEMIPRESENCIAL Con  20%      1
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          2887      CABRERA/AGUERO/JESSICA        SEMIPRESENCIAL Con  50%      2
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          3223      DIAZ/SEDANO/YVONNE            SEMIPRESENCIAL Con  30%      4
+Codigo de cursos matriculados: 
+              MEC270
+Numero de Cursos: 1
+Costo total:  2226.8
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          3758      SOMA/INGA/DIALY               PRESENCIAL                   1
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          4285      CHAVARRI/ALDAVE/FERNANDO-MARTINSEMIPRESENCIAL Con  25%      2
+Codigo de cursos matriculados: 
+              MEC289
+Numero de Cursos: 1
+Costo total:  1538.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          4739      VELASQUEZ/CANO/FERNANDO       SEMIPRESENCIAL Con  50%      4
+Codigo de cursos matriculados: 
+              MEC206
+              MAT241
+Numero de Cursos: 2
+Costo total:  4175.25
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          5400      SANTISTEBAN/JUGO/NESTOR       SEMIPRESENCIAL Con  30%      1
+Codigo de cursos matriculados: 
+              FIS220
+Numero de Cursos: 1
+Costo total:  1270.35
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          5802      MINAYA/AMEZQUITA/RHONY-JAIME  PRESENCIAL                   5
+Codigo de cursos matriculados: 
+              MEC206
+              INF263
+              MEC289
+Numero de Cursos: 3
+Costo total:  8336.25
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          6038      SAONA/ARIAS/ALBERTO           SEMIPRESENCIAL Con  25%      4
+Codigo de cursos matriculados: 
+              MAT241
+              INF246
+Numero de Cursos: 2
+Costo total:  3757.73
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          6963      CORTEZ/LEIVA/SURAMI-SILVIA    SEMIPRESENCIAL Con  30%      4
+Codigo de cursos matriculados: 
+              MEC289
+              MEC206
+              FIS220
+Numero de Cursos: 3
+Costo total:  7376.28
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          9153      MENDOZA/ARIAS/HENRY           PRESENCIAL                   4
+Codigo de cursos matriculados: 
+              FIS220
+              MEC270
+Numero de Cursos: 2
+Costo total:  4731.95
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          9707      MIRANDA/LARRIEGA/JUVENAL-NESTORSEMIPRESENCIAL Con  30%      2
+Codigo de cursos matriculados: 
+              MEC289
+              INF246
+Numero de Cursos: 2
+Costo total:  2896
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20211          9958      QUISPE/BERROCAL/ANTONIO-ALVARO-DANIELPRESENCIAL                   3
+Codigo de cursos matriculados: 
+              INF246
+              MAT241
+              MEC270
+Numero de Cursos: 3
+Costo total:  4882.65
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          1791      GONZALES/VELASQUEZ/WALTER     SEMIPRESENCIAL Con  25%      1
+Codigo de cursos matriculados: 
+              MAT241
+Numero de Cursos: 1
+Costo total:  846.9
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          2742      ZAVALETA/LOPEZ/KARIN-VIRGINIA PRESENCIAL                   5
+Codigo de cursos matriculados: 
+              FIS220
+Numero de Cursos: 1
+Costo total:  3001.05
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          3373      ESCALANTE/RARAZ/BLANCA        PRESENCIAL                   3
+Codigo de cursos matriculados: 
+              INF246
+Numero de Cursos: 1
+Costo total:  1703.25
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          3402      VIZCARDO/MORI/LUCERO-ZKENIA   PRESENCIAL                   1
+Codigo de cursos matriculados: 
+              INF246
+Numero de Cursos: 1
+Costo total:  1058.62
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          3703      GAMARRA/TABORI/PAUL-RONAL     SEMIPRESENCIAL Con  30%      5
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          5607      POZO/JUGO/ISABEL              PRESENCIAL                   2
+Codigo de cursos matriculados: 
+              FIS220
+              MEC206
+Numero de Cursos: 2
+Costo total:  3258
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          5775      PRADO/PAREDES/JUAN            SEMIPRESENCIAL Con  50%      3
+Codigo de cursos matriculados: 
+              FIS220
+              MEC270
+              MEC206
+Numero de Cursos: 3
+Costo total:  5904.6
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          6490      TAVERA/CORREA/FERNANDO        SEMIPRESENCIAL Con  50%      2
+Codigo de cursos matriculados: 
+              MEC206
+Numero de Cursos: 1
+Costo total:  1629
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          7344      DEL_POZO/QUIO/CESAR           VIRTUAL                   3
+Codigo de cursos matriculados: 
+              INF263
+              MEC270
+Numero de Cursos: 2
+Costo total:  3520.05
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          7660      CHANG/ARGUEDAS/HENRY-ANTONIO  SEMIPRESENCIAL Con  25%      4
+Codigo de cursos matriculados: 
+              INF263
+Numero de Cursos: 1
+Costo total:  2087.62
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          9611      MALDONADO/CORREA/LUCERO-CAROLAPRESENCIAL                   2
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          9719      MAEIREIZO/VASQUEZ/LOURDES-SILVIAPRESENCIAL                   2
+Codigo de cursos matriculados: 
+              MEC270
+              FIS220
+              INF246
+Numero de Cursos: 3
+Costo total:  4434.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          9735      MENDOZA/CORREA/JESUS-CHRISTIANSEMIPRESENCIAL Con  50%      5
+Codigo de cursos matriculados: 
+              MEC289
+              FIS220
+              INF263
+Numero de Cursos: 3
+Costo total:  8336.25
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20212          9785      FARFAN/RARAZ/WALDEMAR         SEMIPRESENCIAL Con  50%      4
+Codigo de cursos matriculados: 
+              MAT241
+Numero de Cursos: 1
+Costo total:  1670.1
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          1325      MORI/ARROYO/SHIRLEY           PRESENCIAL                   3
+Codigo de cursos matriculados: 
+              MAT241
+              INF263
+Numero de Cursos: 2
+Costo total:  3065.85
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          3745      CARO/QUISPE/JORGE             VIRTUAL                   1
+Codigo de cursos matriculados: 
+              INF246
+Numero de Cursos: 1
+Costo total:  1058.62
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          4204      DIAZ/IBEROS/GLENDA-YESSICA    SEMIPRESENCIAL Con  50%      4
+Codigo de cursos matriculados: 
+              MEC289
+              INF246
+Numero de Cursos: 2
+Costo total:  4453.6
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          4628      PALOMARES/GUEVARA/KARINA      PRESENCIAL                   5
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          4712      CASANOVA/CHUMPITAZ/ALONSO     VIRTUAL                   2
+Codigo de cursos matriculados: 
+              INF246
+              MAT241
+Numero de Cursos: 2
+Costo total:  2443.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          5067      JAUREGUI/AGUERO/HECTOR-HENRY  SEMIPRESENCIAL Con  50%      4
+Codigo de cursos matriculados: 
+              MEC206
+              MEC289
+Numero de Cursos: 2
+Costo total:  4871.12
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          5494      DE_LA_HAZA/CASTRO/EMIGDIO-JOHNNYSEMIPRESENCIAL Con  30%      2
+Codigo de cursos matriculados: 
+              MEC206
+              FIS220
+              MEC270
+Numero de Cursos: 3
+Costo total:  4706
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          6453      MINAYA/VIZCARRA/JUVENAL       SEMIPRESENCIAL Con  25%      3
+Codigo de cursos matriculados: 
+              MAT241
+              MEC270
+              MEC206
+Numero de Cursos: 3
+Costo total:  5223.3
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          6995      LARRIEGA/ARCA/ISABEL-MADELEINEPRESENCIAL                   5
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          7030      LUNA/POLO/SONIA               VIRTUAL                   3
+Codigo de cursos matriculados: 
+              INF263
+Numero de Cursos: 1
+Costo total:  1703.25
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          9437      ZIMIC/PAREDES/SHIRLEY         SEMIPRESENCIAL Con  25%      4
+Codigo de cursos matriculados: 
+              MEC289
+              MEC270
+Numero de Cursos: 2
+Costo total:  4592.78
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20221          9773      SANCHEZ/CUBA/NATALIA-ESTEFANIASEMIPRESENCIAL Con  50%      5
+Codigo de cursos matriculados: 
+              MAT241
+              INF246
+Numero de Cursos: 2
+Costo total:  4501.57
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          1155      CORRALES/ZIMIC/JAIME-DANIEL   PRESENCIAL                   5
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          2447      VILCA/JUSTINO/MELVIN          VIRTUAL                   1
+Codigo de cursos matriculados: 
+              INF263
+Numero de Cursos: 1
+Costo total:  1058.62
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          3508      AURIS/JOLAY/HENRY-EDILBERTO   SEMIPRESENCIAL Con  50%      5
+Codigo de cursos matriculados: 
+              MEC206
+              FIS220
+Numero de Cursos: 2
+Costo total:  6002.1
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          4569      RIVERA/PASQUEL/OFELIA-CINTHIA PRESENCIAL                   5
+Codigo de cursos matriculados: 
+              FIS220
+              MEC270
+              MEC206
+              INF263
+Numero de Cursos: 4
+Costo total:  11170.6
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          5400      PORTUGAL/GUEVARA/HELI-JOHANA  SEMIPRESENCIAL Con  50%      5
+Codigo de cursos matriculados: 
+              MAT241
+              INF246
+Numero de Cursos: 2
+Costo total:  4501.57
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          5778      MUNOZ/ZIMIC/ROCIO-DELICIA     SEMIPRESENCIAL Con  50%      2
+Codigo de cursos matriculados: 
+              MEC270
+              MAT241
+              INF246
+Numero de Cursos: 3
+Costo total:  3891.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          6249      WONG/GALLO/JANET-MADELEINE    SEMIPRESENCIAL Con  30%      1
+Codigo de cursos matriculados: 
+              MEC270
+              MEC289
+Numero de Cursos: 2
+Costo total:  2328.97
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          6929      BOLANOS/FUENTES/JORGE         SEMIPRESENCIAL Con  50%      2
+Codigo de cursos matriculados: 
+              MEC270
+              FIS220
+Numero de Cursos: 2
+Costo total:  3077
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20222          7316      RIVERO/RETT/RONY-ANTONIO      SEMIPRESENCIAL Con  30%      2
+Codigo de cursos matriculados: 
+              MEC289
+Numero de Cursos: 1
+Costo total:  1538.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          1247      SERRANO/JOLAY/RHONY-ROLANDO   PRESENCIAL                   5
+Codigo de cursos matriculados: 
+              MEC270
+              MAT241
+Numero de Cursos: 2
+Costo total:  4668.3
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          1748      PATINO/FUENTES/MILAGROS-MARIELLAVIRTUAL                   4
+Codigo de cursos matriculados: 
+              INF246
+              FIS220
+Numero de Cursos: 2
+Costo total:  4592.78
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          2000      LANDA/CUEVA/JOHAN             VIRTUAL                   4
+Codigo de cursos matriculados: 
+              MEC289
+              MEC206
+              FIS220
+Numero de Cursos: 3
+Costo total:  7376.28
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          2050      LOYOLA/HIJAR/NICOLAS-OSCAR    VIRTUAL                   4
+Codigo de cursos matriculados: 
+              MEC206
+              INF263
+              MAT241
+Numero de Cursos: 3
+Costo total:  6262.88
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          2360      VILCA/BARRERA/CESAR-EDGAR     SEMIPRESENCIAL Con  50%      5
+Codigo de cursos matriculados: 
+              INF246
+              MEC270
+              MEC289
+              FIS220
+Numero de Cursos: 4
+Costo total:  11003.9
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          2501      CORTES/REYES/MARIBEL          VIRTUAL                   2
+Codigo de cursos matriculados: 
+              MEC270
+              MEC206
+Numero de Cursos: 2
+Costo total:  3077
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          3065      RETT/SERRANO/RAFAEL-RHONY     VIRTUAL                   2
+Codigo de cursos matriculados: 
+              INF263
+Numero de Cursos: 1
+Costo total:  1357.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          3122      CUBA/NARVAEZ/PAUL-JOHN        PRESENCIAL                   2
+Codigo de cursos matriculados: 
+              MEC289
+              MEC206
+              MAT241
+Numero de Cursos: 3
+Costo total:  4253.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          3249      NORABUENA/PAIRAZAMAN/JULIAN   PRESENCIAL                   3
+Codigo de cursos matriculados: 
+              FIS220
+              MAT241
+              INF246
+Numero de Cursos: 3
+Costo total:  5109.75
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          3627      CHAVEZ/CARO/YVONNE            VIRTUAL                   1
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          3754      MALCA/SAAVEDRA/DORIS-MILAGROS SEMIPRESENCIAL Con  30%      3
+Codigo de cursos matriculados: 
+              INF246
+              MEC270
+Numero de Cursos: 2
+Costo total:  3520.05
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          5400      CORTES/CALIXTO/ROSARIO        SEMIPRESENCIAL Con  50%      5
+Codigo de cursos matriculados: 
+              FIS220
+              MAT241
+Numero de Cursos: 2
+Costo total:  5001.75
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          5318      FLORENCIO/LAM/PAUL-RONALD     PRESENCIAL                   3
+Codigo de cursos matriculados: 
+              INF246
+              MAT241
+Numero de Cursos: 2
+Costo total:  3065.85
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          5527      JUSTINO/COLLADO/LUZ-DELICIA   SEMIPRESENCIAL Con  30%      3
+Codigo de cursos matriculados: 
+              INF263
+              INF246
+Numero de Cursos: 2
+Costo total:  3406.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          5643      IBEROS/ZAMBRANO/GONZALO       PRESENCIAL                   2
+Codigo de cursos matriculados: 
+              MEC270
+              INF246
+Numero de Cursos: 2
+Costo total:  2805.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          5724      VEGA/SAENZ/ALEXANDER-RICHARD  SEMIPRESENCIAL Con  50%      4
+Codigo de cursos matriculados: 
+              MAT241
+              MEC270
+              INF246
+Numero de Cursos: 3
+Costo total:  5984.53
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          5763      CORREA/AGUIRRE/MOISES         SEMIPRESENCIAL Con  30%      2
+Codigo de cursos matriculados: 
+              MAT241
+Numero de Cursos: 1
+Costo total:  1086
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          6015      ALFARO/FUENTES/MAGDA          VIRTUAL                   3
+Codigo de cursos matriculados: 
+              INF246
+              FIS220
+Numero de Cursos: 2
+Costo total:  3747.15
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          6517      ZEGARRA/CUBA/ANTONIO          PRESENCIAL                   2
+Codigo de cursos matriculados: 
+Numero de Cursos: 0
+Costo total:  0
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          8072      RIVERA/MONTERO/GLORIA-OFELIA  VIRTUAL                   3
+Codigo de cursos matriculados: 
+              INF263
+Numero de Cursos: 1
+Costo total:  1703.25
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          8318      TOKESHI/GONZALES/MARTIN       SEMIPRESENCIAL Con  50%      1
+Codigo de cursos matriculados: 
+              INF263
+              INF246
+Numero de Cursos: 2
+Costo total:  2117.25
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          8320      NORABUENA/RIVERA/GLORIA-YESSICAVIRTUAL                   5
+Codigo de cursos matriculados: 
+              FIS220
+              MAT241
+              MEC289
+Numero de Cursos: 3
+Costo total:  7836.07
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          8383      GORDILLO/BOLANOS/ARTURO-GONZALOPRESENCIAL                   3
+Codigo de cursos matriculados: 
+              INF263
+              INF246
+Numero de Cursos: 2
+Costo total:  3406.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          9103      LEE/VASQUEZ/JENNY             VIRTUAL                   4
+Codigo de cursos matriculados: 
+              INF263
+              FIS220
+              MAT241
+              INF246
+Numero de Cursos: 4
+Costo total:  8350.5
+
+Semestre       Codigo    Nombre                        Modalidad                  Escala
+20231          9927      PATINO/MEZA/MANUEL            VIRTUAL                   3
+Codigo de cursos matriculados: 
+              MAT241
+Numero de Cursos: 1
+Costo total:  1362.6
+

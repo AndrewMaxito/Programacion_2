@@ -23,10 +23,10 @@ int main(int argc, char** argv) {
 
     ifstream archAlumnos;
     AperturaDeUnArchivoDeTextosParaLeer(archAlumnos,"Alumnos.txt");
-    struct StAlumno alumno[50],aluIng;
+    struct StAlumno alumno[200],aluIng;
     archAlumnos >> alumno[0];
-     archAlumnos >> alumno[1];
-    
+    archAlumnos >> alumno[1];
+     
     ifstream archMatricula;
     AperturaDeUnArchivoDeTextosParaLeer(archMatricula,"Matricula.txt");
     struct StRegistroDeMatricula matricula{"INF263" ,20211,1260};
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     alumno+=aluIng;
     alumno*=matricula;
     curso *=matricula;
-    
+   
     /*Impresion*/
     ofstream archRepCur;
     AperturaDeUnArchivoDeTextosParaEscribir(archRepCur,"PruebaCurso.txt");

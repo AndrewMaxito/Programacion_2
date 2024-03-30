@@ -5,6 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>AperturaDeArchivos.h</itemPath>
+      <itemPath>EstructuraEscalas.h</itemPath>
       <itemPath>Estructuras.h</itemPath>
       <itemPath>funcionesAuxiliares.h</itemPath>
     </logicalFolder>
@@ -44,12 +45,14 @@
             <pElem>.</pElem>
           </linkerAddLib>
           <linkerLibItems>
-            <linkerLibLibItem>aperturadearchivosbibl</linkerLibLibItem>
             <linkerLibLibItem>biblioteca_compilada</linkerLibLibItem>
+            <linkerLibLibItem>aperturadearchivosbibl</linkerLibLibItem>
           </linkerLibItems>
         </linkerTool>
       </compileType>
       <item path="AperturaDeArchivos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EstructuraEscalas.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Estructuras.h" ex="false" tool="3" flavor2="0">
       </item>
@@ -81,6 +84,8 @@
         </asmTool>
       </compileType>
       <item path="AperturaDeArchivos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EstructuraEscalas.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Estructuras.h" ex="false" tool="3" flavor2="0">
       </item>

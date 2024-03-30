@@ -53,7 +53,7 @@ FFLAGS=
 ASFLAGS=
 
 # Link Libraries and Options
-LDLIBSOPTIONS=-L. -laperturadearchivosbibl -lbiblioteca_compilada
+LDLIBSOPTIONS=-L. -lbiblioteca_compilada -laperturadearchivosbibl
 
 # Build Targets
 .build-conf: ${BUILD_SUBPROJECTS}

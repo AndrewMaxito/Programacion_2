@@ -29,23 +29,25 @@ int main(int argc, char** argv) {
     
     ifstream archMatricula;
     AperturaDeUnArchivoDeTextosParaLeer(archMatricula,"Matricula.txt");
-    struct StRegistroDeMatricula matricula;
-    archMatricula >> matricula; 
+    struct StRegistroDeMatricula matricula{"INF263" ,20211,1260};
+//    archMatricula >> matricula; 
     
     /*Agregacion*/
     
     curso+=cursoIng;
     alumno+=aluIng;
+    alumno*=matricula;
     curso *=matricula;
+   
     
     /*Impresion*/
     ofstream archRepCur;
     AperturaDeUnArchivoDeTextosParaEscribir(archRepCur,"PruebaCurso.txt");
     archRepCur << curso[0];
-    
     ofstream archRepAlumno;
     AperturaDeUnArchivoDeTextosParaEscribir(archRepAlumno,"PruebaAlumno.txt");
     archRepAlumno << alumno[0];
     archRepAlumno << alumno[1];
     return 0;
 }
+

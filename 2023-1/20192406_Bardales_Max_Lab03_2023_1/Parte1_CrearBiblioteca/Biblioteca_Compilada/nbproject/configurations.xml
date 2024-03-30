@@ -4,7 +4,6 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>AperturaDeArchivos.h</itemPath>
       <itemPath>BibliotecaEstatica.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -40,8 +39,6 @@
         <archiverTool>
         </archiverTool>
       </compileType>
-      <item path="AperturaDeArchivos.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="BibliotecaEstatica.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="BibliotecaEstatica.h" ex="false" tool="3" flavor2="0">
@@ -69,8 +66,6 @@
         <archiverTool>
         </archiverTool>
       </compileType>
-      <item path="AperturaDeArchivos.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="BibliotecaEstatica.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="BibliotecaEstatica.h" ex="false" tool="3" flavor2="0">

@@ -3,6 +3,6 @@ INF263         Algoritmia               3.75
 Profesor:  INGA_FLORES_CESAR_ADOLFO  [35030611]
 Alumnos matriculados: 
 Semestre    Codigo
-  20231      1260
+  20211      1260
 Numero de de alumnos 1
 Total  Ingresado 0
