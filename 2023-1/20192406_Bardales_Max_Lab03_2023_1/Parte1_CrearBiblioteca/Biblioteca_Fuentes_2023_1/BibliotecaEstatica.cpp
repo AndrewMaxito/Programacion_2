@@ -93,12 +93,13 @@ void operator *=(struct StCurso *arrCursos,struct StRegistroDeMatricula &matricu
 
 void operator *=(struct StAlumno *arrAlumno,struct StRegistroDeMatricula &matricula){
 
-    for (int pos=0;arrAlumno[pos].escala!=0;pos++) {
+    for (int pos=0;arrAlumno[pos].semestre!=0;pos++) {
         if (arrAlumno[pos].codigo==matricula.codigodelAlumno){
             arrAlumno[pos].cursos[arrAlumno[pos].numeroDeCursos] = 
                     new char [strlen(matricula.codigoDelCurso)+1];
                     strcpy(arrAlumno[pos].cursos[arrAlumno[pos].numeroDeCursos],matricula.codigoDelCurso);
                     arrAlumno[pos].numeroDeCursos++;
+//                    cout << arrAlumno[pos].cursos[arrAlumno[pos].numeroDeCursos]<<endl;
                     break;
         }
     } 
