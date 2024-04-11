@@ -80,7 +80,8 @@ void lecturaDePedidos(const char *nomArch,int *&fechaPedidos,char ***&CodigoPedi
     
     char **buffCodigoPedidos[500],**ptrCodigosPedidos;
     int cantidad=0;
-    
+// Se debe implementar en base a la cantidad de fechas, y por fecha poner el codigo del producto
+// pero no se conoce la cantidad de fechas y estas se repiten en el archivo
     while (true){
         ptrCodigosPedidos = leerProducto(arch);
         if (ptrCodigosPedidos == NULL) break;
