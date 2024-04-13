@@ -6,6 +6,8 @@
 using namespace std;
 #include "AsignacionDinamicaMemoriaExacta.h"
 
+#define NO_ENCONTRADO -1
+
 void lecturaDeProductos(const char *nomArch, char ***&productos,
         int *&stock, double *&precios) {
     ifstream arch(nomArch, ios::in);
@@ -56,69 +58,77 @@ void pruebaDeLecturaDeProductos(const char *nomArch, char ***productos,
         cout << "Error no se pudo abri el archivo " << nomArch << endl;
         exit(1);
     }
-    arch<<fixed<<setprecision(2);
+    arch << fixed << setprecision(2);
 
     arch << setw(60) << "Prueba archivo Productos " << endl;
     arch << left << setw(10) << "Codigo" << setw(62) << "Nombre" << setw(11) << "Precio" <<
             "Stock" << endl;
     for (int i = 0; productos[i] != 0; i++) {
-        for (int j = 0; j != 2; j++) 
+        for (int j = 0; j != 2; j++)
             if (j == 0) {
-                arch << left <<setw(10) << productos[i][j];
-            } else arch << setw(60)<<productos[i][j];
-        arch  << right <<setw(8)<<precios[i] <<setw(8)<< stock[i] << endl;
+                arch << left << setw(10) << productos[i][j];
+            } else arch << setw(60) << productos[i][j];
+        arch << right << setw(8) << precios[i] << setw(8) << stock[i] << endl;
     }
 }
 
-void lecturaDePedidos(const char *nomArch,int *&fechaPedidos,char ***&CodigoPedidos,
-        int ***&dniCantPedidos){
+void lecturaDePedidos(const char *nomArch, int *&fechaPedidos, char ***&CodigoPedidos,
+        int ***&dniCantPedidos) {
     ifstream arch(nomArch, ios::in);
     if (not arch.is_open()) {
         cout << "No se pudo abrir el archico " << nomArch << endl;
         exit(1);
     }
-    
-    char **buffCodigoPedidos[500],**ptrCodigosPedidos;
-    int cantidad=0;
-// Se debe implementar en base a la cantidad de fechas, y por fecha poner el codigo del producto
-// pero no se conoce la cantidad de fechas y estas se repiten en el archivo
-    while (true){
-        ptrCodigosPedidos = leerProducto(arch);
-        if (ptrCodigosPedidos == NULL) break;
-        buffCodigoPedidos[cantidad]=ptrCodigosPedidos;
+
+    char ***buffCodigoPedidos[500], ***buffDniCantPedidos;
+    int cantidadFechas = 0,arrCantPedidos[600];
+    char *codigoProducto, c;
+    int dni, cantidad, dd, mm, aaaa, fecha;
+    int buffFechas[700];
+    // Se debe implementar en base a la cantidad de fechas, y por fecha poner el codigo del producto
+    // pero no se conoce la cantidad de fechas y estas se repiten en el archivo
+    while (true) {
+        codigoProducto = leerCadenaExacta(arch, ',');
+        if (codigoProducto == NULL) break;
+        arch >> dni >> c >> cantidad >> c >> dd >> c >> mm >> c >>aaaa;
+        arch.get(); // se descarta el salto de linea al final del pedido
+        fecha = aaaa*10000 + mm * 100 + dd;
+        // como el puntero esta basado en las fechas entonces se bucara la fecha del pedido y si no se creara la fecha y
+        // se almacenara en el puntero fecha pedidos 
+        int posFecha = buscarFecha(buffFechas,fecha,cantidadFechas);
+        if (posFecha == NO_ENCONTRADO){
+            buffFechas[cantidadFechas]=fecha;
+            buffCodigoPedidos[cantidadFechas]=new char *[600];
+            buffDniCantPedidos[cantidadFechas]=new int *[600];
+            arrCantPedidos[cantidadFechas]=0;
+            posFecha=cantidadFechas;
+        }
+        agregarPedido(buffCodigoPedidos[posFecha],);
+       
         
-        
-        
+
+
+
+
+
+
+
+
+
     }
-    
-    
-    
-    
-    
-}
-void pruebaDeLecturaDePedidos(const char *nomArch,int *fechaPedidos,char ***CodigoPedidos,
-        int ***dniCantPedidos){
-    
-    
-    
+
+
+
+
+
 }
 
-char **leerPedido1(ifstream &arch) {
-    char *cadena, **dato; //SUSTITUIR DUPLA MUY FEO EL NOMBRE
-    cadena = leerCadenaExacta(arch, ',');
-    if (cadena == NULL) return nullptr;
+void pruebaDeLecturaDePedidos(const char *nomArch, int *fechaPedidos, char ***CodigoPedidos,
+        int ***dniCantPedidos) {
 
-    dato = new char *[500]; //se crea espacios en el heap 
-    dato[0] = cadena; //dato 0 = dato-Codigo
-    dato[1] = leerCadenaExacta(arch, ','); //dato 1 = dato-Descripcion
-    return dato;
-    
-    
+
+
 }
-
-
-
-
 
 char **leerProducto(ifstream &arch) {
     char *cadena, **dato; //SUSTITUIR DUPLA MUY FEO EL NOMBRE
@@ -139,3 +149,10 @@ char *leerCadenaExacta(ifstream &arch, char delimi) {
     strcpy(ptr, buff);
     return ptr;
 }
+
+int buscarFecha(int *buffFechas,int fecha,int cantidadFechas){
+    for (int i=0;i<cantidadFechas;i++)
+        if (buffFechas[i] == fecha) return i;
+    return NO_ENCONTRADO;
+}
+

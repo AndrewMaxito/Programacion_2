@@ -28,8 +28,7 @@ void pruebaDeLecturaDePedidos(const char *nomArch,int *fechaPedidos,char ***Codi
 char **leerProducto(ifstream &arch);
 char *leerCadenaExacta(ifstream &arch,char delimi);
 
-char **leerPedido1(ifstream &arch) ;
-
+int buscarFecha(int *buffFechas,int fecha,int cantidadFechas);
 
 #endif /* ASIGNACIONDINAMICAMEMORIAEXACTA_H */
 
