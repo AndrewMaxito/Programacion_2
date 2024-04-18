@@ -21,17 +21,19 @@ int main(int argc, char** argv) {
     PruebaDeLecturaDeProductos("ReporteDeProductos.txt", productos, stock, precio);
 
     //Pregunta 2
+    
     lecturaDePedidos("Pedidos.csv", fechaPedidos, codigoPedidos, dniCantPedidos);
     PruebaDeLecturaDePedidos("ReporteDePedidos.txt", fechaPedidos, codigoPedidos, dniCantPedidos);
-
+    /*No lo pide pero se insertará el ordenamiento de las fechas y por ende los pedidos para que 
+     asi los envios y la reduccion de stock sea más real */
+    ordenar(fechaPedidos,codigoPedidos,dniCantPedidos);
+    PruebaDeLecturaDePedidos("ReporteOrdenadoDePedidos.txt", fechaPedidos, codigoPedidos, dniCantPedidos);
+    //---------------------------------------------------------------------------
+    
     //Pregunta 3
     reporteDenvioDePedidos("ReporteDeEntregaPedidos.txt", productos, stock, precio, fechaPedidos,
             codigoPedidos, dniCantPedidos);
     PruebaDeLecturaDeProductos("ReporteDeProductosFinal.txt", productos, stock, precio);
-
-
-
-
     return 0;
 }
 

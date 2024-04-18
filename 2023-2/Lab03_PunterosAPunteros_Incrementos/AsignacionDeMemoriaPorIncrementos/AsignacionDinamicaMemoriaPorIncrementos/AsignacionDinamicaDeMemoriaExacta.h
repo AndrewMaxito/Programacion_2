@@ -15,22 +15,30 @@
 
 void lecturaDeProductos(const char *nomArch,char ***&productos,int *&stock, 
         double *&precio);
-void PruebaDeLecturaDeProductos(const char *nomArch,char ***productos,
-        int *stock, double *precio);
 char *leerCadenaExacta(ifstream &arch,char deli);
 void aumentarEspacios(int *&stock, int &numDat, int cap) ;
 void aumentarEspacios(double *&precio, int numDat, int cap);
 void aumentarEspacios(char ***&productos, int numDat, int cap);
 void insertarDatosProducto(char **&producto,char *codigo,char *descrip);
+void PruebaDeLecturaDeProductos(const char *nomArch,char ***productos,
+        int *stock, double *precio);
+
 void lecturaDePedidos(const char *nomArch, int *&fechaPedidos, char ***&codigoPedidos,
         int ***&dniCantPedidos);
-void PruebaDeLecturaDePedidos(const char *nomArch, int *fechaPedidos, char ***codigoPedidos,
-        int ***dniCantPedidos);
 int buscarFecha(int *fechaPedidos, int buffFecha, int cantFechas);
 void aumentarEspacios(int ***&dniCantPedidos,int cantFechas ,int cap);
 void aumentarEspacios(char **&codigoPedidos,int &cantPedFecha,int cap);
 void aumentarEspacios(int **&dniCantPedidos,int cantPedFecha,int cap);
-
+void PruebaDeLecturaDePedidos(const char *nomArch, int *fechaPedidos, char ***codigoPedidos,
+        int ***dniCantPedidos);
+//
+void ordenar(int *fechaPedidos,char ***codigoPedidos,int ***dniCantPedidos);
+void qSort(int *fechaPedidos, char ***codigoPedidos, int ***dniCantPedidos, int izq, 
+        int der);
+void cambiar(int &datoI, int &datoK);
+void cambiar(char **&datoI, char **&datoK);
+void cambiar(int **&datoI, int **&datoK);
+//
 void reporteDenvioDePedidos(const char *nomArch,char ***productos,int *stock, double *precio, 
         int *fechaPedidos,char ***codigoPedidos,int ***dniCantPedidos);
 void imprimirLineas(ofstream &arch,char car);

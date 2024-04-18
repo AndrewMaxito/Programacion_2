@@ -16,7 +16,6 @@ void lecturaDeProductos(const char *nomArch, char ***&productos, int *&stock, do
         cout << "No se pudo abrir el archivo " << nomArch << endl;
         exit(1);
     }
-
     //1.-Inicializar los punteros (nullptr) y ademas poner la capacidad y el numero de datos
 
     int numDat = 0, cap = 0;
@@ -51,22 +50,6 @@ void lecturaDeProductos(const char *nomArch, char ***&productos, int *&stock, do
     }
 }
 
-void PruebaDeLecturaDeProductos(const char *nomArch, char ***productos, int *stock, double *precio) {
-    ofstream arch(nomArch, ios::out);
-    if (not arch.is_open()) {
-        cout << "No se pudo abrir el archivo " << nomArch << endl;
-        exit(1);
-    }
-    arch << right << setw(50) << "Productos " << endl;
-    imprimirLineas(arch, '=');
-    arch << left << setw(10) << "Codigo" << setw(64) << "Descripciom" << setw(13) << "Precio" <<
-            "Stock" << endl;
-    for (int i = 0; precio[i]; i++) {
-        arch << left << setw(10) << productos[i][0] << setw(60) << productos[i][1] << right
-                << setw(10) << precio[i] << setw(10) << stock[i] << endl;
-    }
-}
-
 char *leerCadenaExacta(ifstream &arch, char deli) {
     char buff[500], *ptr;
     arch.getline(buff, 500, deli);
@@ -75,7 +58,6 @@ char *leerCadenaExacta(ifstream &arch, char deli) {
     strcpy(ptr, buff);
     return ptr;
 }
-//
 
 void aumentarEspacios(int *&stock, int &numDat, int cap) {
     int *aux;
@@ -128,6 +110,25 @@ void insertarDatosProducto(char **&producto, char *codigo, char *descrip) {
     producto[1] = descrip;
 }
 
+void PruebaDeLecturaDeProductos(const char *nomArch, char ***productos, int *stock, double *precio) {
+    ofstream arch(nomArch, ios::out);
+    if (not arch.is_open()) {
+        cout << "No se pudo abrir el archivo " << nomArch << endl;
+        exit(1);
+    }
+    arch << right << setw(50) << "Productos " << endl;
+    imprimirLineas(arch, '=');
+    arch << left << setw(10) << "Codigo" << setw(64) << "Descripciom" << setw(13) << "Precio" <<
+            "Stock" << endl;
+    for (int i = 0; precio[i]; i++) {
+        arch << left << setw(10) << productos[i][0] << setw(60) << productos[i][1] << right
+                << setw(10) << precio[i] << setw(10) << stock[i] << endl;
+    }
+}
+
+
+//Pregunta 2
+
 void lecturaDePedidos(const char *nomArch, int *&fechaPedidos, char ***&codigoPedidos,
         int ***&dniCantPedidos) {
 
@@ -149,28 +150,30 @@ void lecturaDePedidos(const char *nomArch, int *&fechaPedidos, char ***&codigoPe
         codigo = leerCadenaExacta(arch, ',');
         if (codigo == nullptr) break;
         arch >> buffDni >> c >> buffCantidad >> c >> dd >> c >> mm >> c>>aaaa;
-        arch.get();
+        arch.get(); //importante para leer el salto de linea
         buffFecha = aaaa * 10000 + mm * 100 + dd;
 
-        //-----------------------------------------------
-        int posFecha = buscarFecha(fechaPedidos, buffFecha, cantFechas);
 
-        if (cantFechas == cap) {
-            cap += INCREMENTO;
-            aumentarEspacios(fechaPedidos, cantFechas, cap);
-            aumentarEspacios(codigoPedidos, cantFechas, cap);
-            aumentarEspacios(dniCantPedidos, cantFechas, cap);
-        }
-        ////        Agregar Fecha
-        ////        GUARADAR EN UN ARREGLO SU CAPACIDAD PARA CADA PEDIDO ESE MISMO ARREGLO FUNCIONARA PARA 
-        ////        dniCantPedidos
+        /*Primero buscará si la fecha ya está ingresada, si no lo está se comprobará que aún 
+          existan espacios libres en caso no hubiera se creara y luego se asignará  */
+
+        int posFecha = buscarFecha(fechaPedidos, buffFecha, cantFechas);
         if (posFecha == NO_ENCONTRADO) {
+            if (cantFechas == cap) {
+                cap += INCREMENTO;
+                aumentarEspacios(fechaPedidos, cantFechas, cap);
+                aumentarEspacios(codigoPedidos, cantFechas, cap);
+                aumentarEspacios(dniCantPedidos, cantFechas, cap);
+            }
             posFecha = cantFechas - 1;
             fechaPedidos[posFecha] = buffFecha; // y si pongo la condicion arriba y de frente lo agrego ? 
             codigoPedidos[posFecha] = nullptr;
             dniCantPedidos[posFecha] = nullptr;
             cantFechas++;
         }
+
+        /*Se crea 2 arreglos uno que contenga la cantidad maxima de productos que tiene un pedido
+         y el otro la cantidad actual que tiene si llegan a seer iguales se le aumentará espacios*/
 
         if (arrContCapacidad[posFecha] == arrCapacidad[posFecha]) {
             arrCapacidad[posFecha] += INCREMENTO;
@@ -182,10 +185,15 @@ void lecturaDePedidos(const char *nomArch, int *&fechaPedidos, char ***&codigoPe
         dniCantPedidos[posFecha][cantProductos] = new int [2];
         dniCantPedidos[posFecha][cantProductos][0] = buffDni;
         dniCantPedidos[posFecha][cantProductos][1] = buffCantidad;
-        arrContCapacidad[posFecha]++;
+        arrContCapacidad[posFecha]++; //aqui se aumeta la cantiad que tiene en ese momento 
     }
 }
-//---------------------------------------------
+
+int buscarFecha(int *fechaPedidos, int buffFecha, int cantFechas) {
+    for (int i = 0; fechaPedidos != nullptr and fechaPedidos[i]; i++)
+        if (fechaPedidos[i] == buffFecha) return i;
+    return NO_ENCONTRADO;
+}
 
 void aumentarEspacios(int **&dniCantPedidos, int cantPedFecha, int cap) {
     int **aux;
@@ -231,12 +239,6 @@ void aumentarEspacios(int ***&dniCantPedidos, int cantFechas, int cap) {
     }
 }
 
-int buscarFecha(int *fechaPedidos, int buffFecha, int cantFechas) {
-    for (int i = 0; fechaPedidos != nullptr and fechaPedidos[i]; i++)
-        if (fechaPedidos[i] == buffFecha) return i;
-    return NO_ENCONTRADO;
-}
-
 void PruebaDeLecturaDePedidos(const char *nomArch, int *fechaPedidos, char ***codigoPedidos,
         int ***dniCantPedidos) {
     ofstream arch(nomArch, ios::out);
@@ -254,6 +256,58 @@ void PruebaDeLecturaDePedidos(const char *nomArch, int *fechaPedidos, char ***co
         arch << endl;
     }
 }
+
+//------------------------------------------------------------------------------
+
+void ordenar(int *fechaPedidos, char ***codigoPedidos, int ***dniCantPedidos) {
+    int numDat = 0;
+    while (fechaPedidos[numDat])numDat++;
+    qSort(fechaPedidos, codigoPedidos, dniCantPedidos, 0, numDat - 1);
+}
+
+void qSort(int *fechaPedidos, char ***codigoPedidos, int ***dniCantPedidos, int izq, int der) {
+    int limite, pos;
+    if (izq >= der) return;
+    pos = (izq + der) / 2;
+    cambiar(fechaPedidos[izq], fechaPedidos[pos]);
+    cambiar(codigoPedidos[izq], codigoPedidos[pos]);
+    cambiar(dniCantPedidos[izq], dniCantPedidos[pos]);
+    limite = izq;
+    for (int i = izq + 1; i <= der; i++)
+        if (fechaPedidos[i] < fechaPedidos[izq]) {
+            limite++;
+            cambiar(fechaPedidos[limite], fechaPedidos[i]);
+            cambiar(codigoPedidos[limite], codigoPedidos[i]);
+            cambiar(dniCantPedidos[limite], dniCantPedidos[i]);
+        }
+    cambiar(fechaPedidos[limite], fechaPedidos[izq]);
+    cambiar(codigoPedidos[limite], codigoPedidos[izq]);
+    cambiar(dniCantPedidos[limite], dniCantPedidos[izq]);
+    qSort(fechaPedidos, codigoPedidos, dniCantPedidos, izq, limite - 1);
+    qSort(fechaPedidos, codigoPedidos, dniCantPedidos, limite + 1, der);
+}
+
+void cambiar(int &datoI, int &datoK) {
+    int aux;
+    aux = datoI;
+    datoI = datoK;
+    datoK = aux;
+}
+
+void cambiar(char **&datoI, char **&datoK) {
+    char **aux;
+    aux = datoI;
+    datoI = datoK;
+    datoK = aux;
+}
+
+void cambiar(int **&datoI, int **&datoK) {
+    int **aux;
+    aux = datoI;
+    datoI = datoK;
+    datoK = aux;
+}
+//------------------------------------------------------------------------------
 
 void reporteDenvioDePedidos(const char *nomArch, char ***productos, int *stock, double *precio,
         int *fechaPedidos, char ***codigoPedidos, int ***dniCantPedidos) {
@@ -305,14 +359,6 @@ void reporteDenvioDePedidos(const char *nomArch, char ***productos, int *stock, 
     arch << "Total perdido por falta de stock" << setw(94) << totalPerdidoPeriodo << endl;
 }
 
-int buscarPedido(char ***productos, char *codigo) {
-    for (int i = 0; productos[i]; i++) {
-        if (strcmp(productos[i][0], codigo) == 0)return i;
-    }
-    cout << "No se encontro" << endl;
-    return NO_ENCONTRADO;
-}
-
 void imprimirLineas(ofstream &arch, char car) {
     for (int i = 0; i < CARACTERES; i++) arch << car;
     arch << endl;
@@ -326,3 +372,13 @@ void imprimirFormatoFecha(ofstream &arch, int fecha) {
     arch << right << setfill('0') << setw(2) << dd << '/' << setw(2) << mm << '/' << aaaa <<
             setfill(' ') << endl;
 }
+
+int buscarPedido(char ***productos, char *codigo) {
+    for (int i = 0; productos[i]; i++) {
+        if (strcmp(productos[i][0], codigo) == 0)return i;
+    }
+    cout << "No se encontro" << endl;
+    return NO_ENCONTRADO;
+}
+
+
