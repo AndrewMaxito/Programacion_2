@@ -28,8 +28,7 @@ void PruebaDeLecturaDePedidos(const char *nomArch, int *fechaPedidos, char ***co
         int ***dniCantPedidos);
 int buscarFecha(int *fechaPedidos, int buffFecha, int cantFechas);
 void aumentarEspacios(int ***&dniCantPedidos,int cantFechas ,int cap);
-void aumentarEspacios(char **&codigoPedidos,int cantPedFecha,int cap);
+void aumentarEspacios(char **&codigoPedidos,int &cantPedFecha,int cap);
 void aumentarEspacios(int **&dniCantPedidos,int cantPedFecha,int cap);
-int cantPedidosAcumulados(char **codigoPedidos);
 #endif /* ASIGNACIONDINAMICADEMEMORIAEXACTA_H */
 

@@ -138,7 +138,7 @@ void lecturaDePedidos(const char *nomArch, int *&fechaPedidos, char ***&codigoPe
     int buffFecha, buffDni, buffCantidad, dd, mm, aaaa;
     char *codigo, c;
     //
-    int cantFechas = 0, cap = 0, cantPedFecha,arrCapacidad[600];
+    int cantFechas = 0, cap = 0, arrCapacidad[800]{}, arrContCapacidad[800]{};
     fechaPedidos = nullptr;
     codigoPedidos = nullptr;
     dniCantPedidos = nullptr;
@@ -147,53 +147,43 @@ void lecturaDePedidos(const char *nomArch, int *&fechaPedidos, char ***&codigoPe
         codigo = leerCadenaExacta(arch, ',');
         if (codigo == nullptr) break;
         arch >> buffDni >> c >> buffCantidad >> c >> dd >> c >> mm >> c>>aaaa;
+        arch.get();
         buffFecha = aaaa * 10000 + mm * 100 + dd;
+
         //-----------------------------------------------
+        int posFecha = buscarFecha(fechaPedidos, buffFecha, cantFechas);
+
         if (cantFechas == cap) {
             cap += INCREMENTO;
             aumentarEspacios(fechaPedidos, cantFechas, cap);
             aumentarEspacios(codigoPedidos, cantFechas, cap);
             aumentarEspacios(dniCantPedidos, cantFechas, cap);
         }
-        int posFecha = buscarFecha(fechaPedidos, buffFecha, cantFechas);
-        //Agregar Fecha
-        //GUARADAR EN UN ARREGLO SU CAPACIDAD PARA CADA PEDIDO ESE MISMO ARREGLO FUNCIONARA PARA 
-        //dniCantPedidos
+        ////        Agregar Fecha
+        ////        GUARADAR EN UN ARREGLO SU CAPACIDAD PARA CADA PEDIDO ESE MISMO ARREGLO FUNCIONARA PARA 
+        ////        dniCantPedidos
         if (posFecha == NO_ENCONTRADO) {
-            arrCapacidad[cantFechas] =5;
-            codigoPedidos[cantFechas - 1] = nullptr;
-            dniCantPedidos[cantFechas - 1] = nullptr;
-            aumentarEspacios(codigoPedidos[cantFechas - 1], cantPedFecha, arrCapacidad[cantFechas]);//creo que cantPedFechas NO importa aca
-            aumentarEspacios(dniCantPedidos[cantFechas - 1], cantPedFecha, arrCapacidad[cantFechas]);
-//            codigoPedidos[cantFechas - 1][cantPedFecha - 1] = codigo;
-//            dniCantPedidos[cantFechas - 1][cantPedFecha - 1] = new int [2];
-//            dniCantPedidos[cantFechas - 1][cantPedFecha - 1][0] = buffDni;
-//            dniCantPedidos[cantFechas - 1][cantPedFecha - 1][1] = buffDni;
-//            fechaPedidos[cantFechas - 1] = buffFecha;
-            posFecha=cantFechas;
+            posFecha = cantFechas - 1;
+            fechaPedidos[posFecha] = buffFecha; // y si pongo la condicion arriba y de frente lo agrego ? 
+            codigoPedidos[posFecha] = nullptr;
+            dniCantPedidos[posFecha] = nullptr;
             cantFechas++;
         }
-        
-        cantPedFecha= cantPedidosAcumulados(codigoPedidos[posFecha]);
-        if (cantPedFecha == arrCapacidad[posFecha]) {
+
+        if (arrContCapacidad[posFecha] == arrCapacidad[posFecha]) {
             arrCapacidad[posFecha] += INCREMENTO;
-            aumentarEspacios(codigoPedidos[posFecha], cantPedFecha,  arrCapacidad[posFecha]);//tambien creo que cantFechas es por las
-            aumentarEspacios(dniCantPedidos[cantFechas - 1], cantPedFecha,  arrCapacidad[posFecha]);
+            aumentarEspacios(codigoPedidos[posFecha], arrContCapacidad[posFecha], arrCapacidad[posFecha]); //tambien creo que cantFechas es por las
+            aumentarEspacios(dniCantPedidos[posFecha], arrContCapacidad[posFecha], arrCapacidad[posFecha]);
         }
-        codigoPedidos[cantFechas - 1][cantPedFecha] = codigo;
-        dniCantPedidos[cantFechas - 1][cantPedFecha] = new int [2];
-        dniCantPedidos[cantFechas - 1][cantPedFecha][0] = buffDni;
-        dniCantPedidos[cantFechas - 1][cantPedFecha][1] = buffDni;
-        fechaPedidos[cantFechas - 1] = buffFecha;
-        arrCapacidad[posFecha]++;
+        int cantProductos = arrContCapacidad[posFecha] - 1;
+        codigoPedidos[posFecha][cantProductos] = codigo;
+        dniCantPedidos[posFecha][cantProductos] = new int [2];
+        dniCantPedidos[posFecha][cantProductos][0] = buffDni;
+        dniCantPedidos[posFecha][cantProductos][1] = buffDni;
+        arrContCapacidad[posFecha]++;
     }
 }
 //---------------------------------------------
-int cantPedidosAcumulados(char **codigoPedidos){
-    int i=0;
-    for (i;codigoPedidos;i++);
-    return i;
-}
 
 void aumentarEspacios(int **&dniCantPedidos, int cantPedFecha, int cap) {
     int **aux;
@@ -210,10 +200,12 @@ void aumentarEspacios(int **&dniCantPedidos, int cantPedFecha, int cap) {
 
 }
 
-void aumentarEspacios(char **&codigoPedidos, int cantPedFecha, int cap) {
+void aumentarEspacios(char **&codigoPedidos, int &cantPedFecha, int cap) {
     char **aux;
     if (codigoPedidos == nullptr) {
-        codigoPedidos = new char *[cap] {};
+        codigoPedidos = new char *[cap] {
+        };
+        cantPedFecha = 1;
     } else {
         aux = new char *[cap] {
         };
@@ -238,11 +230,30 @@ void aumentarEspacios(int ***&dniCantPedidos, int cantFechas, int cap) {
 }
 
 int buscarFecha(int *fechaPedidos, int buffFecha, int cantFechas) {
-    for (int i = 0; fechaPedidos[i] != 0 and fechaPedidos != nullptr; i++)
+    for (int i = 0; fechaPedidos != nullptr and fechaPedidos[i]; i++)
         if (fechaPedidos[i] == buffFecha) return i;
     return NO_ENCONTRADO;
 }
 
 void PruebaDeLecturaDePedidos(const char *nomArch, int *fechaPedidos, char ***codigoPedidos,
         int ***dniCantPedidos) {
+    ofstream arch(nomArch, ios::out);
+    if (not arch.is_open()) {
+        cout << "No se pudo abrir el archivo " << nomArch << endl;
+        exit(1);
+    }
+    int dd, mm, aaaa;
+
+
+    arch << setw(60) << "Registro de los Pedidos por Fecha:  " << endl;
+    for (int i = 0; fechaPedidos[i]; i++) {
+        aaaa = fechaPedidos[i] / 10000;
+        mm = (fechaPedidos[i] - aaaa*10000) / 100;
+        dd = fechaPedidos[i] % 100;
+        arch <<right<<setfill('0')<<setw(2)<<dd<<'/'<<setw(2)<<mm<<'/'<<aaaa<<setfill(' ') <<endl;
+        for (int j=0;codigoPedidos[i][j];j++){
+            arch<<left<<setw(10)<<codigoPedidos[i][j]<<" "<<dniCantPedidos[i][j][0]<<" "<<dniCantPedidos[i][j][1]<<endl;
+        }
+        arch<<endl;
+    }
 }
