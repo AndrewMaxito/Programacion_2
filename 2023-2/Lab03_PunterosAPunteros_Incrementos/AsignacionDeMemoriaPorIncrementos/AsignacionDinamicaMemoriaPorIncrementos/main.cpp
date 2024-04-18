@@ -12,19 +12,23 @@ using namespace std;
 #include "AsignacionDinamicaDeMemoriaExacta.h"
 
 int main(int argc, char** argv) {
-    char ***productos,***codigoPedidos;
-    int *stock,*fechaPedidos,***dniCantPedidos;
+    char ***productos, ***codigoPedidos;
+    int *stock, *fechaPedidos, ***dniCantPedidos;
     double *precio;
-    
+
     //Pregunta 1 
-    lecturaDeProductos("Productos.csv",productos,stock,precio);
-    PruebaDeLecturaDeProductos("ReporteDeProductos.txt",productos,stock,precio);
-    
+    lecturaDeProductos("Productos.csv", productos, stock, precio);
+    PruebaDeLecturaDeProductos("ReporteDeProductos.txt", productos, stock, precio);
+
     //Pregunta 2
-    lecturaDePedidos("Pedidos.csv",fechaPedidos,codigoPedidos,dniCantPedidos);
-    PruebaDeLecturaDePedidos("ReporteDePedidos.txt",fechaPedidos,codigoPedidos,dniCantPedidos);
-    
-    
+    lecturaDePedidos("Pedidos.csv", fechaPedidos, codigoPedidos, dniCantPedidos);
+    PruebaDeLecturaDePedidos("ReporteDePedidos.txt", fechaPedidos, codigoPedidos, dniCantPedidos);
+
+    //Pregunta 3
+    reporteDenvioDePedidos("ReporteDeEntregaPedidos.txt", productos, stock, precio, fechaPedidos,
+            codigoPedidos, dniCantPedidos);
+    PruebaDeLecturaDeProductos("ReporteDeProductosFinal.txt", productos, stock, precio);
+
 
 
 
