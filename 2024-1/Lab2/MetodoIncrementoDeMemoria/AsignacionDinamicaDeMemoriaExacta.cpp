@@ -129,8 +129,11 @@ void atencionDePedidos(const char *nomArch, char ***libros, int ** stock, int **
             if (posLibro == NO_ENCONTRADO)cout << codigoPed << endl;
             if (stock[posLibro][0] > 0) {
                 buffPedAten[cantLibros] = true;
-                stock[posLibro]--;
-            } else buffPedAten[cantLibros] = false;
+                stock[posLibro][0]--;
+            } else {
+                buffPedAten[cantLibros] = false;
+                stock[posLibro][0]++;
+            }
             cantLibros++;
         }
 
