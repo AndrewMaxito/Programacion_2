@@ -75,9 +75,9 @@ void imprimirUsuarios(void *usuarios) {
         exit(1);
     }
     void **registro = (void **) usuarios;
-    
-    arch<<setw(60)<<"Registro de Usuarios"<<endl;
-    arch<<"Codigo"<<setw(20)<<"Nombre"<<endl;
+
+    arch << setw(60) << "Registro de Usuarios" << endl;
+    arch << "Codigo" << setw(20) << "Nombre" << endl;
 
     for (int i = 0; registro[i]; i++) {
         arch << right << setfill('0') << setw(2) << i + 1 << setfill(' ') << ")";
@@ -92,3 +92,55 @@ void imprimeUsuario(void *registro, ofstream &arch) {
     char *nomre = (char *) (us[NOMBRE]);
     arch << left << setw(14) << *codigo << nomre << endl;
 }
+
+
+//------------------------------------------------------------------------------
+
+void leerPrestamos(void *usuarios){
+    ifstream arch("Perstamos.csv",ios::in);
+    if (not arch.is_open()){
+        cout<<"No se pudo abrir el archivo Perstamos.csv "<<endl;
+        exit (1);
+    }
+    
+    int *codigoUs,*fecha;
+    char *codigoLib;
+    char buffCodigos[7];
+    
+    //20067828,MT2583,27/04/2018
+    
+    while (true){
+        leePrestamo(arch,codigoUs,codigoLib,fecha);
+        if (arch.eof()) break;
+        cout<<codigoLib<<endl;
+        
+        
+    }
+    
+    
+    
+    
+}
+
+void leePrestamo(ifstream &arch,int *&codigoUs,char *&codigoLib,int *&fecha){
+    int cod,dd,mm,aa;
+    char c;
+    
+    arch >> cod;
+    if (arch.eof()) return;
+    arch.get();
+    codigoLib = leerCadenaExacta(arch,',');
+    arch>>dd>>c>>mm>>c>>aa;
+    codigoUs = new int ;
+    *codigoUs = cod;
+    fecha =new int;
+    *fecha=aa*10000+mm*100+dd;
+}
+
+
+void imprimirPrestamos(void *usuarios){
+    
+    
+    
+}
+

@@ -15,7 +15,11 @@ char *leerCadenaExacta(ifstream &arch,char deli);
 void imprimirUsuarios(void *usuarios);
 void imprimeUsuario(void *registro, ofstream &arch);
 
+//Pregunta 2
+void leerPrestamos(void *usuarios);
+void leePrestamo(ifstream &arch,int *&codigoUs,char *&codigoLib,int *&fecha);
 
+void imprimirPrestamos(void *usuarios);
 
 #endif /* PUNTEROSGENERICOS_H */
 

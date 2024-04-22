@@ -13,8 +13,15 @@ using namespace std;
 
 int main(int argc, char** argv) {
     void *usuarios;
+    //Pregunta 1
     leerUsurarios(usuarios);
     imprimirUsuarios(usuarios);
+
+    //Pregunta 2
+    leerPrestamos(usuarios);
+    imprimirPrestamos(usuarios);
+
+
     return 0;
 }
 
