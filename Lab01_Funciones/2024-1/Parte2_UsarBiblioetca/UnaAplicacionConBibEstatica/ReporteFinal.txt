@@ -1,0 +1,1002 @@
+                                Reporte de Libros 
+IIM5175   Diamantes y pedernales                                      Jose Maria Arguedas                    0     30.23
+YDK7687   El otonio del patriarca                                     Gabriel Garcia Marquez                60     82.02
+ZOY6470   El viejo y el mar                                           Hernest Hemingway                     23     68.01
+ETZ8565   Confesiones de una mascara                                  Yukio Mishima                         26    175.68
+LQL0880   Contra el fascismo                                          Umberto Eco                           34     71.63
+VFZ9435   El olor de la Edad Media                                    Javier Traite                         44     96.28
+SFZ1256   La Iliada                                                   Homero                                32    154.35
+EDQ0577   Las aventuras de Pinocho                                    Carlo Collodi                         26     31.54
+YJI3961   Cien anios de soledad                                       Gabriel Garcia Marquez                43     99.35
+VPN5351   El Amante                                                   Ana Maria Moix                        26    182.76
+PVS2464   Sapiens                                                     Yuval Noah Harari                     18    148.82
+DVL7760   Falco                                                       Arturo Perez-Reverte                  55     98.18
+QRH6838   Las cronicas de Narnia                                      C. S. Lewis                           40    162.37
+LDL2628   Harry Potter y el caliz de fuego (Harry Potter 4)           J.K. Rowling                           2    140.97
+SBU9053   Tierra arrasada                                             Alfredo Gonzalez Ruibal               33     53.71
+ZJM1292   El suenio del celta                                         Mario Vargas Llosa                    52     66.03
+CRA4157   El forastero misterioso                                     Mark Twain                            39    234.14
+RII8346   Las dos Dianas                                              Alejandro Dumas                       22     69.63
+JBR9372   El maestro de esgrima                                       Arturo Perez-Reverte                  58      1.94
+NEO9165   Emperador de Roma                                           Mary Beard                            64    234.34
+TBZ2657   Olalla                                                      Robert Louis Stevenson                 3     42.95
+IBP7411   Nunca                                                       Ken Follett                           39     68.15
+GPH1575   La gran aventura de los griegos                             Javier Negrete                         3     11.18
+XIU2628   Cabo Trafalgar                                              Arturo Perez-Reverte                  18     34.25
+DDT0017   Viaje al fin de la noche                                    Louis Ferdinand Celine                38    125.28
+ILG7766   Iliada                                                      Homero                                 6    296.63
+HGQ0131   Odisea                                                      Homero                                21     62.13
+HLB4548   Frankenstein o el moderno Prometeo                          Mary W. Shelley                       18    118.29
+SQB7146   Cronica de una muerte anunciada                             Gabriel Garcia Marquez                28     83.99
+VHK9148   Historia y cronologia del mundo                             Isaac Asimov                          63     14.07
+MVU0233   La conspiracioni                                            Dan Brown                             59    192.02
+KWL0415   1923                                                        Roberto Villa Garcia                  20     78.57
+WPU8819   Tristam Shandy                                              Laurence Sterne                       43     59.08
+JTX5687   Veinte mil leguas de viaje submarino                        Julio Verne                           29     72.66
+HCT8192   Diario                                                      Ana FranK                             62      99.1
+OMN0252   Los hermanos Karamazov                                      Fiodor Dostoyevski                    42    241.73
+CKC4095   El Gran Gatsby                                              F. Scott Fitzgerald                   22      32.4
+JLQ6546   El retorno del Rey                                          J.R.R.Tolkien                         34     48.76
+MSW8176   Todo se desmorona                                           Chinua Achebe                         23     37.03
+TDY0497   La chica del tren                                           Paula Hawkins                         40     62.79
+NBL8415   Espania con honra                                           Daniel Aquillue                       47       252
+IMC3155   Los pilares de la tierra                                    Ken Follett                           34    182.44
+FWK6327   El doble                                                    Fiodor Dostoyevski                    23    109.19
+GQC1814   Apocalipticos e integrados                                  Umberto Eco                           25      1.08
+PRD1648   Relato de un naufrago                                       Gabriel Garcia Marquez                10     71.86
+SBF7018   El handicap de la vida                                      Rudyard Kipling                        2     71.69
+LVP3355   Las aventuras de Sherlock Holmes                            Arthur Conan Doyle                    35      50.4
+FBO8724   El pendulo de Foucault                                      Umberto Eco                           63    104.07
+WCZ0845   El cementerio de Praga                                      Umberto Eco                            3       154
+WOF6634   El problema final                                           Arturo Perez-Reverte                  62    174.46
+CUV7849   Ficciones                                                   Jorge Luis Borges                     50    255.52
+VMW6915   Travesuras de la ninia mala                                 Mario Vargas Llosa                     8    292.26
+MBQ9495   Tormenta de espadas                                         George R.R.Martin                     24    202.58
+LQA8555   Rimas y leyendas                                            Gustavo Adolfo Becquer                13    248.74
+IMK4892   La tabla de Flandes                                         Arturo Perez-Reverte                  18    272.34
+QCA9584   Dr. Jekyll y Mr. Hyde                                       Robert Louis Stevenson                25    168.95
+XJT3661   Las aventuras de Tom Sawye                                  Mark Twain                            64     36.07
+THT4126   Harry Potter y las reliquias de la muerte (Harry Potter 7)  J. K. Rowling                         15    195.13
+PZP7176   La caida de los gigantes                                    Ken Follett                           26     15.93
+UQL8643   Dracula                                                     Bram Stoker                           22     15.12
+RLQ7170   El tango de la guardia vieja                                Arturo Perez-Reverte                  63    114.29
+KTA8754   Ulises                                                      James Joyce                           20     37.22
+TOJ1764   Ensayo sobre la ceguera                                     Jose Saramago                         38    154.27
+GWE4133   El gato negro y otros cuentos                               Edgar Allan Poe                       63    298.03
+ZPD6557   El ruido y la furia                                         William Faulkner                       9    267.59
+IUG2294   El proceso                                                  Franz Kafka                           15     129.1
+WGA2754   El club Dumas                                               Arturo Perez-Reverte                   7    124.58
+YJE2497   Progreso del peregrino                                      John Bunyan                           65     88.79
+XCC4070   El italiano                                                 Arturo Perez-Reverte                  14    111.54
+OBD2849   El invierno del mundo                                       Ken Follett                           50     76.39
+UCJ9882   El reino de este mundo                                      Alejo Carpentier                      18     54.97
+QVU3526   Vidas intrepidas                                            Julio Albi de la Cuesta               45     49.89
+VTY5195   Un asunto de honor                                          Arturo Perez-Reverte                  48    184.37
+FKK6524   Los renglones torcidos de Dios                              Torcuato Luca de Tena                 36     55.95
+KPE7420   Jane Eyre                                                   Charlotte Brontë                      30    288.51
+MWB2923   Mudlarking                                                  Lara Maiklem                          54    195.24
+ISY5671   Harry Potter y la piedra filosofal (Harry Potter 1)         J. K. Rowling                         23      33.9
+NBE1339   Palmeras en la nieve                                        Luz Gabas                             20    122.65
+JHP0390   El conde de Montecristo                                     Alexandre Dumas                        5    133.79
+OWU1533   Cuatro principes                                            John Julius Norwich                   30    213.86
+SFR1226   Ana la de las tejas verdes                                  Lucy Maud Montgomery                   1    193.39
+HRT0664   Los funerales de la Mama Grande                             Gabriel Garcia Marquez                41     76.33
+HPP3360   El pintor de batallas                                       Arturo Perez-Reverte                  49     12.72
+DND9446   Lo que el viento se llevo                                   Margaret Mitchell                     58    129.25
+LJD9991   Baudolino                                                   Umberto Eco                            5    197.87
+XIU6076   Rebelion en la granja                                       George Orwell                         38    232.77
+PWX7633   La tia Julia y el escribidor                                Mario Vargas Llosa                    40     278.8
+UXZ2187   Los 7 habitos de la gente altamente efectiva                Stephen R. Covey                      32     114.5
+UEJ1235   Grandes esperanzas                                          Charles Dickens                       62    129.07
+DDQ0721   En busca del tiempo perdido                                 Marcel Proust                         48    250.24
+HWM4049   Romper el circulo                                           Colleen Hoover                        59    201.21
+EWI3090   La seniora Dalloway                                         Virginia Woolf                        16     46.34
+JZC7527   El tambor de hojalata                                       Gunter Grass                           0    147.44
+WYE2119   El asedio                                                   Arturo Perez-Reverte                  43     90.66
+YKQ9278   Alicia en el pais de las maravillas                         Lewis Carroll                         22     94.02
+ZNF2241   El extranio caso del Dr. Jekyll y Mr. Hyde                  Robert Louis Stevenson                47    187.19
+CTW5846   El medievo cristiano                                        Mario Merlino                          0    213.41
+FWP8469   Justine o los infortunios                                   Charles Dickens                       30       260
+CRY6839   Ricardo III                                                 William Shakespeare                   38     159.1
+WMN3648   Pasaje a la India                                           E. M. Forster                          3     61.94
+QBL9575   Los miserables                                              Victor Hugo                           51    287.51
+VOI0019   El evangelio según Jesucristo                               Jose Saramago                         51      2.32
+TMR5068   Los tres mosqueteros                                        Alejandro Dumas                       51    254.78
+RWW7975   El nombre de la rosa                                        Umberto Eco                           43    251.27
+LJE6687   El codigo Da Vinci                                          Dan Brown                             33    151.29
+PPI9259   Revolucion                                                  Arturo Perez-Reverte                  53     89.88
+ZYF6683   Harry Potter y la Orden del Fenix ( Harry Potter 5)         J. K. Rowling                         25    280.76
+GKG6581   Hombres buenos                                              Arturo Perez-Reverte                  43    100.33
+WWT1581   La piel del tambor                                          Arturo Perez-Reverte                  54     15.88
+CMP1150   Don Quijote de la Mancha                                    Miguel de Cervantes                   25      19.5
+CPE5718   Paris era una fiesta                                        Hernest Hemingway                     49    254.78
+SHF2360   Un dia de colera                                            Arturo Perez-Reverte                  10     19.44
+ETV5056   Moby Dick                                                   Herman Melville                       31    199.59
+USE5598   Fortaleza digitali                                          Dan Brown                             36    212.47
+TVR7016   El corazon de las tinieblas                                 Joseph Conrad                         31    196.32
+BSX2922   Una historia de Espania                                     Arturo Perez-Reverte                   0    146.19
+GXB5722   Cumbres borrascosas                                         Emily Brontë                          45    141.69
+ZLE2920   Historia de la Edad Media                                   Indro Montanelli                      26    208.38
+MNL3677   El Hobbit                                                   J.R.R. Tolkien                        39    205.14
+ZAL2738   1984                                                        George Orwell                         33     107.8
+PQZ1316   La Eneida                                                   Virgilio                              43    110.29
+DDU0764   Dioses tumbas y sabios                                      C. W. Ceram                            6      39.2
+EEJ4830   El Principito                                               Antoine de Saint-Exupery              50     82.02
+DPZ8059   El hombre que pudo reinar                                   Rudyard Kipling                       21    159.18
+JJV7549   Los hombres que no amaban a las mujeres                     Stieg Larsson                         20    110.16
+JXK3142   En el camino                                                Jack Kerouac                          46    104.88
+USM9579   El perfume                                                  Patrick Suskind                       21     121.6
+JGG5049   El eterno marido                                            Fiodor Dostoyevski                    51    138.03
+MIK5358   La transformacion del mundo                                 Jürgen Osterhammel                    30     41.61
+BDK4183   La isla del tesoro                                          Robert Louis Stevenson                28     49.99
+ECT0289   Juego de tronos                                             George R.R.Martin                      8    223.26
+DVR5984   Mil soles esplendidos                                       Khaled Hosseini                       22    145.32
+EBE0042   Capitanes intrepidos                                        Rudyard Kipling                       39    237.89
+CXW5879   Los barcos se pierden en tierra                             Arturo Perez-Reverte                  49     46.15
+GOG7446   El guardian entre el centeno                                J. D. Salinger                        56    230.55
+QYH7021   Historia del siglo XX: 1914-1991                            Eric Hobsbawm                          1     26.46
+KCI5219   El Maestro y Margarita                                      Mijail Bulgakov                       21     251.7
+FMX8255   Las aventuras de Huckleberry Finn                           Mark Twain                            53    137.78
+ZQY9966   El suenio del tio                                           Fiodor Dostoyevski                    28    235.88
+DXP8640   El retrato de Dorian Gray                                   Oscar Wilde                           62     32.41
+LRV5687   La guerra del fin del mundo                                 Mario Vargas Llosa                    63      7.82
+EBT7258   Linea de fuego                                              Arturo Perez-Reverte                   2    201.06
+ELC8965   Las aventuras de Rocambole                                  Ponson Du Terrail                     37     13.46
+ULM8751   La sumisa                                                   Fiodor Dostoyevski                     7    131.62
+PGK5617   El Rey Lear                                                 William Shakespeare                   36     31.72
+QFG6515   El libro de la selva                                        Rudyard Kipling                       60     53.38
+QVX9089   Madame Bovary                                               Gustave Flaubert                      27     86.76
+QMI4747   La isla de los amores infinitos                             Daina Chaviano                        25    189.13
+SMW0186   La sombra del viento                                        Carlos Ruiz Zafon                     63    144.22
+HSE3213   Por quien doblan las campanas                               Hernest Hemingway                     19     72.12
+RZX8790   El senior de las moscas                                     William Golding                       20    197.01
+XMT1768   Los diarios de Adan y Eva                                   Mark Twain                            21    253.82
+HGN9910   La ciudad y los perros                                      Mario Vargas Llosa                    60     17.11
+JNC0786   Mi isla                                                     Elisabet Benavent                     45    291.57
+HHR5161   El francotirador paciente                                   Arturo Perez-Reverte                  22    232.45
+FNM6936   Divina comedia                                              Dante Alighieri                       48    279.18
+HVZ1228   El húsar                                                    Arturo Perez-Reverte                  42    205.18
+MKB4184   Napoleon                                                    Alejandro Dumas                       65    273.55
+KBF4088   Harry Potter y el prisionero de Azkaban (Harry Potter 3)    J.K. Rowling                          23    162.02
+ZQD4253   Harry Potter y el misterio del principe ( Harry Potter 6)   J. K. Rowling                         63    113.13
+PHL4155   El idiota                                                   Fiodor Dostoyevski                    19    194.39
+EYV0597   Cuentos de la selva                                         Horacio Quiroga                        2    250.81
+AKU9740   Conversacion en La Catedral                                 Mario Vargas Llosa                    30    230.59
+ACM9578   Amadis de gaula                                             Garci Rodriguez Montalvo              33     12.07
+OCI8959   David Copperfield                                           Charles Dickens                       63    140.94
+EJE8138   Yawar fiesta                                                Jose Maria Arguedas                   14    294.05
+WHU1288   La hija italiana                                            Soraya Lane                           13     55.12
+ICU6090   La fiesta del chivo                                         Mario Vargas Llosa                    13    104.59
+BUC5125   El faro de Stalingrado                                      Iain MacGregor                        25    101.02
+BUY4915   La sombra del aguila                                        Arturo Perez-Reverte                  21     72.44
+USK1312   Un mundo sin fin                                            Ken Follett                           50    102.92
+VFO4193   La catedral del mar                                         Ildefonso Falcones                    20     193.6
+OWO8918   Origen                                                      Dan Brown                             60    125.45
+YZV6954   Corazon de las tinieblas                                    Joseph Conrad                         27     61.22
+CLG5566   Pantaleon y las visitadoras                                 Mario Vargas Llosa                     0     79.21
+IUI3314   El coronel no tiene quien le escriba                        Gabriel Garcia Marquez                31    128.38
+EFD3949   La divina comedia                                           Dante Alighieri                       26      9.73
+FVV9246   Matar a un ruisenior                                        Harper Lee                            54     80.88
+SPM4763   Eva                                                         Arturo Perez-Reverte                  17     83.27
+BHD6079   Zorba el griego                                             Nikos Kazantzakis                      9     86.71
+RYI5447   El corazon es un cazador solitario                          Carson Mccullers                      13    108.89
+BUB3833   Otelo                                                       William Shakespeare                   11    282.62
+EUO8195   El jardin del Eden                                          Hernest Hemingway                     11      34.5
+KSX7995   El simbolo perdidoi                                         Dan Brown                              6    157.98
+MTZ2227   Hamlet                                                      William Shakespeare                   42    292.95
+JSM8271   La Odisea                                                   Homero                                50      29.6
+KVL6246   La edad media - barbaros - cristianos y musulmanes          Umberto Eco                           17    265.01
+QMJ4188   Emma                                                        Jane Austen                           20       9.1
+QKH2262   Fiesta                                                      Hernest Hemingway                     21     83.83
+HXB2949   El medico                                                   Noah Gordon                           32     192.3
+OBH4691   Crimen y castigo                                            Fiodor Dostoyevski                    61    101.85
+IPE3429   Sidi                                                        Arturo Perez-Reverte                  48     69.56
+ILA4795   La ladrona de libros                                        Markus ZusaK                          38     66.39
+EFQ0297   Trampa 22                                                   Joseph Heller                         31    199.81
+BRG4234   La telarania de Carlota                                     E. B. White                           15    284.83
+EZP0333   La Reina del Sur                                            Arturo Perez-Reverte                  58     96.07
+MBB0685   El capitan Alatriste                                        Arturo Perez-Reverte                  24    221.97
+CST1133   Inferno                                                     Dan Brown                              8      31.4
+RNG2321   El Aleph                                                    Jorge Luis Borges                     34    238.45
+RSK1164   El amor en los tiempos del colera                           Gabriel Garcia Marquez                21     91.91
+WYS2674   Secuestrado                                                 Robert Louis Stevenson                54     71.22
+CRR5443   Un mundo feliz                                              Aldous Huxley                         26      35.5
+JEN0751   Ana Karenina                                                Leon Tolstoi                          50    146.88
+IGT8523   Una columna de fuego                                        Ken Follett                           20     46.11
+FYV9055   Macbeth                                                     William Shakespeare                   40    147.76
+LGB2311   Decameron                                                   Giovanni Boccaccio                     7     271.1
+MEH2993   Hijos de un tiempo perdido                                  Jose Maria Bermúdez de Castro          4    125.36
+CJN4376   Harry Potter y la camara secreta (Harry Potter 2)           J. K. Rowling                          6    151.91
+ION3794   Crepúsculo                                                  Stephenie Meyer                       46     25.97
+HDA2333   Lituma en los Andes                                         Mario Vargas Llosa                    51    152.96
+CKR6798   El lobo estepario                                           Hermann Hesse                         48    149.43
+GDA4236   Gente normal                                                Sally Rooney                          61    115.31
+BAP2859   El túnel                                                    Ernesto Sabato                         5       132
+EHX6253   La isla de las tormentas                                    Ken Follett                            6    266.04
+OUU5470   La carta esferica                                           Arturo Perez-Reverte                  25    265.73
+PQB0775   El diablo de la botella y otros cuentos                     Robert Louis Stevenson                27    177.59
+DEF7625   Las uvas de la ira                                          John SteinbecK                        19    278.27
+UDS2730   Los Nibelungos                                              Anonimo                               21    160.51
+DTH6788   Los perros duros no bailan                                  Arturo Perez-Reverte                  20         5
+KLV1872   Orgullo y prejuicio                                         Jane Austen                           52    185.25
+BUT4998   Lolita                                                      Vladimir Nabokov                      27    246.78
+XBC5847   Tiempos recios                                              Mario Vargas Llosa                    32    268.13
+AZL1098   El extranjero                                               Albert Camus                          65      28.9
+BZY0235   Fausto                                                      Johann Wolfgang Von Goethe            17     55.75
+QQQ4712   Nuestra Seniora de Paris                                    Victor Hugo                           57    249.38
+BTX3816   El jugador                                                  Fiodor Dostoyevski                    51    232.71
+MLC7198   Los rios profundos                                          Jose Maria Arguedas                    6    141.87
+JZU0977   El alquimista                                               Paulo Coelho                          61    179.82
+AGQ7769   La Flecha Negra                                             Robert Louis Stevenson                49     99.67
+BXE0974   Los viajes de Gulliver                                      Jonathan Swift                        61     44.79
+UFK9792   El psicoanalista                                            John Katzenbach                       39     60.52
+XRL3393   Le dedico mi silencio                                       Mario Vargas Llosa                    45    138.16
+GUN8655   Angeles y demoniosi                                         Dan Brown                             51     76.44
+NGQ6935   La casa de los espiritus                                    Isabel Allende                        57    104.53
+PWB4941   La montania magica                                          Thomas Mann                           63     22.15
+NEW1762   Territorio comanche                                         Arturo Perez-Reverte                  19    296.53
+QHZ8547   Adios a las armas                                           Hernest Hemingway                     49    246.91
+PCS8992   Y no quedo ninguno                                          Agatha Christie                       30     80.07
+VFI8064   A sangre fria                                               Truman Capote                         23    254.69
+XTM9385   El mundo                                                    Simon Sebag Montefiore                63    155.79
+VDL9379   Los juegos del hambre                                       Suzanne Collins                       33    259.55
+IFL0150   Romeo y Julieta                                             William Shakespeare                   60     35.64
+JZQ8143   Suenios de robot                                            Isaac Asimov                          28     60.51
+SXT1015   Mientras agonizo                                            William Faulkner                       1     57.87
+KGO1734   Una historia del mundo                                      Andrew Marr                           12      47.9
+SMI7078   Los cachorros                                               Mario Vargas Llosa                    26    148.98
+RAO4129   Stalingrado                                                 Jonathan Trigg                        17     80.13
+VYG3594   Los demonios                                                Fiodor Dostoyevski                     2    104.74
+HLC2748   El senior de los anillos (Trilogia)                         J.R.R.Tolkien                         30     85.46
+GJM4671   Origenes                                                    Lewis Dartnell                        36     50.78
+VYK6352   Armas germenes y acero                                      Jared Diamond                         34     65.26
+VSG3432   Bajo bandera negra                                          David Cordingly                        5    220.82
+OQK1590   Cometas en el cielo                                         Khaled Hosseini                        3    100.56
+JXC1015   Robinson Crusoe                                             Daniel Defoe                          58     58.13
+TAB4639   El color que cayo del cielo                                 H. P. Lovecraft                       41     26.91
+YXF2137   En agosto nos vemos                                         Gabriel Garcia Marquez                35    106.78
+SIR3963   Memorias de una geisha                                      Arthur Golden                         34    226.47
+ALH8812   Guerra y Paz                                                Leon Tolstoi                          48     296.1
+UCA0857   SPQR: una historia de la antigua Roma                       Mary Beard                             9      8.77
+KLO8691   Catedral                                                    Raymond Carver                        25    134.66
+HPM0950   Fahrenheit 451                                              Ray Bradbury                          41    103.01
+JOF6762   Ojos azules                                                 Arturo Perez-Reverte                  43      1.24
+DEK2757   En llamas                                                   Suzanne Collins                        0     61.18
+RRE8138   Trilogia de la Fundacion                                    Isaac Asimov                          44    138.92
+JKE9650   La metamorfosis                                             Franz Kafka                           44    217.54
+BZX4462   Culpa mia                                                   Mercedes Ron                          37    174.37
+NFP3266   Sabotaje                                                    Arturo Perez-Reverte                   2     29.28
+
+
+                              Reporte de Clientes 
+54393647       Reyes Tang Edward 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0013          UCJ9882          54.97
+          0013          SPM4763          83.27
+          0086          BSX2922         146.19
+          0086          IBP7411          68.15
+          0086          OWU1533         213.86
+TOTAL A PAGAR:   1396.66
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+67066631       Arca Amezquita Edric Ronald
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0035          JZC7527         147.44
+          0035          CST1133           31.4
+          0035          KSX7995         157.98
+          0035          DVR5984         145.32
+TOTAL A PAGAR:   1145.24
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+32231860       Cerna Hijar Jose Rolando
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0019          DDQ0721         250.24
+          0019          RWW7975         251.27
+TOTAL A PAGAR:   751.75
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+14500753       Delgado Gonzales Guillermo Alfonso
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0066          ALH8812          296.1
+          0066          JLQ6546          48.76
+          0066          OQK1590         100.56
+          0116          JLQ6546          48.76
+          0116          BUC5125         101.02
+          0116          PQZ1316         110.29
+          0116          ILA4795          66.39
+          0120          LDL2628         140.97
+TOTAL A PAGAR:   4565.98
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+26916299       Chung Lee Alvaro 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+TOTAL A PAGAR:   0
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+87804471       Diaz Antezano Magali Silvana
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0042          JXK3142         104.88
+          0042          ZPD6557         267.59
+          0051          ELC8965          13.46
+          0051          ZOY6470          68.01
+          0064          RNG2321         238.45
+          0064          ICU6090         104.59
+          0064          CXW5879          46.15
+          0087          VPN5351         182.76
+          0087          EEJ4830          82.02
+TOTAL A PAGAR:   5783.52
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+81462164       Fernandez Ortega Elizabeth Elizabeth
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0059          EZP0333          96.07
+          0059          CLG5566          79.21
+          0065          CMP1150           19.5
+          0095          ULM8751         131.62
+          0095          TBZ2657          42.95
+          0095          TOJ1764         154.27
+          0095          EBT7258         201.06
+          0110          KVL6246         265.01
+TOTAL A PAGAR:   3399.87
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+37500242       Pinto Calixto Shirley 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+TOTAL A PAGAR:   0
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+45834351       Santisteban Meza Rosa 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0026          VFZ9435          96.28
+          0026          BZY0235          55.75
+          0026          TVR7016         196.32
+TOTAL A PAGAR:   596.66
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+35030611       Cabrera Luna Shirley Isabel
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0053          HRT0664          76.33
+          0075          ZLE2920         208.38
+          0075          BUT4998         246.78
+TOTAL A PAGAR:   892.53
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+81082011       Shirakawa Ortega Angel 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0052          JXK3142         104.88
+          0052          CXW5879          46.15
+          0052          KBF4088         162.02
+          0052          CRR5443           35.5
+          0090          QRH6838         162.37
+          0124          HPP3360          12.72
+          0124          UQL8643          15.12
+          0124          CRY6839          159.1
+TOTAL A PAGAR:   3188.69
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+92240876       Mejia Diaz Blanca Milagros
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0022          BTX3816         232.71
+          0022          DEK2757          61.18
+          0041          SMI7078         148.98
+          0041          RZX8790         197.01
+          0041          EWI3090          46.34
+          0041          OCI8959         140.94
+          0079          KWL0415          78.57
+          0079          VMW6915         292.26
+          0079          PPI9259          89.88
+          0121          QCA9584         168.95
+          0121          VSG3432         220.82
+          0121          MNL3677         205.14
+TOTAL A PAGAR:   11531.6
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+45181396       Cerna Durand Martin 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0072          SFZ1256         154.35
+          0072          BZY0235          55.75
+          0072          XCC4070         111.54
+          0098          KLO8691         134.66
+          0098          UCJ9882          54.97
+TOTAL A PAGAR:   1653.66
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+45002711       Landeo Sueldo Adolfo 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0043          DPZ8059         159.18
+          0043          AKU9740         230.59
+          0043          KWL0415          78.57
+TOTAL A PAGAR:   1017.29
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+96056368       Raffo Chung Adria Gloria
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0032          GOG7446         230.55
+          0032          JXK3142         104.88
+          0032          HHR5161         232.45
+TOTAL A PAGAR:   1133.86
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+38724322       Inga Flores Cesar Adolfo
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0017          RSK1164          91.91
+          0017          HGN9910          17.11
+          0017          HWM4049         201.21
+          0113          WCZ0845            154
+          0113          CKC4095           32.4
+          0113          ZYF6683         280.76
+          0113          TMR5068         254.78
+TOTAL A PAGAR:   3281.58
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+60740809       Lozada Yino Martha 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0009          XTM9385         155.79
+          0009          VSG3432         220.82
+          0009          CTW5846         213.41
+          0083          DDU0764           39.2
+          0083          PPI9259          89.88
+          0083          IFL0150          35.64
+TOTAL A PAGAR:   3225.48
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+49516360       Mendoza Egusquiza Rosario 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0068          PQZ1316         110.29
+          0101          NBL8415            252
+          0101          LQA8555         248.74
+          0101          VFZ9435          96.28
+          0118          EBT7258         201.06
+          0118          YKQ9278          94.02
+          0118          WCZ0845            154
+TOTAL A PAGAR:   4858.07
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+34460612       Morales Valverde Ines Martha
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0001          CRY6839          159.1
+          0001          VYG3594         104.74
+          0003          PQZ1316         110.29
+          0003          XCC4070         111.54
+          0058          SFR1226         193.39
+          0058          GUN8655          76.44
+          0096          CKC4095           32.4
+          0096          ZLE2920         208.38
+TOTAL A PAGAR:   4501.48
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+11750801       Raffo Arias Surami Annie
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0018          KGO1734           47.9
+          0018          CRY6839          159.1
+          0018          HCT8192           99.1
+          0018          VDL9379         259.55
+          0045          WYE2119          90.66
+          0070          KLV1872         185.25
+          0125          GQC1814           1.08
+          0125          ZQY9966         235.88
+          0125          VOI0019           2.32
+          0125          MVU0233         192.02
+TOTAL A PAGAR:   6899.38
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+85870289       Paredes Patino Christian 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0056          HPP3360          12.72
+          0122          SFZ1256         154.35
+          0122          FWK6327         109.19
+TOTAL A PAGAR:   456.05
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+20449598       Velasquez Huayanay Edgard Henry
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0036          NEW1762         296.53
+          0036          WMN3648          61.94
+          0036          MLC7198         141.87
+TOTAL A PAGAR:   1155.34
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+72832218       Vega Garcia Janet Rebeca
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0010          HWM4049         201.21
+          0010          MNL3677         205.14
+          0010          VMW6915         292.26
+          0046          SQB7146          83.99
+          0046          IMK4892         272.34
+          0103          KWL0415          78.57
+          0103          BDK4183          49.99
+          0103          JSM8271           29.6
+TOTAL A PAGAR:   6673.82
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+66747161       Vasquez Paz Alex Martin
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0024          KGO1734           47.9
+          0024          EEJ4830          82.02
+          0024          WYE2119          90.66
+          0074          RII8346          69.63
+          0074          CRR5443           35.5
+TOTAL A PAGAR:   1014.32
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+88080249       Coronel Chumpitaz Heli 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0055          NEO9165         234.34
+          0055          PZP7176          15.93
+          0055          MEH2993         125.36
+          0055          MBB0685         221.97
+          0089          SQB7146          83.99
+          0089          NFP3266          29.28
+          0089          TAB4639          26.91
+TOTAL A PAGAR:   3588.08
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+61212473       Forzani Caro Alonso 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0054          JGG5049         138.03
+TOTAL A PAGAR:   138.03
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+21344013       Aquino Toro Valentina Rocio
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0031          PCS8992          80.07
+          0031          UXZ2187          114.5
+          0031          BXE0974          44.79
+          0031          JEN0751         146.88
+          0040          ZQD4253         113.13
+          0040          USM9579          121.6
+          0040          CKR6798         149.43
+          0040          IMC3155         182.44
+          0073          QQQ4712         249.38
+          0073          IMK4892         272.34
+          0073          PQZ1316         110.29
+          0073          VFZ9435          96.28
+TOTAL A PAGAR:   9686.58
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+76693511       Laura Wong Melvin Henrry
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0115          BUY4915          72.44
+          0115          HGN9910          17.11
+          0115          UDS2730         160.51
+TOTAL A PAGAR:   412.05
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+79743481       Salas Aguero Daniel 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0067          EJE8138         294.05
+TOTAL A PAGAR:   294.05
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+61039260       Cerna Pairazaman Fiorella Margot
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+TOTAL A PAGAR:   0
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+14142586       Piscoya Bravo Cesar Bruno
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+TOTAL A PAGAR:   0
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+36699613       Mejia De La Haza Francisco Edgar
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0007          SMW0186         144.22
+          0007          SBU9053          53.71
+TOTAL A PAGAR:   342.15
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+14268463       Diaz Correa Irma Virginia
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0025          FYV9055         147.76
+          0025          VFI8064         254.69
+          0048          BZY0235          55.75
+          0048          PQZ1316         110.29
+          0048          IFL0150          35.64
+          0048          JNC0786         291.57
+          0088          IFL0150          35.64
+          0088          VMW6915         292.26
+          0088          EHX6253         266.04
+          0088          XBC5847         268.13
+          0093          ETZ8565         175.68
+          0127          BHD6079          86.71
+          0127          JLQ6546          48.76
+          0127          AGQ7769          99.67
+TOTAL A PAGAR:   16670.2
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+33958767       Perez Farfan Richard Sandro
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0034          CRY6839          159.1
+          0034          RZX8790         197.01
+          0044          LRV5687           7.82
+          0044          XIU6076         232.77
+          0044          JZC7527         147.44
+TOTAL A PAGAR:   2219.98
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+86898639       Pasquel Quio Surami Janet
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0020          XIU2628          34.25
+          0020          UEJ1235         129.07
+          0033          DEK2757          61.18
+          0033          FMX8255         137.78
+          0033          CJN4376         151.91
+TOTAL A PAGAR:   1298.54
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+20610190       Auris Zimic Javier Daniel
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+TOTAL A PAGAR:   100.33
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+          0050          JZC7527         100.33
+
+65071478       Arroyo Gordillo Maria Heli
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0016          RWW7975         251.27
+          0023          FYV9055         147.76
+          0023          QRH6838         162.37
+          0069          IPE3429          69.56
+          0069          MWB2923         195.24
+          0111          WOF6634         174.46
+          0111          WPU8819          59.08
+TOTAL A PAGAR:   4729.26
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+63602514       Shirakawa Miranda Madeleine 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0081          KPE7420         288.51
+          0081          DVR5984         145.32
+          0081          QKH2262          83.83
+TOTAL A PAGAR:   1240
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+51235238       Prado Falcon Edgar Richard
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0008          ZAL2738          107.8
+          0123          JZQ8143          60.51
+          0123          UXZ2187          114.5
+          0123          VFZ9435          96.28
+TOTAL A PAGAR:   938.01
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+37751890       Romero Palomares Gloria Tatiana
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0005          KWL0415          78.57
+          0005          IMK4892         272.34
+          0030          HGQ0131          62.13
+          0030          RLQ7170         114.29
+          0030          VMW6915         292.26
+          0063          CRY6839          159.1
+          0063          WGA2754         124.58
+          0063          FNM6936         279.18
+          0076          JBR9372           1.94
+          0076          FWP8469            260
+          0076          WPU8819          59.08
+          0076          CKC4095           32.4
+          0091          BTX3816         232.71
+          0091          NEW1762         296.53
+          0092          HPM0950         103.01
+          0092          NBL8415            252
+          0092          QVX9089          86.76
+          0106          HPM0950         103.01
+TOTAL A PAGAR:   26860.7
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+46582367       Justino Forzani Ericka Victoria
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0004          IIM5175          30.23
+          0004          MBQ9495         202.58
+          0078          EBT7258         201.06
+          0078          QYH7021          26.46
+TOTAL A PAGAR:   1157.24
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+27109544       Henriquez Espino Beatriz 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0015          WWT1581          15.88
+          0015          OBD2849          76.39
+          0015          CMP1150           19.5
+          0015          HSE3213          72.12
+          0060          FNM6936         279.18
+          0060          ECT0289         223.26
+          0060          WWT1581          15.88
+TOTAL A PAGAR:   2255.42
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+17750908       Chumpitaz Iberos Ronal 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0027          QBL9575         287.51
+          0027          DDQ0721         250.24
+          0027          CKC4095           32.4
+          0027          XJT3661          36.07
+          0109          IUG2294          129.1
+          0109          XIU2628          34.25
+          0109          PQB0775         177.59
+          0119          USE5598         212.47
+          0119          ZYF6683         280.76
+          0119          RYI5447         108.89
+TOTAL A PAGAR:   8602.98
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+66152145       Hernandez Barrios Emilio 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+TOTAL A PAGAR:   0
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+42302422       Maldonado Ramirez Silvana 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0002          WPU8819          59.08
+          0002          CTW5846         213.41
+          0028          YZV6954          61.22
+          0028          QKH2262          83.83
+          0097          TAB4639          26.91
+          0097          RWW7975         251.27
+          0097          ZOY6470          68.01
+          0097          KTA8754          37.22
+          0108          QBL9575         287.51
+          0108          WHU1288          55.12
+          0108          RZX8790         197.01
+          0108          JZQ8143          60.51
+TOTAL A PAGAR:   8761.4
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+37328103       Palomares Vera Henrry Humberto
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0071          EZP0333          96.07
+          0071          YJI3961          99.35
+          0102          MBQ9495         202.58
+          0102          JXK3142         104.88
+          0117          CST1133           31.4
+          0117          LJD9991         197.87
+          0117          OBH4691         101.85
+          0117          KTA8754          37.22
+TOTAL A PAGAR:   4164.02
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+48053960       Corrales Tsukazan Irma Lourdes
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0126          VFZ9435          96.28
+          0126          SQB7146          83.99
+          0126          YZV6954          61.22
+TOTAL A PAGAR:   518.04
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+83265244       Wong Martel Madeleine 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0057          JZU0977         179.82
+          0057          PQB0775         177.59
+          0057          WWT1581          15.88
+          0057          EJE8138         294.05
+          0080          BXE0974          44.79
+          0080          ALH8812          296.1
+          0104          PZP7176          15.93
+          0104          HVZ1228         205.18
+          0104          RSK1164          91.91
+          0104          LJE6687         151.29
+TOTAL A PAGAR:   8345.51
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+50860318       Salazar Corrales Lorena Irma
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0114          UDS2730         160.51
+TOTAL A PAGAR:   160.51
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+87570336       Pairazaman Alamo Moises Miguel
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+TOTAL A PAGAR:   0
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+47659552       Prado Vergel Carlos Julian
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0011          QMI4747         189.13
+          0011          IUI3314         128.38
+          0011          NFP3266          29.28
+          0011          QRH6838         162.37
+          0021          XIU6076         232.77
+          0021          VFI8064         254.69
+          0039          YJI3961          99.35
+          0039          NBL8415            252
+          0082          NGQ6935         104.53
+          0112          HPP3360          12.72
+          0112          KVL6246         265.01
+          0112          OCI8959         140.94
+TOTAL A PAGAR:   12064.2
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+57431952       Castro Suarez Rolando 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0084          DVL7760          98.18
+          0084          USE5598         212.47
+          0084          TBZ2657          42.95
+          0099          VSG3432         220.82
+          0099          JGG5049         138.03
+          0100          JZQ8143          60.51
+          0100          QHZ8547         246.91
+          0100          UCA0857           8.77
+          0100          BTX3816         232.71
+          0107          CRR5443           35.5
+          0107          MBQ9495         202.58
+          0107          PHL4155         194.39
+TOTAL A PAGAR:   12025.6
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+          0107          DEK2757           35.5
+
+58717040       Cabrera Canales Guillermo Edric
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0085          FBO8724         104.07
+          0105          YZV6954          61.22
+          0105          BZY0235          55.75
+          0105          RNG2321         238.45
+TOTAL A PAGAR:   949.89
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+33583840       Villa Yallico Tatiana Nancy
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0014          KSX7995         157.98
+          0014          WPU8819          59.08
+          0014          JJV7549         110.16
+          0014          JBR9372           1.94
+          0094          RWW7975         251.27
+          0094          RLQ7170         114.29
+          0094          RSK1164          91.91
+TOTAL A PAGAR:   3093.2
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+15129661       Valverde Flores Irma Ydali
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0037          JSM8271           29.6
+          0047          WOF6634         174.46
+          0047          RAO4129          80.13
+          0047          QCA9584         168.95
+          0047          FMX8255         137.78
+TOTAL A PAGAR:   1561.91
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+65830353       Caro Polo Sandro 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0029          TOJ1764         154.27
+          0029          EDQ0577          31.54
+          0029          BZY0235          55.75
+          0062          GWE4133         298.03
+          0062          BDK4183          49.99
+          0062          VSG3432         220.82
+          0062          HPP3360          12.72
+          0077          XIU2628          34.25
+          0077          JSM8271           29.6
+          0077          GDA4236         115.31
+          0077          SMW0186         144.22
+TOTAL A PAGAR:   7237.45
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+
+69200503       Norabuena Preciado Cinthia 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0006          CPE5718         254.78
+          0006          KGO1734           47.9
+          0006          IUG2294          129.1
+          0006          ILG7766         296.63
+          0012          DVL7760          98.18
+          0012          UEJ1235         129.07
+          0038          JXK3142         104.88
+          0038          IIM5175          30.23
+          0038          ZQY9966         235.88
+          0049          GKG6581         100.33
+          0061          WYE2119          90.66
+          0061          UXZ2187          114.5
+TOTAL A PAGAR:   11554.6
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
+

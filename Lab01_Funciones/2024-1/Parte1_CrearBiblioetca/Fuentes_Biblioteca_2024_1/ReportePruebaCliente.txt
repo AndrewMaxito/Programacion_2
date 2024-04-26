@@ -1,0 +1,7 @@
+54393647       Reyes Tang Edward 
+Libros Entregados: 
+          Pedido No.     codigo         Precio
+          0001          IIM5175          30.23
+TOTAL A PAGAR:   30.23
+Libros No Entregados: 
+          Pedido No.     codigo         Precio
