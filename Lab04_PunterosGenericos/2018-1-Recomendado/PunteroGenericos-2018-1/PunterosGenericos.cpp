@@ -5,9 +5,15 @@
 
 using namespace std;
 #include "PunterosGenericos.h"
+#define NO_ENCONTRADO -1
+#define INCREMENTO 5
 
 enum Reg {
     CODIGO, NOMBRE, PRESTAMOS, N_PRESTAMO
+};
+
+enum Prestamo {
+    CODLIB, FECHA
 };
 
 void leerUsurarios(void *&usuarios) {
@@ -96,51 +102,93 @@ void imprimeUsuario(void *registro, ofstream &arch) {
 
 //------------------------------------------------------------------------------
 
-void leerPrestamos(void *usuarios){
-    ifstream arch("Perstamos.csv",ios::in);
-    if (not arch.is_open()){
-        cout<<"No se pudo abrir el archivo Perstamos.csv "<<endl;
-        exit (1);
+void leerPrestamos(void *usuarios) {
+    ifstream arch("Perstamos.csv", ios::in);
+    if (not arch.is_open()) {
+        cout << "No se pudo abrir el archivo Perstamos.csv " << endl;
+        exit(1);
     }
-    
-    int *codigoUs,*fecha;
+
+    int *codigoUs, *fecha, cap[100]{};
     char *codigoLib;
-    char buffCodigos[7];
-    
+    void **registro = (void **) usuarios;
+
     //20067828,MT2583,27/04/2018
-    
-    while (true){
-        leePrestamo(arch,codigoUs,codigoLib,fecha);
+
+    while (true) {
+        leePrestamo(arch, codigoUs, codigoLib, fecha);
         if (arch.eof()) break;
-        cout<<codigoLib<<endl;
-        
-        
+        int posUsuario = buscarUusuario(*codigoUs, usuarios);
+
+        if (posUsuario != NO_ENCONTRADO);
+        agregarPrestamo(registro[posUsuario], cap[posUsuario], codigoLib, fecha);
     }
-    
-    
-    
-    
 }
 
-void leePrestamo(ifstream &arch,int *&codigoUs,char *&codigoLib,int *&fecha){
-    int cod,dd,mm,aa;
+void leePrestamo(ifstream &arch, int *&codigoUs, char *&codigoLib, int *&fecha) {
+    int cod, dd, mm, aa;
     char c;
-    
+
     arch >> cod;
     if (arch.eof()) return;
     arch.get();
-    codigoLib = leerCadenaExacta(arch,',');
-    arch>>dd>>c>>mm>>c>>aa;
-    codigoUs = new int ;
+    codigoLib = leerCadenaExacta(arch, ',');
+    arch >> dd >> c >> mm >> c>>aa;
+    codigoUs = new int;
     *codigoUs = cod;
-    fecha =new int;
-    *fecha=aa*10000+mm*100+dd;
+    fecha = new int;
+    *fecha = aa * 10000 + mm * 100 + dd;
 }
 
+int buscarUusuario(int codigoUs, void *usuarios) {
+    void **registro = (void **) usuarios;
+    for (int i = 0; registro[i]; i++) {
+        if (iguales(codigoUs, registro[i]))return i;
+    }
+    return NO_ENCONTRADO;
+}
 
-void imprimirPrestamos(void *usuarios){
-    
-    
-    
+bool iguales(int codigoUs, void *registro) {
+    void **datosUs = (void **) registro;
+    int *codigo = (int *) (datosUs[CODIGO]);
+    return *codigo == codigoUs;
+
+}
+
+void agregarPrestamo(void *registro, int &cap, char *codigoLib, int *fecha) {
+    void **usuario = (void **) registro;
+    void **prestamos = (void **) (usuario[PRESTAMOS]);
+    int *numP = (int *) (usuario[N_PRESTAMO]);
+
+    void **prestamo = new void*[2];
+    prestamo[CODLIB] = codigoLib;
+    prestamo[FECHA] = fecha;
+
+    if (cap == 0 or *numP == cap)
+        incremetarEspacios(prestamos, numP, cap);
+    prestamos[*numP] = prestamo;
+    (*numP)++;
+
+    usuario[PRESTAMOS] = prestamos;
+    usuario[N_PRESTAMO] = numP;
+}
+
+void incremetarEspacios(void **&prestamos, int *&numP, int&cap) {
+    void ** aux;
+    cap += INCREMENTO;
+    if (prestamos == nullptr) {
+        prestamos = new void*[cap];
+        numP = new int{};
+    } else {
+        aux = new void*[cap];
+        for (int i = 0; i<*numP; i++)
+            aux[i] = prestamos[i];
+        delete prestamos;
+        prestamos = aux;
+    }
+}
+
+void imprimirPrestamos(void *usuarios) {
+
 }
 

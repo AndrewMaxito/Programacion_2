@@ -18,6 +18,11 @@ void imprimeUsuario(void *registro, ofstream &arch);
 //Pregunta 2
 void leerPrestamos(void *usuarios);
 void leePrestamo(ifstream &arch,int *&codigoUs,char *&codigoLib,int *&fecha);
+int buscarUusuario(int codigoUs,void *usuarios);
+bool iguales(int codigoUs, void *registro);
+void agregarPrestamo(void *registro,int &cap,char *codigoLib,int *fecha);
+void incremetarEspacios(void **&prestamos, int *&numP, int&cap);
+
 
 void imprimirPrestamos(void *usuarios);
 
