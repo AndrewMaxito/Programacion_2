@@ -86,7 +86,7 @@ void muestraCamiones(void *flota, int numcamiones, void (*imprimenumero)(ofstrea
     for (int i = 0; i < numcamiones; i++) {
         pila = (void **) (lflota[i]);
         peso = (double *) (pila[DATO]);
-        arch << "Camion " << setw(3) << i + 1 << setw(10) << ' ';
+        arch << "Camion " << setw(2) << i + 1 << setw(7) << ' ';
         arch << "Peso: " << setw(5) << *peso << endl;
 
         aux = (void **) (pila[SIG]);
@@ -94,5 +94,6 @@ void muestraCamiones(void *flota, int numcamiones, void (*imprimenumero)(ofstrea
             imprimenumero(arch, aux[DATO]);
             aux = (void **) (aux[SIG]);
         }
+        arch<<endl;
     }
 }

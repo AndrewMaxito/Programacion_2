@@ -8,6 +8,7 @@
 //#include <iostream>
 //#include <iomanip>
 #include "PilaConEnteros.h"
+#include "PilaConRegistro.h"
 #include "FlotaGenericas.h"
 
 using namespace std;
@@ -24,6 +25,12 @@ int main(int argc, char** argv) {
     cargaCamiones(flota,numcamiones,pesomaximo,leenumero,calculanumero,"numeros.txt");
     qsort(flota,numcamiones,sizeof(void *),cmpnumero);
     muestraCamiones(flota,numcamiones,imprimenumero,"reportenum.txt");
+    
+    numcamiones =100;
+    pesomaximo=400;
+    cargaCamiones(flota,numcamiones,pesomaximo,leeregistro,calcularegistro,"pedidos3.csv");
+    qsort(flota,numcamiones,sizeof(void *),cmpregistro);
+    muestraCamiones(flota,numcamiones,imprimeregistro,"reporteregistro.txt");
 
 
 

@@ -1,12 +1,17 @@
-Camion   1          Peso: 10.00
+Camion  1       Peso: 10.00
 10.00
-Camion   2          Peso:  9.00
+
+Camion  2       Peso:  9.00
 9.00
-Camion   3          Peso:  8.00
+
+Camion  3       Peso:  8.00
 1.00
 4.00
 3.00
-Camion   4          Peso:  7.00
+
+Camion  4       Peso:  7.00
 7.00
-Camion   5          Peso:  6.00
+
+Camion  5       Peso:  6.00
 6.00
+

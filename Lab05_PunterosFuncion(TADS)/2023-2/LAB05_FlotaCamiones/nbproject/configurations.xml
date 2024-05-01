@@ -6,6 +6,7 @@
                    projectFiles="true">
       <itemPath>FlotaGenericas.h</itemPath>
       <itemPath>PilaConEnteros.h</itemPath>
+      <itemPath>PilaConRegistro.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -16,6 +17,7 @@
                    projectFiles="true">
       <itemPath>FlotaGenericas.cpp</itemPath>
       <itemPath>PilaConEnteros.cpp</itemPath>
+      <itemPath>PilaConRegistro.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -48,6 +50,10 @@
       </item>
       <item path="PilaConEnteros.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="PilaConRegistro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PilaConRegistro.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -78,6 +84,10 @@
       <item path="PilaConEnteros.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="PilaConEnteros.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PilaConRegistro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PilaConRegistro.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
