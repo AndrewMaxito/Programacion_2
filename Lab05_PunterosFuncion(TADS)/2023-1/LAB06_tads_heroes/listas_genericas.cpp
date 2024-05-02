@@ -102,13 +102,14 @@ void eliminar_registro(void **&actual, void *anterior) {
         // Verificar si los nombres son iguales 
         while (strcmp(nombreAct, nombreAnt) == 0) { //por si existen mas de 2
             // Como esta ordenado el anterior simpre tendra mayor puntaje por eso simpre se elimina el siguiente
+            
             delete [] nodoAct;
             nodoAnt[NEXT] = siguiente;
-            nodoAct = (void **) siguiente;
+            nodoAct = (void **) siguiente; //Es importante definir la nueva direccion si se libero
             if (siguiente == nullptr) break;
             datoAct = (void **) (nodoAct[DATO]);
             nombreAct = (char *) (datoAct[NOMBRE]);
-            siguiente = nodoAct[NEXT];
+            siguiente = nodoAct[NEXT]; // se vuelve a guardar el nodo siguiente
         }
         actual = nodoAct; //actuliza la direccion de actual
     }
