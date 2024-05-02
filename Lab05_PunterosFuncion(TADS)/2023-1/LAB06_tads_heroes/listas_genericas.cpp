@@ -74,19 +74,20 @@ void imprimir_registro_heroe(ofstream &arch, void *dato) {
             setw(5) << *puntaje << setw(10) << *codigo << endl;
 }
 
-void eliminar_lista_heroes_repetidos(void *&lista_heroes, void (*eliminar_registro)(void *, void*)) {
+void eliminar_lista_heroes_repetidos(void *&lista_heroes, void (*eliminar_registro)(void **&, void*)) {
     void **actual = (void **) (lista_heroes); //este hara el recorrido
     void **anterior = nullptr;
 
+
     while (actual != nullptr) {
-        eliminar_registro(actual, anterior);
+        eliminar_registro(actual, anterior); //si se elimina algo solo se eliminara el registro actual
         if (actual == nullptr) break; // se evalua que al salir del bucle lo que esta siendo apuntado no sea nullptr
         anterior = actual;
         actual = (void **) (actual[NEXT]);
     }
 }
 
-void eliminar_registro(void *actual, void *anterior) {
+void eliminar_registro(void **&actual, void *anterior) {
     void **nodoAct = (void **) actual;
     void **nodoAnt = (void **) anterior;
 
@@ -99,15 +100,16 @@ void eliminar_registro(void *actual, void *anterior) {
         void *siguiente = nodoAct[NEXT]; //se guarda el dato siguinte por si se elimina
 
         // Verificar si los nombres son iguales 
-        while (strcmp(nombreAct, nombreAnt) == 0 ) { //por si existen mas de 2
+        while (strcmp(nombreAct, nombreAnt) == 0) { //por si existen mas de 2
             // Como esta ordenado el anterior simpre tendra mayor puntaje por eso simpre se elimina el siguiente
             delete [] nodoAct;
             nodoAnt[NEXT] = siguiente;
             nodoAct = (void **) siguiente;
             if (siguiente == nullptr) break;
-            datoAct = (void **)(nodoAct[DATO]);
+            datoAct = (void **) (nodoAct[DATO]);
             nombreAct = (char *) (datoAct[NOMBRE]);
             siguiente = nodoAct[NEXT];
         }
+        actual = nodoAct; //actuliza la direccion de actual
     }
 }
