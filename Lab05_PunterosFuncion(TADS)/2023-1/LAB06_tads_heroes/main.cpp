@@ -37,7 +37,6 @@ int main(int argc, char** argv) {
     eliminar_lista_heroes_repetidos(lista_heroes, eliminar_registro);
     imprimir_lista_heroes(lista_heroes, imprimir_registro_heroe);
 
-
     return 0;
 }
 

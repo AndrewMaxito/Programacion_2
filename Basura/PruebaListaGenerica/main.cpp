@@ -17,12 +17,6 @@ void modificarDatos(void *&arreglo_heroes,int cantidad_total_heroes){
     void **registro = (void **)arreglo_heroes;
     void **dato = (void **)(registro[3]);
     int *codigo= (int *)(dato[0]);
-    delete[] registro;
-    arreglo_heroes = nullptr;
-
-    
-    
-    
 }
 
 
