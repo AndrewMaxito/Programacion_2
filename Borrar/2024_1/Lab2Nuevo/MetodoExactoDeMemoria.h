@@ -19,4 +19,24 @@ char *leerCadenaExacta(ifstream &arch,char deli);
 void cargaStock(ifstream &arch, int *stock) ;
 void pruebaDePedidos(const char *nomArch, char ***libros, int **stock) ;
 
+//parte 2 
+void atencionDepedidos(const char *nomArch,char ***libros,int **&stock,
+        int **&pedidosClientes,char ***&pedidosLibros, bool **&pedidosAtendidos);
+void ingresarDatosArrPedidosCliente(ifstream &arch, int **buffPedidosClien, 
+        int &numeroPedido,int &cantClientes);
+
+
+int buscarPosCliente(int dniCliente, int **buffPedidosClien) ;
+void cargarDatos(int *datosCliente,int dniCliente,int numeroPedido);
+void ingresarDatosLibros(ifstream &arch, char ***libros, int **&stock, bool *registroPedAten,
+        char **registroPedLib, int numPedido,int &cantLibros) ;
+int buscarPosLibro(char *codigo, char ***libros) ;
+
+
+void reporteDeEntrega(const char *nomArch, int **pedidosClientes, char ***pedidosLibros, 
+        bool **&pedidosAtendidos);
+void imprimirLineas(ofstream &arch, int cant, char car);
+
+
+
 #endif /* METODOEXACTODEMEMORIA_H */

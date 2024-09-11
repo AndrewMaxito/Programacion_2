@@ -16,16 +16,29 @@
 
 using namespace std;
 #include "MetodoExactoDeMemoria.h"
+
 /*
  * 
  */
 int main(int argc, char** argv) {
-    char ***libros,***pedidosLibros;
-    int **stock,**pedidosClientes;
-    bool *pedidosAtendidos;
-    lecturaDeLibros("Libros.csv",libros,stock);
-    pruebaDePedidos("ReporteDeLibrosInicial.txt",libros,stock);
+    char ***libros, ***pedidosLibros;
+    int **stock, **pedidosClientes;
+    bool **pedidosAtendidos;
+
+    //Pregunta 1
+    lecturaDeLibros("Libros.csv", libros, stock);
+    pruebaDePedidos("ReporteDeLibrosInicial.txt", libros, stock);
+
+
+    //Pregunta 2
+    atencionDepedidos("Pedidos.txt", libros, stock, pedidosClientes, pedidosLibros,
+            pedidosAtendidos);
+    pruebaDePedidos("ReporteFinal.txt", libros, stock);
+
+    //Pregunta 3
+    reporteDeEntrega("ReporteDeEntregaDePedidos.txt",pedidosClientes,pedidosLibros,pedidosAtendidos);
     
+
 
     return 0;
 }
