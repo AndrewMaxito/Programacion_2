@@ -22,13 +22,12 @@ void lecturaDeLibros(const char *nomArch, char ***&libros, int **&stock) {
         exit(1);
     }
     char **buffLibros[300], **datosLibros;
-    int *buffStock[300], cantLibros = 0;
+    int *buffStock[300], *datosStock, cantLibros = 0;
     while (true) {
         datosLibros = leerDatosLibros(arch);
         if (datosLibros == nullptr) break;
         buffLibros[cantLibros] = datosLibros;
-        buffStock[cantLibros] = new int [2];
-        cargaStock(arch, buffStock[cantLibros]);
+        buffStock[cantLibros] = leerDatosStock(arch);
         cantLibros++;
     }
     buffLibros[cantLibros] = nullptr;
@@ -42,6 +41,17 @@ void lecturaDeLibros(const char *nomArch, char ***&libros, int **&stock) {
         libros[i] = buffLibros[i];
         stock[i] = buffStock[i];
     }
+}
+
+int *leerDatosStock(ifstream &arch) {
+    int *ptr;
+    char c;
+    double basura;
+    ptr = new int [2] {
+    }; //Ambos campos en 0 para empezar
+    arch >> ptr[0] >> c >> basura;
+    arch.get(); //salto de linea
+    return ptr;
 }
 
 char **leerDatosLibros(ifstream &arch) {
@@ -64,14 +74,6 @@ char *leerCadenaExacta(ifstream &arch, char deli) {
     return ptr;
 }
 
-void cargaStock(ifstream &arch, int *stock) {
-    double basura;
-    char c;
-    arch >> stock[0] >> c >> basura;
-    arch.get(); //salto de linea
-    stock[1] = 0;
-}
-
 void pruebaDePedidos(const char *nomArch, char ***libros, int **stock) {
     ofstream archRep(nomArch, ios::out);
     if (!archRep.is_open()) {
@@ -81,11 +83,10 @@ void pruebaDePedidos(const char *nomArch, char ***libros, int **stock) {
     for (int i = 0; libros[i] != nullptr; i++) {
         char **auxLib = libros[i];
         int *auxStock = stock[i];
-        archRep << auxLib[0] << "   " << auxLib[1] << "   " << auxLib[2] << "   " << auxStock[0] << "  " << auxStock[1];
+        archRep << left << setw(10) << auxLib[0] << setw(60) << auxLib[1] << setw(40) << auxLib[2] << right << setw(10) << auxStock[0] << setw(10) << auxStock[1];
         archRep << endl;
     }
 }
-
 
 //Pregunta 2
 
@@ -100,7 +101,7 @@ void atencionDepedidos(const char *nomArch, char ***libros, int **&stock,
         exit(1);
     }
 
-    int *buffPedidosClien[400]{}, *ptrBuff; //suponiendo que la cantidad de clientes no excede los 300
+    int *buffPedidosClien[400]{}, *ptrPedidosClientes; //suponiendo que la cantidad de clientes no excede los 300
     char **buffPedidiosLib[400]; //suponiendo que no hay mas de 300 pedidos
     bool *buffPedidosAtend[400];
     //000059,34460612   CRY6839    VYG3594
@@ -118,7 +119,7 @@ void atencionDepedidos(const char *nomArch, char ***libros, int **&stock,
                 buffPedidiosLib[numeroPedido], numeroPedido, arrCantLib[numeroPedido]);
         cantPedidos++;
     }
-    
+
     cantPedidos++; //ya que el pedido 0000 no existe 
     buffPedidosClien[cantClientes] = nullptr; //no se si va 0
     cantClientes++;
@@ -128,7 +129,7 @@ void atencionDepedidos(const char *nomArch, char ***libros, int **&stock,
     pedidosClientes = new int *[cantClientes];
     pedidosLibros = new char **[cantPedidos];
     pedidosAtendidos = new bool *[cantPedidos];
-    
+
     for (int i = 0; buffPedidosClien[i]; i++) {
         int cantPedidosCliente = buffPedidosClien[i][1];
         pedidosClientes[i] = new int[cantPedidosCliente + 2];
@@ -136,20 +137,24 @@ void atencionDepedidos(const char *nomArch, char ***libros, int **&stock,
             pedidosClientes[i][j] = buffPedidosClien[i][j];
         }
     }
-    pedidosClientes[cantClientes-1] = nullptr;
-    
+    pedidosClientes[cantClientes - 1] = nullptr;
+
     for (int i = 0; buffPedidiosLib[i]; i++) {
         pedidosLibros[i] = new char *[arrCantLib[i] + 1] {
         };
         pedidosAtendidos[i] = new bool [arrCantLib[i] + 1] {
         };
+        char **auxpedidosLibros= pedidosLibros[i];
+        bool *auxpedidosAtendidos = pedidosAtendidos[i];
+        
+        
         for (int j = 0; j < arrCantLib[i]; j++) {
-            pedidosLibros[i][j] = buffPedidiosLib[i][j];
-            pedidosAtendidos[i][j] = buffPedidosAtend[i][j];
+            auxpedidosLibros[j] = buffPedidiosLib[i][j];
+            auxpedidosAtendidos[j] = buffPedidosAtend[i][j];
         }
     }
-    pedidosLibros[cantPedidos-1] = nullptr;
-    pedidosAtendidos[cantPedidos-1] = nullptr;
+    pedidosLibros[cantPedidos - 1] = nullptr;
+    pedidosAtendidos[cantPedidos - 1] = nullptr;
 }
 
 void ingresarDatosArrPedidosCliente(ifstream &arch, int **buffPedidosClien,
@@ -183,7 +188,6 @@ int buscarPosCliente(int dniCliente, int **buffPedidosClien) {
 
 void cargarDatos(int *datosCliente, int dniCliente, int numeroPedido) {
     if (datosCliente[0] == 0)datosCliente[0] = dniCliente;
-    ;
     int posVacio = datosCliente[1] + 2;
     datosCliente[posVacio] = numeroPedido;
     datosCliente[1]++;
@@ -196,18 +200,18 @@ void ingresarDatosLibros(ifstream &arch, char ***libros, int **&stock, bool *reg
         arch >> codigo;
         int posLibro = buscarPosLibro(codigo, libros);
         //Supuestamnete siempre existe el libro ;V
-        int posVacio;
+        int posVacio = 0;
         for (posVacio = 0; registroPedLib[posVacio]; posVacio++);
 
         registroPedLib[posVacio] = new char [strlen(codigo) + 1];
         strcpy(registroPedLib[posVacio], codigo);
         int *auxStock = stock[posLibro];
         if (auxStock[0] > 0) {
-            stock[posLibro][0]--;
-            registroPedAten[posLibro] = true;
+            auxStock[0]--;
+            registroPedAten[posVacio] = true;
         } else {
-            stock[posLibro][1]++;
-            registroPedAten[posLibro] = false;
+            auxStock[1]++;
+            registroPedAten[posVacio] = false;
         }
         cantLibros++;
     }
@@ -222,9 +226,6 @@ int buscarPosLibro(char *codigo, char ***libros) {
     return NO_ENCONTRADO;
 }
 
-
-
-
 void reporteDeEntrega(const char *nomArch, int **pedidosClientes, char ***pedidosLibros,
         bool **&pedidosAtendidos) {
     ofstream arch(nomArch, ios::out);
@@ -233,7 +234,7 @@ void reporteDeEntrega(const char *nomArch, int **pedidosClientes, char ***pedido
         exit(1);
     }
     arch << right << setw(60) << "Reoirte de atencion de pedidos" << endl;
-   imprimirLineas(arch, LINEAS, '=');
+    imprimirLineas(arch, LINEAS, '=');
 
     for (int i = 0; pedidosClientes[i]; i++) {
         arch << left << setw(15) << "CLIENTE: " << pedidosClientes[i][0] << endl;
@@ -244,7 +245,7 @@ void reporteDeEntrega(const char *nomArch, int **pedidosClientes, char ***pedido
             imprimirLineas(arch, LINEAS, '-');
             arch << left << setw(14) << ' ' << right << setfill('0') << setw(6) << pedidosClientes[i][j] <<
                     setfill(' ') << left << setw(20) << ' ' << endl;
-            int numPedi = pedidosClientes[i][j] - 1;
+            int numPedi = pedidosClientes[i][j];
 
 
             for (int k = 0; pedidosLibros[numPedi][k]; k++) {

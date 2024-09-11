@@ -5,37 +5,34 @@ CLIENTE:       34460612
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000059                    
-                                   JSM8271                NO ATENDIDO
+                                   CRY6839                ATENDIDO
+                                   VYG3594                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000167                    
-                                   IUG2294                NO ATENDIDO
-                                   XIU2628                NO ATENDIDO
-                                   PQB0775                NO ATENDIDO
+                                   PQZ1316                ATENDIDO
+                                   XCC4070                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000037                    
-                                   SMI7078                NO ATENDIDO
-                                   RZX8790                NO ATENDIDO
-                                   EWI3090                NO ATENDIDO
-                                   OCI8959                NO ATENDIDO
+                                   SFR1226                ATENDIDO
+                                   GUN8655                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000043                    
-                                   QBL9575                NO ATENDIDO
-                                   DDQ0721                NO ATENDIDO
-                                   CKC4095                NO ATENDIDO
-                                   XJT3661                NO ATENDIDO
+                                   CKC4095                ATENDIDO
+                                   ZLE2920                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000075                    
-                                   YZV6954                NO ATENDIDO
-                                   BZY0235                NO ATENDIDO
-                                   RNG2321                NO ATENDIDO
+                                   KSX7995                ATENDIDO
+                                   WPU8819                ATENDIDO
+                                   JJV7549                ATENDIDO
+                                   JBR9372                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       42302422
@@ -43,38 +40,45 @@ CLIENTE:       42302422
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000140                    
-                                   EBT7258                NO ATENDIDO
-                                   QYH7021                NO ATENDIDO
+                                   WPU8819                ATENDIDO
+                                   CTW5846                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000016                    
-                                   VFZ9435                NO ATENDIDO
-                                   BZY0235                NO ATENDIDO
-                                   TVR7016                NO ATENDIDO
+                                   YZV6954                ATENDIDO
+                                   QKH2262                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000089                    
-                                   WPU8819                NO ATENDIDO
-                                   CTW5846                NO ATENDIDO
+                                   TAB4639                ATENDIDO
+                                   RWW7975                ATENDIDO
+                                   ZOY6470                ATENDIDO
+                                   KTA8754                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000044                    
-                                   CKC4095                NO ATENDIDO
-                                   ZLE2920                NO ATENDIDO
+                                   QBL9575                ATENDIDO
+                                   WHU1288                ATENDIDO
+                                   RZX8790                ATENDIDO
+                                   JZQ8143                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000077                    
-                                   NGQ6935                NO ATENDIDO
+                                   WWT1581                ATENDIDO
+                                   OBD2849                ATENDIDO
+                                   CMP1150                ATENDIDO
+                                   HSE3213                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000015                    
-                                   BTX3816                NO ATENDIDO
-                                   DEK2757                NO ATENDIDO
+                                   VFZ9435                ATENDIDO
+                                   BZY0235                ATENDIDO
+                                   TVR7016                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       46582367
@@ -82,16 +86,14 @@ CLIENTE:       46582367
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000009                    
-                                   RWW7975                NO ATENDIDO
-                                   RLQ7170                NO ATENDIDO
-                                   RSK1164                NO ATENDIDO
+                                   IIM5175                ATENDIDO
+                                   MBQ9495                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000139                    
-                                   HGQ0131                NO ATENDIDO
-                                   RLQ7170                NO ATENDIDO
-                                   VMW6915                NO ATENDIDO
+                                   EBT7258                ATENDIDO
+                                   QYH7021                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       37751890
@@ -99,69 +101,69 @@ CLIENTE:       37751890
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000035                    
-                                   GQC1814                NO ATENDIDO
-                                   ZQY9966                NO ATENDIDO
-                                   VOI0019                NO ATENDIDO
-                                   MVU0233                NO ATENDIDO
+                                   KWL0415                ATENDIDO
+                                   IMK4892                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000135                    
-                                   HPP3360                NO ATENDIDO
-                                   KVL6246                NO ATENDIDO
-                                   OCI8959                NO ATENDIDO
+                                   HGQ0131                ATENDIDO
+                                   RLQ7170                ATENDIDO
+                                   VMW6915                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000081                    
-                                   ZAL2738                NO ATENDIDO
+                                   CRY6839                ATENDIDO
+                                   WGA2754                ATENDIDO
+                                   FNM6936                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000067                    
-                                   WOF6634                NO ATENDIDO
-                                   RAO4129                NO ATENDIDO
-                                   QCA9584                NO ATENDIDO
-                                   FMX8255                NO ATENDIDO
+                                   JBR9372                ATENDIDO
+                                   FWP8469                ATENDIDO
+                                   WPU8819                ATENDIDO
+                                   CKC4095                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000013                    
-                                   VPN5351                NO ATENDIDO
-                                   EEJ4830                NO ATENDIDO
+                                   BTX3816                ATENDIDO
+                                   NEW1762                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000153                    
-                                   WYE2119                NO ATENDIDO
-                                   UXZ2187                NO ATENDIDO
+                                   HPM0950                ATENDIDO
+                                   NBL8415                ATENDIDO
+                                   QVX9089                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000050                    
-                                   DPZ8059                NO ATENDIDO
-                                   AKU9740                NO ATENDIDO
-                                   KWL0415                NO ATENDIDO
+                                   HPM0950                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000065                    
-                                   ZQD4253                NO ATENDIDO
-                                   USM9579                NO ATENDIDO
-                                   CKR6798                NO ATENDIDO
-                                   IMC3155                NO ATENDIDO
+                                   XTM9385                ATENDIDO
+                                   VSG3432                ATENDIDO
+                                   CTW5846                NO ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000069                    
-                                   HPP3360                NO ATENDIDO
-                                   UQL8643                NO ATENDIDO
-                                   CRY6839                NO ATENDIDO
+                                   HWM4049                ATENDIDO
+                                   MNL3677                ATENDIDO
+                                   VMW6915                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000117                    
-                                   JGG5049                NO ATENDIDO
+                                   KGO1734                ATENDIDO
+                                   EEJ4830                ATENDIDO
+                                   WYE2119                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       69200503
@@ -169,29 +171,34 @@ CLIENTE:       69200503
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000132                    
-                                   DDQ0721                NO ATENDIDO
-                                   RWW7975                NO ATENDIDO
+                                   CPE5718                ATENDIDO
+                                   KGO1734                ATENDIDO
+                                   IUG2294                ATENDIDO
+                                   ILG7766                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000143                    
-                                   HRT0664                NO ATENDIDO
+                                   DVL7760                ATENDIDO
+                                   UEJ1235                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000171                    
-                                   KLV1872                NO ATENDIDO
+                                   JXK3142                ATENDIDO
+                                   IIM5175                ATENDIDO
+                                   ZQY9966                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000162                    
-                                   XIU2628                NO ATENDIDO
-                                   UEJ1235                NO ATENDIDO
+                                   GKG6581                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000152                    
-                                   RWW7975                NO ATENDIDO
+                                   WYE2119                ATENDIDO
+                                   UXZ2187                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       36699613
@@ -199,9 +206,8 @@ CLIENTE:       36699613
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000155                    
-                                   VFZ9435                NO ATENDIDO
-                                   BZY0235                NO ATENDIDO
-                                   TVR7016                NO ATENDIDO
+                                   SMW0186                ATENDIDO
+                                   SBU9053                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       51235238
@@ -209,19 +215,22 @@ CLIENTE:       51235238
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000080                    
-                                   QRH6838                NO ATENDIDO
+                                   ZAL2738                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000125                    
-                                   RII8346                NO ATENDIDO
-                                   CRR5443                NO ATENDIDO
+                                   JZQ8143                ATENDIDO
+                                   UXZ2187                ATENDIDO
+                                   VFZ9435                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000036                    
-                                   KWL0415                NO ATENDIDO
-                                   IMK4892                NO ATENDIDO
+                                   SMI7078                ATENDIDO
+                                   RZX8790                ATENDIDO
+                                   EWI3090                ATENDIDO
+                                   OCI8959                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       60740809
@@ -229,23 +238,23 @@ CLIENTE:       60740809
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000084                    
-                                   RWW7975                NO ATENDIDO
+                                   XTM9385                ATENDIDO
+                                   VSG3432                ATENDIDO
+                                   CTW5846                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000023                    
-                                   PZP7176                NO ATENDIDO
-                                   HVZ1228                NO ATENDIDO
-                                   RSK1164                NO ATENDIDO
-                                   LJE6687                NO ATENDIDO
+                                   DDU0764                ATENDIDO
+                                   PPI9259                ATENDIDO
+                                   IFL0150                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000091                    
-                                   BZY0235                NO ATENDIDO
-                                   PQZ1316                NO ATENDIDO
-                                   IFL0150                NO ATENDIDO
-                                   JNC0786                NO ATENDIDO
+                                   CRY6839                ATENDIDO
+                                   VYG3594                ATENDIDO
+                                   KGO1734                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       72832218
@@ -253,29 +262,28 @@ CLIENTE:       72832218
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000144                    
-                                   DVL7760                NO ATENDIDO
-                                   UEJ1235                NO ATENDIDO
+                                   HWM4049                ATENDIDO
+                                   MNL3677                ATENDIDO
+                                   VMW6915                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000071                    
-                                   FNM6936                NO ATENDIDO
-                                   ECT0289                NO ATENDIDO
-                                   WWT1581                NO ATENDIDO
+                                   SQB7146                ATENDIDO
+                                   IMK4892                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000087                    
-                                   MBQ9495                NO ATENDIDO
-                                   JXK3142                NO ATENDIDO
+                                   KWL0415                ATENDIDO
+                                   BDK4183                ATENDIDO
+                                   JSM8271                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000121                    
-                                   XIU2628                NO ATENDIDO
-                                   JSM8271                NO ATENDIDO
-                                   GDA4236                NO ATENDIDO
-                                   SMW0186                NO ATENDIDO
+                                   XIU6076                ATENDIDO
+                                   VFI8064                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       47659552
@@ -283,44 +291,41 @@ CLIENTE:       47659552
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000010                    
-                                   IIM5175                ATENDIDO
-                                   MBQ9495                NO ATENDIDO
+                                   QMI4747                ATENDIDO
+                                   IUI3314                ATENDIDO
+                                   NFP3266                ATENDIDO
+                                   QRH6838                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000048                    
-                                   BSX2922                NO ATENDIDO
-                                   IBP7411                NO ATENDIDO
-                                   OWU1533                NO ATENDIDO
+                                   XIU6076                ATENDIDO
+                                   VFI8064                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000147                    
-                                   GWE4133                NO ATENDIDO
-                                   BDK4183                NO ATENDIDO
-                                   VSG3432                NO ATENDIDO
-                                   HPP3360                NO ATENDIDO
+                                   YJI3961                ATENDIDO
+                                   NBL8415                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000076                    
-                                   KSX7995                NO ATENDIDO
-                                   WPU8819                NO ATENDIDO
-                                   JJV7549                NO ATENDIDO
-                                   JBR9372                NO ATENDIDO
+                                   NGQ6935                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000134                    
-                                   TOJ1764                NO ATENDIDO
-                                   EDQ0577                NO ATENDIDO
-                                   BZY0235                NO ATENDIDO
+                                   HPP3360                ATENDIDO
+                                   KVL6246                ATENDIDO
+                                   OCI8959                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000138                    
-                                   KLO8691                NO ATENDIDO
-                                   UCJ9882                NO ATENDIDO
+                                   HGQ0131                ATENDIDO
+                                   RLQ7170                ATENDIDO
+                                   VMW6915                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       54393647
@@ -328,22 +333,21 @@ CLIENTE:       54393647
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000092                    
-                                   CRY6839                NO ATENDIDO
-                                   VYG3594                NO ATENDIDO
-                                   KGO1734                NO ATENDIDO
+                                   UCJ9882                ATENDIDO
+                                   SPM4763                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000047                    
-                                   ELC8965                NO ATENDIDO
-                                   ZOY6470                NO ATENDIDO
+                                   BSX2922                ATENDIDO
+                                   IBP7411                ATENDIDO
+                                   OWU1533                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000126                    
-                                   JZQ8143                NO ATENDIDO
-                                   UXZ2187                NO ATENDIDO
-                                   VFZ9435                NO ATENDIDO
+                                   IIM5175                NO ATENDIDO
+                                   MBQ9495                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       33583840
@@ -351,21 +355,23 @@ CLIENTE:       33583840
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000063                    
-                                   JXK3142                NO ATENDIDO
-                                   ZPD6557                NO ATENDIDO
+                                   KSX7995                ATENDIDO
+                                   WPU8819                ATENDIDO
+                                   JJV7549                ATENDIDO
+                                   JBR9372                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000008                    
-                                   EJE8138                NO ATENDIDO
+                                   RWW7975                ATENDIDO
+                                   RLQ7170                ATENDIDO
+                                   RSK1164                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000099                    
-                                   NEO9165                NO ATENDIDO
-                                   PZP7176                NO ATENDIDO
-                                   MEH2993                NO ATENDIDO
-                                   MBB0685                NO ATENDIDO
+                                   DVL7760                ATENDIDO
+                                   UEJ1235                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       27109544
@@ -373,17 +379,17 @@ CLIENTE:       27109544
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000027                    
-                                   QBL9575                NO ATENDIDO
-                                   DDQ0721                NO ATENDIDO
-                                   CKC4095                NO ATENDIDO
-                                   XJT3661                NO ATENDIDO
+                                   WWT1581                ATENDIDO
+                                   OBD2849                ATENDIDO
+                                   CMP1150                ATENDIDO
+                                   HSE3213                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000070                    
-                                   HWM4049                NO ATENDIDO
-                                   MNL3677                NO ATENDIDO
-                                   VMW6915                NO ATENDIDO
+                                   FNM6936                ATENDIDO
+                                   ECT0289                ATENDIDO
+                                   WWT1581                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       65071478
@@ -391,35 +397,32 @@ CLIENTE:       65071478
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000151                    
-                                   CST1133                NO ATENDIDO
-                                   LJD9991                NO ATENDIDO
-                                   OBH4691                NO ATENDIDO
-                                   KTA8754                NO ATENDIDO
+                                   RWW7975                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000040                    
-                                   JXK3142                NO ATENDIDO
-                                   ZPD6557                NO ATENDIDO
+                                   FYV9055                ATENDIDO
+                                   QRH6838                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000159                    
-                                   PQZ1316                NO ATENDIDO
-                                   XCC4070                NO ATENDIDO
+                                   IPE3429                ATENDIDO
+                                   MWB2923                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000163                    
-                                   GKG6581                NO ATENDIDO
+                                   WOF6634                ATENDIDO
+                                   WPU8819                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000133                    
-                                   CPE5718                NO ATENDIDO
-                                   KGO1734                NO ATENDIDO
-                                   IUG2294                NO ATENDIDO
-                                   ILG7766                NO ATENDIDO
+                                   TOJ1764                ATENDIDO
+                                   EDQ0577                ATENDIDO
+                                   BZY0235                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       38724322
@@ -427,22 +430,25 @@ CLIENTE:       38724322
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000136                    
-                                   HGQ0131                NO ATENDIDO
-                                   RLQ7170                NO ATENDIDO
-                                   VMW6915                NO ATENDIDO
+                                   RSK1164                ATENDIDO
+                                   HGN9910                ATENDIDO
+                                   HWM4049                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000095                    
-                                   FYV9055                NO ATENDIDO
-                                   VFI8064                NO ATENDIDO
+                                   WCZ0845                ATENDIDO
+                                   CKC4095                ATENDIDO
+                                   ZYF6683                ATENDIDO
+                                   TMR5068                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000106                    
-                                   RNG2321                NO ATENDIDO
-                                   ICU6090                NO ATENDIDO
-                                   CXW5879                NO ATENDIDO
+                                   PCS8992                ATENDIDO
+                                   UXZ2187                ATENDIDO
+                                   BXE0974                ATENDIDO
+                                   JEN0751                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       11750801
@@ -450,34 +456,35 @@ CLIENTE:       11750801
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000115                    
-                                   HPP3360                NO ATENDIDO
+                                   KGO1734                ATENDIDO
+                                   CRY6839                ATENDIDO
+                                   HCT8192                ATENDIDO
+                                   VDL9379                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000097                    
-                                   XIU2628                NO ATENDIDO
-                                   UEJ1235                NO ATENDIDO
+                                   WYE2119                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000170                    
-                                   JZU0977                NO ATENDIDO
-                                   PQB0775                NO ATENDIDO
-                                   WWT1581                NO ATENDIDO
-                                   EJE8138                NO ATENDIDO
+                                   KLV1872                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000034                    
-                                   SQB7146                NO ATENDIDO
-                                   NFP3266                NO ATENDIDO
-                                   TAB4639                NO ATENDIDO
+                                   GQC1814                ATENDIDO
+                                   ZQY9966                ATENDIDO
+                                   VOI0019                ATENDIDO
+                                   MVU0233                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000049                    
-                                   XIU6076                NO ATENDIDO
-                                   VFI8064                NO ATENDIDO
+                                   DPZ8059                ATENDIDO
+                                   AKU9740                ATENDIDO
+                                   KWL0415                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       32231860
@@ -485,8 +492,8 @@ CLIENTE:       32231860
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000131                    
-                                   ZLE2920                NO ATENDIDO
-                                   BUT4998                NO ATENDIDO
+                                   DDQ0721                ATENDIDO
+                                   RWW7975                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       86898639
@@ -494,16 +501,15 @@ CLIENTE:       86898639
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000096                    
-                                   WCZ0845                NO ATENDIDO
-                                   CKC4095                NO ATENDIDO
-                                   ZYF6683                NO ATENDIDO
-                                   TMR5068                NO ATENDIDO
+                                   XIU2628                ATENDIDO
+                                   UEJ1235                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000103                    
-                                   CRY6839                NO ATENDIDO
-                                   RZX8790                NO ATENDIDO
+                                   DEK2757                ATENDIDO
+                                   FMX8255                ATENDIDO
+                                   CJN4376                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       92240876
@@ -511,35 +517,36 @@ CLIENTE:       92240876
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000003                    
-                                   EZP0333                NO ATENDIDO
-                                   CLG5566                NO ATENDIDO
+                                   BTX3816                ATENDIDO
+                                   DEK2757                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000017                    
-                                   YZV6954                NO ATENDIDO
-                                   QKH2262                NO ATENDIDO
+                                   SMI7078                ATENDIDO
+                                   RZX8790                ATENDIDO
+                                   EWI3090                ATENDIDO
+                                   OCI8959                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000157                    
-                                   ZAL2738                NO ATENDIDO
-                                   VDL9379                NO ATENDIDO
+                                   KWL0415                ATENDIDO
+                                   VMW6915                ATENDIDO
+                                   PPI9259                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000104                    
-                                   DEK2757                NO ATENDIDO
-                                   FMX8255                NO ATENDIDO
-                                   CJN4376                NO ATENDIDO
+                                   QCA9584                ATENDIDO
+                                   VSG3432                ATENDIDO
+                                   MNL3677                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000045                    
-                                   QBL9575                NO ATENDIDO
-                                   WHU1288                NO ATENDIDO
-                                   RZX8790                NO ATENDIDO
-                                   JZQ8143                NO ATENDIDO
+                                   YJI3961                ATENDIDO
+                                   NBL8415                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       66747161
@@ -547,18 +554,15 @@ CLIENTE:       66747161
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000005                    
-                                   JZQ8143                NO ATENDIDO
-                                   QHZ8547                NO ATENDIDO
-                                   UCA0857                NO ATENDIDO
-                                   BTX3816                NO ATENDIDO
+                                   KGO1734                ATENDIDO
+                                   EEJ4830                ATENDIDO
+                                   WYE2119                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000124                    
-                                   JLQ6546                NO ATENDIDO
-                                   BUC5125                NO ATENDIDO
-                                   PQZ1316                NO ATENDIDO
-                                   ILA4795                NO ATENDIDO
+                                   RII8346                ATENDIDO
+                                   CRR5443                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       14268463
@@ -566,60 +570,57 @@ CLIENTE:       14268463
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000094                    
-                                   BUY4915                NO ATENDIDO
-                                   HGN9910                NO ATENDIDO
-                                   UDS2730                NO ATENDIDO
+                                   FYV9055                ATENDIDO
+                                   VFI8064                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000090                    
-                                   TAB4639                NO ATENDIDO
-                                   RWW7975                NO ATENDIDO
-                                   ZOY6470                ATENDIDO
-                                   KTA8754                NO ATENDIDO
+                                   BZY0235                ATENDIDO
+                                   PQZ1316                ATENDIDO
+                                   IFL0150                ATENDIDO
+                                   JNC0786                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000110                    
-                                   TOJ1764                NO ATENDIDO
-                                   EDQ0577                NO ATENDIDO
-                                   BZY0235                NO ATENDIDO
+                                   IFL0150                ATENDIDO
+                                   VMW6915                ATENDIDO
+                                   EHX6253                ATENDIDO
+                                   XBC5847                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000030                    
-                                   NEW1762                NO ATENDIDO
-                                   WMN3648                NO ATENDIDO
-                                   MLC7198                NO ATENDIDO
+                                   ETZ8565                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000055                    
-                                   ULM8751                NO ATENDIDO
-                                   TBZ2657                NO ATENDIDO
-                                   TOJ1764                NO ATENDIDO
-                                   EBT7258                NO ATENDIDO
+                                   BHD6079                ATENDIDO
+                                   JLQ6546                ATENDIDO
+                                   AGQ7769                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000060                    
-                                   CRY6839                NO ATENDIDO
-                                   VYG3594                NO ATENDIDO
+                                   CPE5718                ATENDIDO
+                                   KGO1734                ATENDIDO
+                                   IUG2294                ATENDIDO
+                                   ILG7766                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000018                    
-                                   SMI7078                NO ATENDIDO
-                                   RZX8790                NO ATENDIDO
-                                   EWI3090                NO ATENDIDO
-                                   OCI8959                NO ATENDIDO
+                                   QMI4747                ATENDIDO
+                                   IUI3314                ATENDIDO
+                                   NFP3266                ATENDIDO
+                                   QRH6838                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000052                    
-                                   ALH8812                NO ATENDIDO
-                                   JLQ6546                NO ATENDIDO
-                                   OQK1590                NO ATENDIDO
+                                   WYE2119                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       45834351
@@ -627,9 +628,9 @@ CLIENTE:       45834351
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000154                    
-                                   HPM0950                NO ATENDIDO
-                                   NBL8415                NO ATENDIDO
-                                   QVX9089                NO ATENDIDO
+                                   VFZ9435                ATENDIDO
+                                   BZY0235                ATENDIDO
+                                   TVR7016                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       17750908
@@ -637,35 +638,36 @@ CLIENTE:       17750908
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000042                    
-                                   DVL7760                NO ATENDIDO
-                                   USE5598                NO ATENDIDO
-                                   TBZ2657                NO ATENDIDO
+                                   QBL9575                ATENDIDO
+                                   DDQ0721                ATENDIDO
+                                   CKC4095                ATENDIDO
+                                   XJT3661                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000166                    
-                                   BXE0974                NO ATENDIDO
-                                   ALH8812                NO ATENDIDO
+                                   IUG2294                ATENDIDO
+                                   XIU2628                ATENDIDO
+                                   PQB0775                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000164                    
-                                   WOF6634                NO ATENDIDO
-                                   WPU8819                NO ATENDIDO
+                                   USE5598                ATENDIDO
+                                   ZYF6683                ATENDIDO
+                                   RYI5447                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000026                    
-                                   FYV9055                NO ATENDIDO
-                                   VFI8064                NO ATENDIDO
+                                   QBL9575                ATENDIDO
+                                   DDQ0721                ATENDIDO
+                                   CKC4095                ATENDIDO
+                                   XJT3661                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000107                    
-                                   PCS8992                NO ATENDIDO
-                                   UXZ2187                NO ATENDIDO
-                                   BXE0974                NO ATENDIDO
-                                   JEN0751                NO ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       65830353
@@ -673,22 +675,25 @@ CLIENTE:       65830353
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000109                    
-                                   SMW0186                NO ATENDIDO
-                                   SBU9053                NO ATENDIDO
+                                   TOJ1764                ATENDIDO
+                                   EDQ0577                ATENDIDO
+                                   BZY0235                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000146                    
-                                   VFZ9435                NO ATENDIDO
-                                   SQB7146                NO ATENDIDO
-                                   YZV6954                NO ATENDIDO
+                                   GWE4133                ATENDIDO
+                                   BDK4183                ATENDIDO
+                                   VSG3432                ATENDIDO
+                                   HPP3360                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000120                    
-                                   RSK1164                NO ATENDIDO
-                                   HGN9910                NO ATENDIDO
-                                   HWM4049                NO ATENDIDO
+                                   XIU2628                ATENDIDO
+                                   JSM8271                ATENDIDO
+                                   GDA4236                ATENDIDO
+                                   SMW0186                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       21344013
@@ -696,22 +701,26 @@ CLIENTE:       21344013
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000100                    
-                                   DVL7760                NO ATENDIDO
-                                   UEJ1235                NO ATENDIDO
+                                   PCS8992                ATENDIDO
+                                   UXZ2187                ATENDIDO
+                                   BXE0974                ATENDIDO
+                                   JEN0751                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000056                    
-                                   BHD6079                NO ATENDIDO
-                                   JLQ6546                NO ATENDIDO
-                                   AGQ7769                NO ATENDIDO
+                                   ZQD4253                ATENDIDO
+                                   USM9579                ATENDIDO
+                                   CKR6798                ATENDIDO
+                                   IMC3155                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000020                    
-                                   EBT7258                NO ATENDIDO
-                                   YKQ9278                NO ATENDIDO
-                                   WCZ0845                NO ATENDIDO
+                                   QQQ4712                ATENDIDO
+                                   IMK4892                ATENDIDO
+                                   PQZ1316                ATENDIDO
+                                   VFZ9435                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       96056368
@@ -719,10 +728,9 @@ CLIENTE:       96056368
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000111                    
-                                   IFL0150                NO ATENDIDO
-                                   VMW6915                NO ATENDIDO
-                                   EHX6253                NO ATENDIDO
-                                   XBC5847                NO ATENDIDO
+                                   GOG7446                ATENDIDO
+                                   JXK3142                ATENDIDO
+                                   HHR5161                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       33958767
@@ -730,16 +738,15 @@ CLIENTE:       33958767
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000102                    
-                                   SFZ1256                NO ATENDIDO
-                                   BZY0235                NO ATENDIDO
-                                   XCC4070                NO ATENDIDO
+                                   CRY6839                ATENDIDO
+                                   RZX8790                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000032                    
-                                   NEW1762                NO ATENDIDO
-                                   WMN3648                NO ATENDIDO
-                                   MLC7198                NO ATENDIDO
+                                   LRV5687                ATENDIDO
+                                   XIU6076                ATENDIDO
+                                   JZC7527                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       67066631
@@ -747,8 +754,10 @@ CLIENTE:       67066631
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000168                    
-                                   PQZ1316                NO ATENDIDO
-                                   XCC4070                NO ATENDIDO
+                                   JZC7527                ATENDIDO
+                                   CST1133                ATENDIDO
+                                   KSX7995                ATENDIDO
+                                   DVR5984                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       20449598
@@ -756,7 +765,9 @@ CLIENTE:       20449598
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000031                    
-                                   ETZ8565                NO ATENDIDO
+                                   NEW1762                ATENDIDO
+                                   WMN3648                ATENDIDO
+                                   MLC7198                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       15129661
@@ -764,14 +775,15 @@ CLIENTE:       15129661
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000058                    
-                                   UDS2730                NO ATENDIDO
+                                   JSM8271                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000066                    
-                                   XTM9385                NO ATENDIDO
-                                   VSG3432                NO ATENDIDO
-                                   CTW5846                NO ATENDIDO
+                                   WOF6634                ATENDIDO
+                                   RAO4129                ATENDIDO
+                                   QCA9584                ATENDIDO
+                                   FMX8255                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       87804471
@@ -779,35 +791,33 @@ CLIENTE:       87804471
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000062                    
-                                   KPE7420                NO ATENDIDO
-                                   DVR5984                NO ATENDIDO
-                                   QKH2262                NO ATENDIDO
+                                   JXK3142                ATENDIDO
+                                   ZPD6557                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000046                    
-                                   YJI3961                NO ATENDIDO
-                                   NBL8415                NO ATENDIDO
+                                   ELC8965                ATENDIDO
+                                   ZOY6470                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000105                    
-                                   QCA9584                NO ATENDIDO
-                                   VSG3432                NO ATENDIDO
-                                   MNL3677                NO ATENDIDO
+                                   RNG2321                ATENDIDO
+                                   ICU6090                ATENDIDO
+                                   CXW5879                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000012                    
-                                   JXK3142                NO ATENDIDO
-                                   IIM5175                NO ATENDIDO
-                                   ZQY9966                NO ATENDIDO
+                                   VPN5351                ATENDIDO
+                                   EEJ4830                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000127                    
-                                   IIM5175                NO ATENDIDO
-                                   MBQ9495                NO ATENDIDO
+                                   KWL0415                ATENDIDO
+                                   IMK4892                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       45002711
@@ -815,10 +825,9 @@ CLIENTE:       45002711
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000028                    
-                                   WWT1581                NO ATENDIDO
-                                   OBD2849                NO ATENDIDO
-                                   CMP1150                NO ATENDIDO
-                                   HSE3213                NO ATENDIDO
+                                   DPZ8059                ATENDIDO
+                                   AKU9740                ATENDIDO
+                                   KWL0415                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       20610190
@@ -826,6 +835,7 @@ CLIENTE:       20610190
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000001                    
+                                   JZC7527                NO ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       81082011
@@ -833,37 +843,34 @@ CLIENTE:       81082011
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000024                    
-                                   DDU0764                NO ATENDIDO
-                                   PPI9259                NO ATENDIDO
-                                   IFL0150                NO ATENDIDO
+                                   JXK3142                ATENDIDO
+                                   CXW5879                ATENDIDO
+                                   KBF4088                ATENDIDO
+                                   CRR5443                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000079                    
-                                   YZV6954                NO ATENDIDO
-                                   QKH2262                NO ATENDIDO
+                                   QRH6838                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000068                    
-                                   JBR9372                NO ATENDIDO
-                                   FWP8469                NO ATENDIDO
-                                   WPU8819                NO ATENDIDO
-                                   CKC4095                NO ATENDIDO
+                                   HPP3360                ATENDIDO
+                                   UQL8643                ATENDIDO
+                                   CRY6839                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000156                    
-                                   SMW0186                NO ATENDIDO
-                                   SBU9053                NO ATENDIDO
+                                   ZAL2738                ATENDIDO
+                                   VDL9379                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000039                    
-                                   KGO1734                NO ATENDIDO
-                                   CRY6839                NO ATENDIDO
-                                   HCT8192                NO ATENDIDO
-                                   VDL9379                NO ATENDIDO
+                                   JXK3142                ATENDIDO
+                                   ZPD6557                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       35030611
@@ -871,14 +878,13 @@ CLIENTE:       35030611
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000142                    
-                                   SFZ1256                NO ATENDIDO
-                                   FWK6327                NO ATENDIDO
+                                   HRT0664                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000130                    
-                                   FYV9055                NO ATENDIDO
-                                   QRH6838                NO ATENDIDO
+                                   ZLE2920                ATENDIDO
+                                   BUT4998                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       61212473
@@ -886,10 +892,7 @@ CLIENTE:       61212473
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000116                    
-                                   KGO1734                NO ATENDIDO
-                                   CRY6839                NO ATENDIDO
-                                   HCT8192                NO ATENDIDO
-                                   VDL9379                NO ATENDIDO
+                                   JGG5049                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       88080249
@@ -897,18 +900,23 @@ CLIENTE:       88080249
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000098                    
-                                   WYE2119                NO ATENDIDO
+                                   NEO9165                ATENDIDO
+                                   PZP7176                ATENDIDO
+                                   MEH2993                ATENDIDO
+                                   MBB0685                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000033                    
-                                   LRV5687                NO ATENDIDO
-                                   XIU6076                NO ATENDIDO
-                                   JZC7527                NO ATENDIDO
+                                   SQB7146                ATENDIDO
+                                   NFP3266                ATENDIDO
+                                   TAB4639                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000108                    
+                                   SMW0186                ATENDIDO
+                                   SBU9053                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       85870289
@@ -916,21 +924,21 @@ CLIENTE:       85870289
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000114                    
-                                   FBO8724                NO ATENDIDO
+                                   HPP3360                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000141                    
-                                   WPU8819                NO ATENDIDO
-                                   CTW5846                NO ATENDIDO
+                                   SFZ1256                ATENDIDO
+                                   FWK6327                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000064                    
-                                   KSX7995                NO ATENDIDO
-                                   WPU8819                NO ATENDIDO
-                                   JJV7549                NO ATENDIDO
-                                   JBR9372                NO ATENDIDO
+                                   ZQD4253                ATENDIDO
+                                   USM9579                ATENDIDO
+                                   CKR6798                ATENDIDO
+                                   IMC3155                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       83265244
@@ -938,28 +946,30 @@ CLIENTE:       83265244
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000169                    
-                                   JZC7527                NO ATENDIDO
-                                   CST1133                NO ATENDIDO
-                                   KSX7995                NO ATENDIDO
-                                   DVR5984                NO ATENDIDO
+                                   JZU0977                ATENDIDO
+                                   PQB0775                ATENDIDO
+                                   WWT1581                ATENDIDO
+                                   EJE8138                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000165                    
-                                   USE5598                NO ATENDIDO
-                                   ZYF6683                NO ATENDIDO
-                                   RYI5447                NO ATENDIDO
+                                   BXE0974                ATENDIDO
+                                   ALH8812                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000022                    
-                                   PQZ1316                NO ATENDIDO
+                                   PZP7176                ATENDIDO
+                                   HVZ1228                ATENDIDO
+                                   RSK1164                ATENDIDO
+                                   LJE6687                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000014                    
-                                   BTX3816                NO ATENDIDO
-                                   NEW1762                NO ATENDIDO
+                                   BTX3816                ATENDIDO
+                                   DEK2757                NO ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       81462164
@@ -967,37 +977,38 @@ CLIENTE:       81462164
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000002                    
-                                   JZC7527                NO ATENDIDO
+                                   EZP0333                ATENDIDO
+                                   CLG5566                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000073                    
-                                   LDL2628                NO ATENDIDO
+                                   CMP1150                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000054                    
-                                   UCJ9882                NO ATENDIDO
-                                   SPM4763                NO ATENDIDO
+                                   ULM8751                ATENDIDO
+                                   TBZ2657                ATENDIDO
+                                   TOJ1764                ATENDIDO
+                                   EBT7258                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000149                    
-                                   CRY6839                NO ATENDIDO
-                                   RZX8790                NO ATENDIDO
+                                   KVL6246                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000053                    
-                                   WYE2119                NO ATENDIDO
+                                   UCJ9882                ATENDIDO
+                                   SPM4763                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000078                    
-                                   WWT1581                NO ATENDIDO
-                                   OBD2849                NO ATENDIDO
-                                   CMP1150                NO ATENDIDO
-                                   HSE3213                NO ATENDIDO
+                                   YZV6954                ATENDIDO
+                                   QKH2262                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       14500753
@@ -1005,33 +1016,35 @@ CLIENTE:       14500753
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000051                    
-                                   HPM0950                NO ATENDIDO
+                                   ALH8812                ATENDIDO
+                                   JLQ6546                ATENDIDO
+                                   OQK1590                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000123                    
-                                   EZP0333                NO ATENDIDO
-                                   YJI3961                NO ATENDIDO
+                                   JLQ6546                ATENDIDO
+                                   BUC5125                ATENDIDO
+                                   PQZ1316                ATENDIDO
+                                   ILA4795                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000072                    
-                                   SQB7146                NO ATENDIDO
-                                   IMK4892                NO ATENDIDO
+                                   LDL2628                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000148                    
-                                   YJI3961                NO ATENDIDO
-                                   NBL8415                NO ATENDIDO
+                                   CRY6839                ATENDIDO
+                                   RZX8790                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000011                    
-                                   QMI4747                NO ATENDIDO
-                                   IUI3314                NO ATENDIDO
-                                   NFP3266                NO ATENDIDO
-                                   QRH6838                NO ATENDIDO
+                                   JXK3142                ATENDIDO
+                                   IIM5175                NO ATENDIDO
+                                   ZQY9966                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       79743481
@@ -1039,8 +1052,7 @@ CLIENTE:       79743481
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000007                    
-                                   DDQ0721                NO ATENDIDO
-                                   RWW7975                NO ATENDIDO
+                                   EJE8138                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       49516360
@@ -1048,38 +1060,34 @@ CLIENTE:       49516360
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000021                    
-                                   QQQ4712                NO ATENDIDO
-                                   IMK4892                NO ATENDIDO
-                                   PQZ1316                NO ATENDIDO
-                                   VFZ9435                NO ATENDIDO
+                                   PQZ1316                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000160                    
-                                   IPE3429                NO ATENDIDO
-                                   MWB2923                NO ATENDIDO
+                                   NBL8415                ATENDIDO
+                                   LQA8555                ATENDIDO
+                                   VFZ9435                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000019                    
-                                   QMI4747                NO ATENDIDO
-                                   IUI3314                NO ATENDIDO
-                                   NFP3266                NO ATENDIDO
-                                   QRH6838                NO ATENDIDO
+                                   EBT7258                ATENDIDO
+                                   YKQ9278                ATENDIDO
+                                   WCZ0845                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000006                    
-                                   KGO1734                NO ATENDIDO
-                                   EEJ4830                NO ATENDIDO
-                                   WYE2119                NO ATENDIDO
+                                   DDQ0721                ATENDIDO
+                                   RWW7975                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000029                    
-                                   DPZ8059                NO ATENDIDO
-                                   AKU9740                NO ATENDIDO
-                                   KWL0415                NO ATENDIDO
+                                   NEW1762                ATENDIDO
+                                   WMN3648                ATENDIDO
+                                   MLC7198                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       37328103
@@ -1087,34 +1095,36 @@ CLIENTE:       37328103
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000122                    
-                                   XIU6076                NO ATENDIDO
-                                   VFI8064                NO ATENDIDO
+                                   EZP0333                ATENDIDO
+                                   YJI3961                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000086                    
-                                   LRV5687                NO ATENDIDO
-                                   XIU6076                NO ATENDIDO
-                                   JZC7527                NO ATENDIDO
+                                   MBQ9495                ATENDIDO
+                                   JXK3142                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000150                    
-                                   KVL6246                NO ATENDIDO
+                                   CST1133                ATENDIDO
+                                   LJD9991                ATENDIDO
+                                   OBH4691                ATENDIDO
+                                   KTA8754                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000161                    
-                                   NBL8415                NO ATENDIDO
-                                   LQA8555                NO ATENDIDO
-                                   VFZ9435                NO ATENDIDO
+                                   XIU2628                ATENDIDO
+                                   UEJ1235                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000172                    
-                                   JXK3142                ATENDIDO
-                                   IIM5175                NO ATENDIDO
-                                   ZQY9966                NO ATENDIDO
+                                   JZC7527                NO ATENDIDO
+                                   CST1133                ATENDIDO
+                                   KSX7995                ATENDIDO
+                                   DVR5984                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       45181396
@@ -1122,23 +1132,20 @@ CLIENTE:       45181396
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000101                    
-                                   PCS8992                NO ATENDIDO
-                                   UXZ2187                NO ATENDIDO
-                                   BXE0974                NO ATENDIDO
-                                   JEN0751                NO ATENDIDO
+                                   SFZ1256                ATENDIDO
+                                   BZY0235                ATENDIDO
+                                   XCC4070                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000137                    
-                                   RSK1164                NO ATENDIDO
-                                   HGN9910                NO ATENDIDO
-                                   HWM4049                NO ATENDIDO
+                                   KLO8691                ATENDIDO
+                                   UCJ9882                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000083                    
-                                   VSG3432                NO ATENDIDO
-                                   JGG5049                NO ATENDIDO
+                                   RWW7975                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       63602514
@@ -1146,10 +1153,9 @@ CLIENTE:       63602514
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000061                    
-                                   CPE5718                NO ATENDIDO
-                                   KGO1734                NO ATENDIDO
-                                   IUG2294                NO ATENDIDO
-                                   ILG7766                NO ATENDIDO
+                                   KPE7420                ATENDIDO
+                                   DVR5984                ATENDIDO
+                                   QKH2262                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       57431952
@@ -1157,56 +1163,58 @@ CLIENTE:       57431952
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000041                    
-                                   FYV9055                NO ATENDIDO
-                                   QRH6838                NO ATENDIDO
+                                   DVL7760                ATENDIDO
+                                   USE5598                ATENDIDO
+                                   TBZ2657                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000082                    
-                                   CRY6839                NO ATENDIDO
-                                   WGA2754                NO ATENDIDO
-                                   FNM6936                NO ATENDIDO
+                                   VSG3432                ATENDIDO
+                                   JGG5049                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000004                    
-                                   BTX3816                NO ATENDIDO
-                                   DEK2757                NO ATENDIDO
+                                   JZQ8143                ATENDIDO
+                                   QHZ8547                ATENDIDO
+                                   UCA0857                ATENDIDO
+                                   BTX3816                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000112                    
-                                   GOG7446                NO ATENDIDO
-                                   JXK3142                NO ATENDIDO
-                                   HHR5161                NO ATENDIDO
+                                   CRR5443                ATENDIDO
+                                   DEK2757                NO ATENDIDO
+                                   MBQ9495                ATENDIDO
+                                   PHL4155                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000088                    
-                                   KWL0415                NO ATENDIDO
-                                   BDK4183                NO ATENDIDO
-                                   JSM8271                NO ATENDIDO
+                                   WPU8819                ATENDIDO
+                                   CTW5846                NO ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000119                    
-                                   DEK2757                NO ATENDIDO
-                                   FMX8255                NO ATENDIDO
-                                   CJN4376                NO ATENDIDO
+                                   RSK1164                ATENDIDO
+                                   HGN9910                ATENDIDO
+                                   HWM4049                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000038                    
-                                   SFR1226                NO ATENDIDO
-                                   GUN8655                NO ATENDIDO
+                                   KGO1734                ATENDIDO
+                                   CRY6839                ATENDIDO
+                                   HCT8192                ATENDIDO
+                                   VDL9379                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000025                    
-                                   JXK3142                NO ATENDIDO
-                                   CXW5879                NO ATENDIDO
-                                   KBF4088                NO ATENDIDO
-                                   CRR5443                NO ATENDIDO
+                                   FYV9055                ATENDIDO
+                                   VFI8064                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       58717040
@@ -1214,29 +1222,26 @@ CLIENTE:       58717040
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000113                    
-                                   CRR5443                NO ATENDIDO
-                                   DEK2757                NO ATENDIDO
-                                   MBQ9495                NO ATENDIDO
-                                   PHL4155                NO ATENDIDO
+                                   FBO8724                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000074                    
-                                   CMP1150                NO ATENDIDO
+                                   YZV6954                ATENDIDO
+                                   BZY0235                ATENDIDO
+                                   RNG2321                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000158                    
-                                   KWL0415                NO ATENDIDO
-                                   VMW6915                NO ATENDIDO
-                                   PPI9259                NO ATENDIDO
+                                   PQZ1316                ATENDIDO
+                                   XCC4070                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000129                    
-                                   GOG7446                NO ATENDIDO
-                                   JXK3142                NO ATENDIDO
-                                   HHR5161                NO ATENDIDO
+                                   FYV9055                ATENDIDO
+                                   QRH6838                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       50860318
@@ -1244,16 +1249,14 @@ CLIENTE:       50860318
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000057                    
-                                   ZQD4253                NO ATENDIDO
-                                   USM9579                NO ATENDIDO
-                                   CKR6798                NO ATENDIDO
-                                   IMC3155                NO ATENDIDO
+                                   UDS2730                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000128                    
-                                   KWL0415                NO ATENDIDO
-                                   IMK4892                NO ATENDIDO
+                                   GOG7446                ATENDIDO
+                                   JXK3142                ATENDIDO
+                                   HHR5161                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       76693511
@@ -1261,15 +1264,16 @@ CLIENTE:       76693511
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000093                    
-                                   UCJ9882                NO ATENDIDO
-                                   SPM4763                NO ATENDIDO
+                                   BUY4915                ATENDIDO
+                                   HGN9910                ATENDIDO
+                                   UDS2730                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000118                    
-                                   KGO1734                NO ATENDIDO
-                                   EEJ4830                NO ATENDIDO
-                                   WYE2119                NO ATENDIDO
+                                   DEK2757                NO ATENDIDO
+                                   FMX8255                ATENDIDO
+                                   CJN4376                ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================
 CLIENTE:       48053960
@@ -1277,15 +1281,15 @@ CLIENTE:       48053960
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000145                    
-                                   HWM4049                NO ATENDIDO
-                                   MNL3677                NO ATENDIDO
-                                   VMW6915                NO ATENDIDO
+                                   VFZ9435                ATENDIDO
+                                   SQB7146                ATENDIDO
+                                   YZV6954                ATENDIDO
 ---------------------------------------------------------------------
             Pedido No.          Codigo del libro    Observaciones
 ---------------------------------------------------------------------
               000085                    
-                                   XTM9385                NO ATENDIDO
-                                   VSG3432                NO ATENDIDO
-                                   CTW5846                NO ATENDIDO
+                                   LRV5687                ATENDIDO
+                                   XIU6076                ATENDIDO
+                                   JZC7527                NO ATENDIDO
 ---------------------------------------------------------------------
 =====================================================================

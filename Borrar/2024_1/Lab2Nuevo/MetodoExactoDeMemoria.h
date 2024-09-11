@@ -16,8 +16,8 @@
 void lecturaDeLibros(const char *nomArch,char ***&libros,int **&stock);
 char **leerDatosLibros(ifstream &arch);
 char *leerCadenaExacta(ifstream &arch,char deli);
-void cargaStock(ifstream &arch, int *stock) ;
 void pruebaDePedidos(const char *nomArch, char ***libros, int **stock) ;
+int *leerDatosStock(ifstream &arch);
 
 //parte 2 
 void atencionDepedidos(const char *nomArch,char ***libros,int **&stock,
