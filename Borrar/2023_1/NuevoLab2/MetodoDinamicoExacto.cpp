@@ -165,9 +165,9 @@ void lecturaCursos(const char *nomArch, int *alumno_Codigo, int *alumno_escala, 
 
         curso_Alumnos[i] = new int [arrCantAlumnosCurso[i]*2 + 1] {
         }; //el ultimo dato estara con 0
+        int *auxInt = curso_Alumnos[i];
+        int *auxIntBuff = buffCurAlu[i];
         for (int j = 0; j < 2 * arrCantAlumnosCurso[i]; j++) {
-            int *auxInt = curso_Alumnos[i];
-            int *auxIntBuff = buffCurAlu[i];
             auxInt[j] = auxIntBuff[j];
         }
     }
@@ -234,9 +234,9 @@ void reporteDeRecaudacionPorModalidad(const char *nomArch, int *alumno_Codigo,
         int *auxCurAlu = curso_Alumnos[i];
         for (int j = 0; auxCurAlu[2 * j]; j++) {
             int posAlumno = buscarAlumno(alumno_Codigo, auxCurAlu[2 * j]);
-            
-                    arch << right << setfill('0') << setw(2) << j + 1 << ")" <<
-                    setfill(' ') << left <<setw(10) << auxCurAlu[2 * j] << setw(50) <<
+
+            arch << right << setfill('0') << setw(2) << j + 1 << ")" <<
+                    setfill(' ') << left << setw(10) << auxCurAlu[2 * j] << setw(50) <<
                     alumnos_Nombre[posAlumno] << setw(15) << auxCurAlu[2 * j + 1] <<
                     setw(15) << alumno_modalidad[posAlumno] << endl;
         }
