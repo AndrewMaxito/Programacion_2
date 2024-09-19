@@ -15,6 +15,7 @@ using namespace std;
 #include "AperturaDeArchivos.h"
 #define INCREMENTO 5
 #define NO_ENCONTRADO -1
+#define CANT_FIN 72
 
 void lecturaDeLibros(const char *nomArch, char ***&libros, int **&stock) {
     ifstream arch;
@@ -111,20 +112,20 @@ void pruebaDeLecturaDeLibros(const char *nomArch, char ***libros, int **stock) {
         archRep << left << setw(10) << auxLib[0] << setw(60) << auxLib[1] <<
                 setw(50) << auxLib[2] << right << setw(10) << auxStock[0] <<
                 setw(10) << auxStock[1] << endl;
-
     }
 }
-
 //Pregunta 2
 
 void atencionDePedidos(const char *nomArch, char ***libros, int **stock,
         int **&pedidosClientes, char ***&pedidosLibros, bool **&pedidosAtendidos) {
     ifstream arch;
     AperturaDeUnArchivoDeTextosParaLeer(arch, nomArch);
+    //inicializacion de punteros (para el primer caso)
     pedidosClientes = nullptr;
     pedidosLibros = nullptr;
     pedidosAtendidos = nullptr;
-    //Para clientes
+
+    //1.Para clientes
     int cantClien = 0, capClien = 0;
     int arrCantCli[400]{}, arrCapCli[400]{};
 
@@ -141,43 +142,49 @@ void atencionDePedidos(const char *nomArch, char ***libros, int **stock,
         arch >> codigoPedido;
         if (arch.eof()) break;
         arch >> c >> dni;
-        //Para Cliente
-        int posCliente = buscarCliente(pedidosClientes, dni);
+        //1.Para Cliente
+        int posCliente = buscarCliente(pedidosClientes, dni); // busca al cliente
 
-        if (posCliente == NO_ENCONTRADO) {
-            if (cantClien == capClien) aumentarEspaciosCli(pedidosClientes, cantClien, capClien);
-            posCliente = cantClien - 1;
-            pedidosClientes[posCliente] = nullptr;
+        if (posCliente == NO_ENCONTRADO) {//Si no ha encontrado el registro del cliente
+            if (cantClien == capClien) //se verifica si aun hay espacios disponibles
+                aumentarEspaciosCli(pedidosClientes, cantClien, capClien);
+
+            posCliente = cantClien - 1; //se resta -1 por que esta incluido la ultima posicion
+            pedidosClientes[posCliente] = nullptr; //inicializa ya que aun no tiene espacios asiganados
             cantClien++;
         }
-        if (arrCantCli[posCliente] == arrCapCli[posCliente])
-            aumentarEspacioRegCli(pedidosClientes[posCliente], arrCantCli[posCliente], arrCapCli[posCliente], dni);
-        pedidosClientes[posCliente][arrCantCli[posCliente]] = codigoPedido;
-        pedidosClientes[posCliente][1]++;
-        arrCantCli[posCliente]++;
 
-        //Para Libros
+        if (arrCantCli[posCliente] == arrCapCli[posCliente])//verifica que el segundo nivel tiene espacios suficientes
+            aumentarEspacioRegCli(pedidosClientes[posCliente], arrCantCli[posCliente], arrCapCli[posCliente], dni);
+        int posRegCliente = arrCantCli[posCliente] - 1; //ya que se toma en cuenat la posicion vacia
+
+        pedidosClientes[posCliente][posRegCliente] = codigoPedido;
+        pedidosClientes[posCliente][1]++; //aumenta la cantidad de pedidos
+        arrCantCli[posCliente]++; //aumenta los espacios 
+
+        //2.Para Libros
         if (capPedidos <= codigoPedido + 1)
             aumentarEspaciosPedidos(pedidosAtendidos, pedidosLibros, codigoPedido, capPedidos);
-        int posPedi = codigoPedido + 1;
         while (arch.get() != '\n') {
-            if (arrCantPedLib[posPedi] == arrCapPedLib[posPedi])
-                aumentarEspacioRegLib(pedidosLibros[posPedi], pedidosAtendidos[posPedi], arrCantPedLib[posPedi], arrCapPedLib[posPedi]);
-            int posRegLib = arrCantPedLib[posPedi] - 1;
+            if (arrCantPedLib[codigoPedido] == arrCapPedLib[codigoPedido])
+                aumentarEspacioRegLib(pedidosLibros[codigoPedido], pedidosAtendidos[codigoPedido], arrCantPedLib[codigoPedido], arrCapPedLib[codigoPedido]);
+            int posRegLib = arrCantPedLib[codigoPedido] - 1;
             char codigoLib[8];
             arch >> codigoLib;
-            pedidosLibros[posPedi][posRegLib] = new char [strlen(codigoLib) + 1];
-            strcpy(pedidosLibros[posPedi][posRegLib], codigoLib);
+            pedidosLibros[codigoPedido][posRegLib] = new char [strlen(codigoLib) + 1];
+            strcpy(pedidosLibros[codigoPedido][posRegLib], codigoLib);
+
             int posLib = buscaLibro(libros, codigoLib);
             if (stock[posLib][0] > 0) {
                 stock[posLib][0]--;
-                pedidosAtendidos[posPedi][posRegLib] = true;
+                pedidosAtendidos[codigoPedido][posRegLib] = true;
             } else {
                 stock[posLib][1]++;
-                pedidosAtendidos[posPedi][posRegLib] = false;
+                pedidosAtendidos[codigoPedido][posRegLib] = false;
             }
-            arrCantPedLib[posPedi]++;
+            arrCantPedLib[codigoPedido]++;
         }
+
     }
 }
 
@@ -190,7 +197,7 @@ int buscaLibro(char ***libros, char *codigoLib) {
 }
 
 int buscarCliente(int **pedidosClientes, int dni) {
-    if (pedidosClientes == nullptr) return NO_ENCONTRADO;
+    if (pedidosClientes == nullptr) return NO_ENCONTRADO; //en caso aun no haya nada
     for (int i = 0; pedidosClientes[i]; i++) {
         int *auxPedCli = pedidosClientes[i];
         if (auxPedCli[0] == dni) return i;
@@ -222,7 +229,7 @@ void aumentarEspacioRegCli(int *&regCliente, int &cant, int &cap, int dni) {
         };
         regCliente[0] = dni;
         regCliente[1] = 0;
-        cant = regCliente[1] + 2;
+        cant = (regCliente[1] + 2) + 1; //la cantidad de espacios asignados mas el vacio
     } else {
         int *auxRegCli = new int [cap] {
         };
@@ -234,7 +241,8 @@ void aumentarEspacioRegCli(int *&regCliente, int &cant, int &cap, int dni) {
     }
 }
 
-void aumentarEspaciosPedidos(bool **&pedidosAtendidos, char ***&pedidosLibros, int codigoPedido, int capPedidos) {
+void aumentarEspaciosPedidos(bool **&pedidosAtendidos, char ***&pedidosLibros, int codigoPedido, int &capPedidos) {
+    int cant = capPedidos; //esto ya que no se llena en orden los numeros de pedido
     capPedidos = (codigoPedido + 1) + INCREMENTO;
     if (pedidosLibros == nullptr) {
         pedidosLibros = new char **[capPedidos] {
@@ -246,7 +254,7 @@ void aumentarEspaciosPedidos(bool **&pedidosAtendidos, char ***&pedidosLibros, i
         };
         bool **auxPedAte = new bool *[capPedidos] {
         };
-        for (int i = 1; pedidosLibros[i]; i++) {
+        for (int i = 0; i < cant; i++) {//aca es un erro poner pedidosLibros[i] ya que no todos los anteriores estan llenos 
             auxPedLib[i] = pedidosLibros[i];
             auxPedAte[i] = pedidosAtendidos[i];
         }
@@ -282,4 +290,73 @@ void aumentarEspacioRegLib(char **&regPedLib, bool *&regPedAten, int &cant, int 
 }
 
 
+//Pregunta 3
+
+void ordenarPedidoCliente(int **pedidosClientes) {
+    int i = 0;
+    for (i; pedidosClientes[i]; i++);
+    qSort(pedidosClientes, 0, i - 1);
+}
+
+void qSort(int **pedidosClientes, int izq, int der) {
+    int limite, pos;
+    if (izq >= der) return;
+    pos = (izq + der) / 2;
+    cambiar(pedidosClientes[izq], pedidosClientes[der]);
+    limite = izq;
+    for (int i = izq + 1; i <= der; i++) {
+        if ((pedidosClientes[i][1] > pedidosClientes[izq][1]) or
+                (pedidosClientes[i][1] == pedidosClientes[izq][1] and pedidosClientes[i][0] < pedidosClientes[izq][0])) {
+            limite++;
+            cambiar(pedidosClientes[limite], pedidosClientes[i]);
+        }
+    }
+    cambiar(pedidosClientes[limite], pedidosClientes[izq]);
+    qSort(pedidosClientes, izq, limite - 1);
+    qSort(pedidosClientes, limite + 1, der);
+}
+
+void cambiar(int *&datoI, int *&datoK) {
+    int *aux;
+    aux = datoI;
+    datoI = datoK;
+    datoK = aux;
+}
+
+//Pregunta 4
+
+void reporteDeEntregaDePedidos(const char *nomArch, int **pedidosClientes, char ***pedidosLibros,
+        bool **pedidoAtendidos) {
+    ofstream arch;
+    AperturaDeUnArchivoDeTextosParaEscribir(arch, nomArch);
+    arch << setw(45) << "REPORTE TOP 5" << endl;
+    arch << setw(48) << "ATENCION DE PEDIDOS" << endl;
+    imprimirLineas(arch, CANT_FIN, '=');
+    for (int i = 0; i < 5; i++) {
+        arch << left << "CLIENTES:   " << setw(20) << pedidosClientes[i][0] <<
+                "CANTIDAD PEDIDOS:  " << pedidosClientes[i][1] << endl;
+        imprimirLineas(arch, CANT_FIN, '=');
+        for (int j = 2; pedidosClientes[i][j]; j++) {
+            arch << setw(10) << ' ' << setw(15) << "Pedido No." << setw(20) << "Codigo del libro" <<
+                    "Observaciones" << endl;
+            imprimirLineas(arch, CANT_FIN, '-');
+            arch << setw(10) << ' ' << right << setfill('0') << setw(6) << pedidosClientes[i][j] <<
+                    setfill(' ') << left << endl;
+            int numeroPedido = pedidosClientes[i][j];
+            for (int k = 0; pedidosLibros[numeroPedido][k]; k++) {
+                arch << setw(31) << ' ' << setw(17) << pedidosLibros[numeroPedido][k];
+                if (pedidoAtendidos[numeroPedido][k] == true)arch << "ATENDIDO" << endl;
+                else arch << "NO ATENDIDO" << endl;
+            }
+            imprimirLineas(arch, CANT_FIN, '-');
+        }
+        imprimirLineas(arch, CANT_FIN, '=');
+    }
+}
+
+void imprimirLineas(ofstream &arch, int cant, char car) {
+    for (int i = 0; i < cant; i++)arch << car;
+    arch << endl;
+
+}
 

@@ -27,6 +27,18 @@ int buscaLibro(char ***libros, char *codigoLib);
 int buscarCliente(int **pedidosClientes, int dni);
 void aumentarEspaciosCli(int **&pedidosClientes, int &cantClien, int &capClien) ;
 void aumentarEspacioRegCli(int *&regCliente,int &cant,int &cap,int dni);
-void aumentarEspaciosPedidos(bool **&pedidosAtendidos, char ***&pedidosLibros, int codigoPedido, int capPedidos) ;
+void aumentarEspaciosPedidos(bool **&pedidosAtendidos, char ***&pedidosLibros, int codigoPedido, int &capPedidos);
 void aumentarEspacioRegLib(char **&regPedLib, bool *&regPedAten, int &cant, int &cap) ;
+
+
+//Pregunta 3
+
+void ordenarPedidoCliente(int **pedidosClientes) ;
+void qSort(int **pedidosClientes, int izq, int der);
+void cambiar(int *&datoI, int *&datoK);
+
+//Pregunta 4
+void reporteDeEntregaDePedidos(const char *nomArch, int **pedidosClientes, char ***pedidosLibros,
+        bool **pedidoAtendidos) ;
+void imprimirLineas(ofstream &arch, int cant, char car);
 #endif /* METODOEXACTODEMEMORIA_H */
