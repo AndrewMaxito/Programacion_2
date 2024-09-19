@@ -1,6 +1,0 @@
-IIM5175   Diamantes y pedernales                                      Jose Maria Arguedas                                        1     30.23
-54393647  Reyes Tang Edward 
-Libros entregados: 
-          Pedido No.          Codigo              Precio
-          1                   IIM5175             30.23
-Pago Total:        30.23
