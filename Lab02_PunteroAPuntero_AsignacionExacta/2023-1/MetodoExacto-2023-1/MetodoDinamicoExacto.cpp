@@ -3,7 +3,6 @@
 #include <iomanip>
 #include <fstream>
 #include <cstring>
-
 using namespace std;
 #include "MetodoDinamicoExacto.h"
 #define NO_ENCONTRADO -1
