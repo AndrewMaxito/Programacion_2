@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     pruebaDeLecturaDeLecturaDeLibros("ReporteDeLibrosFinal.txt", libros, stock);
 
     //Pregunta 3
-    ordena PedidosClientes(pedidosClientes);
+    ordenarPedidosClientes(pedidosClientes);
 
     //Pregunta 4
     reporteDeEntregaDePedidos("REporteDeEntregaDePedidos.txt", pedidosClientes,
