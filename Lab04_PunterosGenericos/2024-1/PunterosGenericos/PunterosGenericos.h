@@ -3,29 +3,27 @@
  * File:   PunterosGenericos.h
  * Author: andre
  *
- * Created on 10 de mayo de 2024, 15:45
+ * Created on 21 de setiembre de 2024, 19:55
  */
 
 #ifndef PUNTEROSGENERICOS_H
 #define PUNTEROSGENERICOS_H
-#include <fstream>
-using namespace std;
 
-//Pregunta 1
-void cargarclientes(void *&clientes);
-void *leerDatosCliente(ifstream &arch);
-char *leerCadenaExacta(ifstream &arch, char del);
+//#include <fstream>
+//using namespace std;
 
-//Pregunta 2 
-void creareserva(void *&reserva);
-void *leerDatosLibros(ifstream &arch);
+void cargaClientes(void *&clientes);
+void *leerRegistroClientes(ifstream &arch);
+void incrementarEspaciosParaCliente(void **&regClientes,int &cantCli,int &capCli);
 
-//Pregunta 3 
-void cargareservar(void *clientes,void *reserva);
-int buscarLibro(void *reserva,char *codigo);
-bool iguales(void *registro,char *codigo);
-int buscarCliente(void *clientes, int dni);
-void *cargarDatosPedidos(void *clientes, int posCliente);
+//Pregunta 2
+void creaReserva(void *&reserva);
+void *leerRegistroLibros(ifstream &arch);
+char *leerCadenaExacta(ifstream &arch,char del);
+
+//Pregunta 3
+void cargaRerserva(void *clientes,void *reserva);
+int buscarLibro(const void *reserva, const char *codigoLib);
+int buscarCliente(const void *clientes, const int dni);
 
 #endif /* PUNTEROSGENERICOS_H */
-

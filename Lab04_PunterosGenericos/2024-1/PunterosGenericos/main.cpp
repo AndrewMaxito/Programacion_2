@@ -1,26 +1,27 @@
 /* 
  * File:   main.cpp
- * Author: andre
+ * Author: Andrew Max
  *
- * Created on 10 de mayo de 2024, 15:37
+ * Created on 21 de setiembre de 2024, 19:52
  */
 
-#include <iostream>
 #include <iomanip>
+#include <iostream>
+
+using namespace std;
 #include "PunterosGenericos.h"
 #include "MuestraPunteroGenerico.h"
-using namespace std;
+
+
 
 int main(int argc, char** argv) {
-    void *clientes, *reserva;
-    //Pregunta 1
-    cargarclientes(clientes);
-    //pregunta 2
-    creareserva(reserva);
+    void *clientes,*reserva;
     
-    //Pregunta 3 
-    cargareservar(clientes,reserva);
+    cargaClientes(clientes);
+    creaReserva(reserva);
+    cargaRerserva(clientes,reserva);
     reportefinal(reserva);
+
     return 0;
 }
 
