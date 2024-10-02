@@ -1,0 +1,562 @@
+                Reporte de Entrega de pedidos por repartidor
+==========================================================================================
+Codigo del repartidor:  JNV387    Justino Norabuena Virginia Karina                                     
+Clientes Atendidos:  1
+------------------------------------------------------------------------------------------
+01)  DNI: 22598563
+          1 plato(s) de  TABERNERO GRAN TINTO Codigo: BE-265
+          1 plato(s) de  1/4 POLLO - ANTICUCHO Codigo: BR-592
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  PRT150    Pairazaman Raffo Tatiana Delicia                                      
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 68114999
+          3 plato(s) de  1/2 POLLO BBQ/HOT - ARROCERO Codigo: BR-926
+          1 plato(s) de  DELICIA GRANDE CON POLLO Codigo: EN-419
+          1 plato(s) de  PAPAS FRITAS Codigo: AD-518
+
+------------------------------------------------------------------------------------------
+02)  DNI: 77440060
+          2 plato(s) de  FINA RESERVA TINTO Codigo: BE-896
+          2 plato(s) de  CHEESECAKE DE FRESA Codigo: PO-620
+          3 plato(s) de  PAPAS FRITAS Codigo: AD-518
+
+------------------------------------------------------------------------------------------
+03)  DNI: 85395219
+          2 plato(s) de  CHEESECAKE DE FRESA Codigo: PO-620
+          3 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ENCAMOTADO Codigo: BR-665
+          3 plato(s) de  PAPAS FRITAS Codigo: AD-518
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  SYI157    Sam Yallico Ines                                                      
+Clientes Atendidos:  1
+------------------------------------------------------------------------------------------
+01)  DNI: 49357767
+          3 plato(s) de  PAPAS FRITAS Codigo: AD-518
+          3 plato(s) de  1/4 POLLO PARRILLERO ORIGINAL - ENCAMOTADO Codigo: BR-510
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  SMC480    Sakaguchi Mori Carlos Ronal                                           
+Clientes Atendidos:  0
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  SRY667    Sinche Rivero Yvonne Silvana                                          
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 57182371
+          3 plato(s) de  TRES LECHES Codigo: PO-611
+          3 plato(s) de  ARROZ CON LECHE Codigo: PO-731
+          2 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - PAPAS - ENSALADA Codigo: BR-319
+          3 plato(s) de  PIQUEOS MOLLEJITAS Codigo: PI-153
+
+------------------------------------------------------------------------------------------
+02)  DNI: 72973662
+          1 plato(s) de  BIFE A LA PARRILLA Codigo: PA-850
+          2 plato(s) de  CESARS GRANDE SOLO Codigo: EN-487
+
+------------------------------------------------------------------------------------------
+03)  DNI: 80694546
+          2 plato(s) de  1/2 POLLO BBQ/HOT A LO BRAVO Codigo: BR-142
+          2 plato(s) de  FANTA 1 LITRO Codigo: BE-987
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  ACA305    Asmad Chavez Adria                                                    
+Clientes Atendidos:  1
+------------------------------------------------------------------------------------------
+01)  DNI: 75100362
+          2 plato(s) de  1/2 POLLO BBQ/HOT - PAPAS - ENSALADA Codigo: BR-945
+          3 plato(s) de  HONEY GRANDE CON POLLO Codigo: EN-381
+          3 plato(s) de  LIMONADA 1 LITRO Codigo: BE-199
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  BCJ176    Bravo Cortes Janet Flor                                               
+Clientes Atendidos:  4
+------------------------------------------------------------------------------------------
+01)  DNI: 17299012
+          1 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO Codigo: BR-479
+          1 plato(s) de  1/4 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-950
+          2 plato(s) de  PIQUEOS CHORIZOS COCKTAIL Codigo: PI-488
+          1 plato(s) de  CESARS GRANDE CON POLLO Codigo: EN-690
+
+------------------------------------------------------------------------------------------
+02)  DNI: 31284904
+          3 plato(s) de  CHICHA 1 LITRO Codigo: BE-141
+          2 plato(s) de  CESARS GRANDE CON POLLO Codigo: EN-690
+
+------------------------------------------------------------------------------------------
+03)  DNI: 51465986
+          2 plato(s) de  FINA RESERVA TINTO Codigo: BE-896
+          3 plato(s) de  SANGUCHE PARRILLERO Codigo: SA-330
+
+------------------------------------------------------------------------------------------
+04)  DNI: 61061535
+          3 plato(s) de  PIQUEOS MINI POLLITOS PANKO Codigo: PI-539
+          2 plato(s) de  1/4 POLLO - ANTICUCHO Codigo: BR-592
+          1 plato(s) de  ANTICUCHO DE CORAZON AL PLATO Codigo: ES-796
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  ERI639    Escalante Rojas Ines Adria                                            
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 81539774
+          2 plato(s) de  BIFE A LA PARRILLA Codigo: PA-850
+          3 plato(s) de  CASILLERO DEL DIABLO TINTO Codigo: BE-955
+
+------------------------------------------------------------------------------------------
+02)  DNI: 91187814
+          1 plato(s) de  1/4 POLLO - ANTICUCHO Codigo: BR-592
+          3 plato(s) de  PIQUEOS MINI POLLITOS PANKO Codigo: PI-539
+          1 plato(s) de  LIMONADA 1 LITRO Codigo: BE-442
+          3 plato(s) de  CHEESECAKE DE MARACUYA Codigo: P0-621
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  LIH676    Lozada Iberos Heli Blanca                                             
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 28992638
+          3 plato(s) de  MOLLEJITAS AL PLATO Codigo: ES-815
+          1 plato(s) de  1/2 POLLO - ARROCERO Codigo: BR-197
+
+------------------------------------------------------------------------------------------
+02)  DNI: 45914393
+          2 plato(s) de  PALTA Codigo: AD-814
+          2 plato(s) de  1/2 POLLO BBQ/HOT - ANTICUCHO Codigo: BR-136
+          2 plato(s) de  INTIPALKA MALBEC Codigo: BE-810
+
+------------------------------------------------------------------------------------------
+03)  DNI: 94683380
+          1 plato(s) de  DELICIA GRANDE CON POLLO Codigo: EN-419
+          3 plato(s) de  PAPAS FRITAS 1/2 PORCION Codigo: AD-957
+          3 plato(s) de  1/2  POLLO - ANTICUCHO Codigo: BR-525
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  VSH648    Vega Soria Henrry                                                     
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 93231760
+          2 plato(s) de  PLATANO-HUEVO Codigo: AD-764
+          1 plato(s) de  PIQUEOS CHICHARRON DE POLLO Codigo: PI-608
+
+------------------------------------------------------------------------------------------
+02)  DNI: 93961840
+          2 plato(s) de  1/2 POLLO - ARROCERO Codigo: BR-197
+          3 plato(s) de  INKA COLA 1 LITRO Codigo: BE-160
+          2 plato(s) de  CERVEZA PILSEN Codigo: BE-137
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  SCR377    Solis Chung Rolando                                                   
+Clientes Atendidos:  4
+------------------------------------------------------------------------------------------
+01)  DNI: 27709566
+          3 plato(s) de  CESARS GRANDE SOLO Codigo: EN-487
+          2 plato(s) de  CHICHA1/2 LITRO Codigo: BE-903
+
+------------------------------------------------------------------------------------------
+02)  DNI: 35852072
+          1 plato(s) de  INKA COLA 1/2 LITRO Codigo: BE-864
+          1 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-272
+
+------------------------------------------------------------------------------------------
+03)  DNI: 59199342
+          2 plato(s) de  BROCHETAS DE POLLO Codigo: EN-758
+          3 plato(s) de  DELICIA GRANDE CON POLLO Codigo: EN-419
+
+------------------------------------------------------------------------------------------
+04)  DNI: 72937662
+          2 plato(s) de  BROCHETAS DE POLLO Codigo: EN-758
+          1 plato(s) de  1/2 POLLO BBQ/HOT - PAPAS - ENSALADA Codigo: BR-945
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  EBD360    Egusquiza Berrocal Doris Nancy                                        
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 32538825
+          1 plato(s) de  1/2 POLLO BBQ/HOT A LO BRAVO Codigo: BR-142
+          2 plato(s) de  FINA RESERVA TINTO Codigo: BE-896
+          2 plato(s) de  1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO Codigo: BR-326
+
+------------------------------------------------------------------------------------------
+02)  DNI: 59561864
+          2 plato(s) de  FANTA 1/2 LITRO Codigo: BE-489
+          3 plato(s) de  FRESCA REGULAR Codigo: EN-572
+          2 plato(s) de  PALTA Codigo: AD-814
+
+------------------------------------------------------------------------------------------
+03)  DNI: 86988155
+          1 plato(s) de  FINA RESERVA TINTO Codigo: BE-896
+          3 plato(s) de  1/4 POLLO A LO BRAVO Codigo: BR-578
+          1 plato(s) de  1/4 POLLO BBQ/HOT - PAPAS - ENSALADA Codigo: BR-621
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  VMM254    Valverde Maeireizo Melvin Jair                                        
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 60543714
+          1 plato(s) de  1/2 POLLO - PAPAS - ENSALADA Codigo: BR-611
+          1 plato(s) de  1/2  POLLO - ANTICUCHO Codigo: BR-525
+
+------------------------------------------------------------------------------------------
+02)  DNI: 77324146
+          1 plato(s) de  FANTA 1 LITRO Codigo: BE-987
+          3 plato(s) de  INTIPALKA SYRAH Codigo: BE-475
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  FCA273    Florencio Coronado Alonso                                             
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 34697743
+          1 plato(s) de  1/2 POLLO - ARROCERO Codigo: BR-197
+          2 plato(s) de  PARRILLA PARA CUATRO Codigo: PA-500
+
+------------------------------------------------------------------------------------------
+02)  DNI: 95656771
+          3 plato(s) de  1/4 POLLO BBQ/HOT - ARROCERO Codigo: BR-760
+          1 plato(s) de  ARROZ Codigo: AD-760
+
+------------------------------------------------------------------------------------------
+03)  DNI: 99774549
+          1 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-272
+          1 plato(s) de  PLATANO Codigo: AD-377
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  TJL725    Trigueros Jugo Luz                                                    
+Clientes Atendidos:  0
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  LAF361    Lozada Arguedas Felicita Valentina                                    
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 12484697
+          2 plato(s) de  CHOCLO Codigo: AD-546
+          1 plato(s) de  MAZAMORRA MORADA Codigo: PO-751
+          3 plato(s) de  ANTICUCHO DE CORAZON Codigo: EN-766
+          3 plato(s) de  SPRITE 1 LITRO Codigo: BE-536
+
+------------------------------------------------------------------------------------------
+02)  DNI: 51642949
+          2 plato(s) de  CESARS GRANDE CON POLLO Codigo: EN-690
+          3 plato(s) de  PIQUEOS CHICHARRON DE POLLO Codigo: PI-608
+
+------------------------------------------------------------------------------------------
+03)  DNI: 90367684
+          3 plato(s) de  LIMONADA 1 LITRO Codigo: BE-199
+          2 plato(s) de  HONEY GRANDE SOLO Codigo: EN-606
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  RAK361    Ramirez Astete Karina Estefania                                       
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 22679759
+          3 plato(s) de  ANTICUCHO DE CORAZON Codigo: EN-766
+          2 plato(s) de  SPRITE 1 LITRO Codigo: BE-536
+          3 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ENCAMOTADO Codigo: BR-665
+          1 plato(s) de  ANTICUCHO Codigo: AD-265
+
+------------------------------------------------------------------------------------------
+02)  DNI: 25062013
+          1 plato(s) de  HONEY GRANDE SOLO Codigo: EN-606
+          2 plato(s) de  ANTICUCHO DE CORAZON AL PLATO Codigo: ES-796
+
+------------------------------------------------------------------------------------------
+03)  DNI: 34571095
+          1 plato(s) de  LIMONADA 1 LITRO Codigo: BE-199
+          2 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-272
+          3 plato(s) de  1/4 POLLO  PARRILLERO ORIGINAL- ARROCERO Codigo: BR-283
+          1 plato(s) de  FRESCA GRANDE Codigo: EN-214
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  VSM267    Vizcardo Sinche Maribel                                               
+Clientes Atendidos:  1
+------------------------------------------------------------------------------------------
+01)  DNI: 99891737
+          1 plato(s) de  INTIPALKA SYRAH Codigo: BE-475
+          3 plato(s) de  PARRILLA PARA DOS Codigo: PA-692
+          1 plato(s) de  1/2 POLLO  PARRILLERO ORIGINAL- ARROCERO Codigo: BR-745
+          2 plato(s) de  CERVEZA CUSQUENA Codigo: BE-431
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  PVJ527    Prado Vera Juan                                                       
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 93282118
+          3 plato(s) de  PLATANO-HUEVO Codigo: AD-764
+          2 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - PAPAS - ENSALADA Codigo: BR-319
+          2 plato(s) de  1/4 POLLO - PAPAS - ENSALADA Codigo: BR-921
+          1 plato(s) de  COCIDA REGULAR Codigo: EN-549
+
+------------------------------------------------------------------------------------------
+02)  DNI: 93939698
+          2 plato(s) de  COCIDA REGULAR Codigo: EN-549
+          3 plato(s) de  SANGUCHE BRASA Codigo: SA-338
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  MAF774    Moscoso Arias Fiorella                                                
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 30246960
+          1 plato(s) de  1/4 POLLO  PARRILLERO ORIGINAL- ARROCERO Codigo: BR-283
+          3 plato(s) de  1/4 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-950
+
+------------------------------------------------------------------------------------------
+02)  DNI: 72330000
+          3 plato(s) de  INTIPALKA MALBEC Codigo: BE-810
+          1 plato(s) de  SANGUCHE PARRILLERO Codigo: SA-330
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  CCJ708    Contreras Chang Johana Cinthia                                        
+Clientes Atendidos:  1
+------------------------------------------------------------------------------------------
+01)  DNI: 51873364
+          2 plato(s) de  TRES LECHES Codigo: PO-611
+          3 plato(s) de  DELICIA MEDIANA CON POLLO Codigo: EN-910
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  JDC639    Jauregui Del Castillo Victor Ricardo                                  
+Clientes Atendidos:  0
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  PBD627    Patino Bolanos Delicia Virginia                                       
+Clientes Atendidos:  0
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  MCE193    Mercado Coronel Elia                                                  
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 15290194
+          1 plato(s) de  1/4 POLLO  PARRILLERO ORIGINAL- ARROCERO Codigo: BR-283
+          1 plato(s) de  SANGUCHE BRASA Codigo: SA-338
+          3 plato(s) de  SPRITE1/2 LITRO Codigo: BE-227
+          3 plato(s) de  CHEESECAKE DE MARACUYA Codigo: P0-621
+
+------------------------------------------------------------------------------------------
+02)  DNI: 68269451
+          1 plato(s) de  CERVEZA PILSEN Codigo: BE-137
+          1 plato(s) de  CASILLERO DEL DIABLO TINTO Codigo: BE-955
+          3 plato(s) de  1/4 POLLO  PARRILLERO ORIGINAL- ARROCERO Codigo: BR-283
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  ATN985    Arroyo Tomasiche Natalia                                              
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 45201670
+          3 plato(s) de  PIQUEOS MINI POLLITOS PANKO Codigo: PI-539
+          1 plato(s) de  1/4 POLLO A LO BRAVO Codigo: BR-578
+
+------------------------------------------------------------------------------------------
+02)  DNI: 86836066
+          1 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-272
+          3 plato(s) de  CERVEZA PILSEN Codigo: BE-137
+          3 plato(s) de  DELICIA MEDIANA CON POLLO Codigo: EN-910
+          2 plato(s) de  1/2 POLLO A LO BRAVO Codigo: BR-756
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  NCJ980    Narvaez Castillo Jesus Rafael                                         
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 20371464
+          1 plato(s) de  CERVEZA PILSEN Codigo: BE-137
+          3 plato(s) de  1/4 POLLO BBQ/HOT - ENCAMOTADO Codigo: BR-823
+
+------------------------------------------------------------------------------------------
+02)  DNI: 54149342
+          1 plato(s) de  CHICHARRON DE POLLO AL PLATO Codigo: ES-644
+          1 plato(s) de  1/2  POLLO - ANTICUCHO Codigo: BR-525
+
+------------------------------------------------------------------------------------------
+03)  DNI: 59596317
+          3 plato(s) de  1/4 POLLO - ANTICUCHO Codigo: BR-592
+          2 plato(s) de  LIMONADA 1 LITRO Codigo: BE-199
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  CPY191    Camacho Pairazaman Ydali Lucero                                       
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 43704548
+          2 plato(s) de  ANTICUCHO DE CORAZON Codigo: EN-766
+          2 plato(s) de  1 BOLA DE HELADO Codigo: PO-471
+          1 plato(s) de  PLATANO Codigo: AD-377
+          2 plato(s) de  PIQUEOS MINI POLLITOS PANKO Codigo: PI-539
+
+------------------------------------------------------------------------------------------
+02)  DNI: 65912822
+          2 plato(s) de  SANGUCHE PARRILLERO Codigo: SA-330
+          3 plato(s) de  TABERNERO GRAN TINTO Codigo: BE-265
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  LFD120    Lozada Forzani Delia                                                  
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 35347567
+          3 plato(s) de  SPRITE 1 LITRO Codigo: BE-536
+          1 plato(s) de  1/4 POLLO BBQ/HOT - ANTICUCHO Codigo: BR-365
+
+------------------------------------------------------------------------------------------
+02)  DNI: 62126128
+          3 plato(s) de  CHEESECAKE DE MARACUYA Codigo: P0-621
+          3 plato(s) de  1/2 POLLO BBQ/HOT A LO BRAVO Codigo: BR-142
+
+------------------------------------------------------------------------------------------
+03)  DNI: 79133967
+          2 plato(s) de  SENSACION GRANDE CON POLLO Codigo: EN-894
+          2 plato(s) de  CESARS MEDIANA CON POLLO Codigo: EN-493
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  RMB124    Rodriguez Moreno Blanca Ofelia                                        
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 35606314
+          1 plato(s) de  TEQUENO Codigo: AD-939
+          1 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-272
+
+------------------------------------------------------------------------------------------
+02)  DNI: 37282858
+          2 plato(s) de  DELICIA GRANDE CON POLLO Codigo: EN-419
+          3 plato(s) de  HUEVO Codigo: AD-991
+          2 plato(s) de  1/4 POLLO BBQ/HOT A LO BRAVO Codigo: BR-419
+          2 plato(s) de  SANGRIA Codigo: BE-695
+
+------------------------------------------------------------------------------------------
+03)  DNI: 66039166
+          1 plato(s) de  MAZAMORRA MORADA Codigo: PO-751
+          1 plato(s) de  INTIPALKA MALBEC Codigo: BE-810
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  ZPA452    Zarate Perez Alexander                                                
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 14956687
+          1 plato(s) de  FRESCA GRANDE Codigo: EN-214
+          2 plato(s) de  BROCHETAS DE POLLO Codigo: EN-758
+
+------------------------------------------------------------------------------------------
+02)  DNI: 53420926
+          1 plato(s) de  INKA COLA 1/2 LITRO Codigo: BE-864
+          2 plato(s) de  PIQUEOS ANTICUCHO Codigo: PI-392
+          1 plato(s) de  1/4 POLLO - ANTICUCHO Codigo: BR-592
+          2 plato(s) de  PAPAS DORADAS Codigo: AD-477
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  DTE915    Diaz Tang Enrique                                                     
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 36471787
+          1 plato(s) de  1/4 POLLO BBQ/HOT - ARROCERO Codigo: BR-760
+          2 plato(s) de  SENSACION MEDIANA CON POLLO Codigo: EN-691
+          3 plato(s) de  TORTA DE NARANJA Codigo: PO-172
+          2 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ENCAMOTADO Codigo: BR-665
+
+------------------------------------------------------------------------------------------
+02)  DNI: 66091742
+          1 plato(s) de  ANTICUCHO Codigo: AD-265
+          2 plato(s) de  PAPAS FRITAS Codigo: AD-518
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  PSG279    Pena Suarez Glenda Margot                                             
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 41964357
+          3 plato(s) de  1/2 POLLO A LO BRAVO Codigo: BR-756
+          2 plato(s) de  DELICIA MEDIANA CON POLLO Codigo: EN-910
+
+------------------------------------------------------------------------------------------
+02)  DNI: 62287143
+          3 plato(s) de  PIQUEOS BROCHETA Codigo: PI-404
+          3 plato(s) de  1/4 POLLO PARRILLERO ORIGINAL - PAPAS - ENSALADA Codigo: BR-864
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  SNM868    Solis Narvaez Maria Madeleine                                         
+Clientes Atendidos:  5
+------------------------------------------------------------------------------------------
+01)  DNI: 52313890
+          2 plato(s) de  1/4 POLLO - PAPAS - ENSALADA Codigo: BR-921
+          1 plato(s) de  PIQUEOS BROCHETA Codigo: PI-404
+
+------------------------------------------------------------------------------------------
+02)  DNI: 58643376
+          3 plato(s) de  1/2 POLLO A LO BRAVO Codigo: BR-756
+          3 plato(s) de  1/2 POLLO BBQ/HOT - ARROCERO Codigo: BR-926
+
+------------------------------------------------------------------------------------------
+03)  DNI: 63640178
+          3 plato(s) de  CESARS MEDIANA CON POLLO Codigo: EN-493
+          3 plato(s) de  PARRILLA PARA CUATRO Codigo: PA-500
+
+------------------------------------------------------------------------------------------
+04)  DNI: 81647285
+          3 plato(s) de  TEQUEÑOS Codigo: AP-428
+          1 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ANTICUCHO Codigo: BR-272
+          1 plato(s) de  1/2 POLLO A LO BRAVO Codigo: BR-756
+          2 plato(s) de  LOMO A LA PARRILLA Codigo: PA-871
+
+------------------------------------------------------------------------------------------
+05)  DNI: 92275859
+          2 plato(s) de  FRESCA GRANDE Codigo: EN-214
+          3 plato(s) de  1/2 POLLO BBQ/HOT - ENCAMOTADO Codigo: BR-297
+          2 plato(s) de  ARROZ Codigo: AD-760
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  HLM152    Hijar Lam Martin                                                      
+Clientes Atendidos:  3
+------------------------------------------------------------------------------------------
+01)  DNI: 36934113
+          3 plato(s) de  1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO Codigo: BR-326
+          1 plato(s) de  INTIPALKA MALBEC Codigo: BE-810
+
+------------------------------------------------------------------------------------------
+02)  DNI: 54815159
+          2 plato(s) de  CERVEZA PILSEN Codigo: BE-137
+          2 plato(s) de  COCA COLA 1/2 LITRO Codigo: BE-747
+          2 plato(s) de  PIQUEOS ANTICUCHO Codigo: PI-392
+
+------------------------------------------------------------------------------------------
+03)  DNI: 71422479
+          2 plato(s) de  FRESCA GRANDE Codigo: EN-214
+          1 plato(s) de  1/4 POLLO BBQ/HOT - ARROCERO Codigo: BR-760
+
+------------------------------------------------------------------------------------------
+==========================================================================================
+Codigo del repartidor:  LVW759    Luna Vargas Waldemar                                                  
+Clientes Atendidos:  2
+------------------------------------------------------------------------------------------
+01)  DNI: 13731806
+          2 plato(s) de  PLATANO-HUEVO Codigo: AD-764
+          1 plato(s) de  COCIDA GRANDE Codigo: EN-156
+          3 plato(s) de  1/2 POLLO PARRILLERO ORIGINAL - ENCAMOTADO Codigo: BR-665
+
+------------------------------------------------------------------------------------------
+02)  DNI: 79100967
+          2 plato(s) de  ANTICUCHO Codigo: AP-410
+          2 plato(s) de  PLATANO-HUEVO Codigo: AD-764
+
+------------------------------------------------------------------------------------------
+==========================================================================================
