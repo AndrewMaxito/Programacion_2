@@ -23,7 +23,7 @@ void cargaClientes(void *&clientes) {
     AperturaDeUnArchivoDeTextosParaLeer(arch, "Clientes.csv");
 
     void **regClientes, *ptrRegClientes;
-    regClientes = nullptr;
+    clientes = nullptr;
     //54393647,Reyes Tang Edward 
     //67066631,Arca Amezquita Edric Ronald
     int cantCli = 0, capCli = 0;
@@ -32,11 +32,11 @@ void cargaClientes(void *&clientes) {
         if (ptrRegClientes == nullptr) break; //esta vacio
         //verificar si hay espacios sufientes
         if (capCli == cantCli)
-            incrementarEspaciosParaCliente(regClientes, cantCli, capCli);
+            incrementarEspaciosParaCliente(clientes, cantCli, capCli);
+        regClientes=(void **)clientes;
         regClientes[cantCli - 1] = ptrRegClientes;
         cantCli++;
     }
-    clientes = regClientes;
     muestraclientes(clientes); //prueba
 }
 
@@ -51,30 +51,30 @@ void *leerRegistroClientes(ifstream &arch) {
 
     nomCli = new char [strlen(buff) + 1];
     strcpy(nomCli, buff);
-
     dni = new int (numDni);
-
-    datos = new void* [2] {
-        dni, nomCli
-    };
+    datos = new void* [2];
+    datos[0]=dni;
+    datos[1]=nomCli;
     return datos;
 }
 
-void incrementarEspaciosParaCliente(void **&regClientes, int &cantCli, int &capCli) {
+void incrementarEspaciosParaCliente(void *&clientes, int &cantCli, int &capCli) {
     capCli += 5;
-    if (regClientes == nullptr) {
-        regClientes = new void *[capCli] {
+    void **regClientesCas;
+    if (clientes == nullptr) {
+        void **regClientesCas = new void *[capCli] {
         }; // inicializados en nullptr
         cantCli = 1;
-
+        clientes = regClientesCas;
     } else {
         void **auxRegCli = new void *[capCli] {
         };
-        for (int i = 0; regClientes[i]; i++) {
-            auxRegCli[i] = regClientes[i];
+        regClientesCas=(void **)clientes;
+        for (int i = 0; regClientesCas[i]; i++) {
+            auxRegCli[i] = regClientesCas[i];
         }
-        delete regClientes;
-        regClientes = auxRegCli;
+        delete regClientesCas;
+        clientes = auxRegCli;
     }
 }
 

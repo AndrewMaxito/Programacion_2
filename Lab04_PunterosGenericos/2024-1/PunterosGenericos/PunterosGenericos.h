@@ -14,7 +14,7 @@
 
 void cargaClientes(void *&clientes);
 void *leerRegistroClientes(ifstream &arch);
-void incrementarEspaciosParaCliente(void **&regClientes,int &cantCli,int &capCli);
+void incrementarEspaciosParaCliente(void *&regClientes,int &cantCli,int &capCli);
 
 //Pregunta 2
 void creaReserva(void *&reserva);
