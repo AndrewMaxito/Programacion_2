@@ -2,7 +2,7 @@
  * File:   PilaConRegistros.cpp
  * Author: andre
  * 
- * Created on 10 de octubre de 2024, 20:28
+ * Created on 19 de octubre de 2024, 18:40
  */
 
 #include "PilaConRegistros.h"

@@ -1,17 +1,14 @@
-
-
 /* 
  * File:   PilaConEnteros.h
  * Author: andre
  *
- * Created on 10 de octubre de 2024, 20:28
+ * Created on 19 de octubre de 2024, 18:40
  */
 
 #ifndef PILACONENTEROS_H
 #define PILACONENTEROS_H
-#include <fstream>
-using namespace std;
+
 void *leeNumero(ifstream &arch);
-double calculaNumero(void *);
+double calculaNumero(void *datos);
 
 #endif /* PILACONENTEROS_H */
