@@ -31,6 +31,7 @@ int main(int argc, char** argv) {
     muestraventas(ventas);
     
     cargaRanking(ranking,creaRegistro,ventas);
+    muestraRanking(ranking,imprimeRegistro,"ranking.txt",ventas);
     
     
 

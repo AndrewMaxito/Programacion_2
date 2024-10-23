@@ -13,5 +13,6 @@
 #ifndef REGISTROS_H
 #define REGISTROS_H
 void *creaRegistro(void *venta);
+void imprimeRegistro(ofstream &arch,void *);
 
 #endif /* REGISTROS_H */
