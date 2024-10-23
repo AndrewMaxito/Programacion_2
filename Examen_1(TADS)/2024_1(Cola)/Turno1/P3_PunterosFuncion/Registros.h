@@ -14,5 +14,6 @@
 #define REGISTROS_H
 void *creaRegistro(void *venta);
 void imprimeRegistro(ofstream &arch,void *);
+void imprimeLineas(ofstream &arch,int cant,char car);
 
 #endif /* REGISTROS_H */

@@ -113,7 +113,6 @@ bool colaVacia(void *cola) {
     return false;
 }
 
-
 void muestraRanking(void *ranking,void (*imprimeRegistro)(ofstream &,void *), 
         const char *nomArch,void *ventas){
     ofstream arch(nomArch,ios::out);
@@ -122,12 +121,10 @@ void muestraRanking(void *ranking,void (*imprimeRegistro)(ofstream &,void *),
         exit(1);
     }
     void *datosReg;
-    
     while (!colaVacia(ranking)) {
         datosReg = desencola(ranking);
-//        void **datos = (void **)datosReg;
-        
         imprimeRegistro(arch,datosReg);
+        arch << endl;
     } 
 }
 

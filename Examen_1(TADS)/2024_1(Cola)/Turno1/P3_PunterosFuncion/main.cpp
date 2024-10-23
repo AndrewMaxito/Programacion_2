@@ -20,21 +20,20 @@ int main(int argc, char** argv) {
     int **ventasDniFechaPuntaje;
     void *ventas;
     
-    void *ranking;//--------------------------
+    void *ranking;
 
+    //Pregunta 1
     cargaVentas(ventaLibroCodigo, ventasDniFechaPuntaje, "Ventas.csv");
     cargaLibros(libro, "Libros.csv");
-
-    cargaVentas(libro, ventas);
     
+    //Pregunta 2
+    cargaVentas(libro, ventas);
     actulizarVentas(ventasDniFechaPuntaje, ventaLibroCodigo, ventas);
     muestraventas(ventas);
     
+    //Pregunta 3
     cargaRanking(ranking,creaRegistro,ventas);
     muestraRanking(ranking,imprimeRegistro,"ranking.txt",ventas);
-    
-    
-
     return 0;
 }
 
