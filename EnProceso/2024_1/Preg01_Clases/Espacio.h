@@ -8,6 +8,8 @@
 
 #ifndef ESPACIO_H
 #define ESPACIO_H
+#include <fstream>
+using namespace std;
 
 class Espacio {
 public:
@@ -24,6 +26,7 @@ private:
     int posx;
     int posy;
 };
+void operator <<(ofstream &arch,class Espacio &espa);
 
 #endif /* ESPACIO_H */
 

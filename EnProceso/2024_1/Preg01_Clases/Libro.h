@@ -36,6 +36,6 @@ private:
     bool colocado;
 };
 void operator >> (ifstream &arch,class Libro &lib);
-
+void operator << (ofstream &arch,class Libro &lib);
 #endif /* LIBRO_H */
 

@@ -5,6 +5,11 @@
  * 
  * Created on 30 de octubre de 2024, 11:28
  */
+#include <iostream>
+#include <iomanip>
+#include <fstream>
+#include <cstring>
+using namespace std;
 
 #include "Espacio.h"
 
@@ -38,6 +43,11 @@ char Espacio::GetContenido() const {
     return contenido;
 }
 
+void operator <<(ofstream &arch,class Espacio &espa){
+    if (espa.GetContenido() == 'D'){
+        arch << "[   ]";
+    }else arch << "[ * ]";
+}
 
 
 

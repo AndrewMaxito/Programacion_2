@@ -21,8 +21,6 @@ Libro::Libro() {
     colocado = false;
 }
 
-
-
 Libro::~Libro() {
     if (codigo != nullptr) delete[] codigo;
     if (nombre != nullptr) delete[] nombre;
@@ -54,37 +52,37 @@ int Libro::GetAncho() const {
 
 void Libro::SetNombre(const char* cad) {
     if (nombre != nullptr)delete[] nombre;
-    nombre = new char [strlen(cad)+1];
-    strcpy(nombre,cad);
+    nombre = new char [strlen(cad) + 1];
+    strcpy(nombre, cad);
 }
 
 void Libro::GetNombre(char *cad) const {
     if (nombre == nullptr) cad[0] = 0;
-    else strcpy(cad,nombre);
+    else strcpy(cad, nombre);
 }
 
 void Libro::SetCodigo(const char* cad) {
     if (codigo != nullptr)delete[] codigo;
-    codigo = new char [strlen(cad)+1];
-    strcpy(codigo,cad);
+    codigo = new char [strlen(cad) + 1];
+    strcpy(codigo, cad);
 }
 
 void Libro::GetCodigo(char *cad) const {
     if (codigo == nullptr) cad[0] = 0;
-    else strcpy(cad,codigo);
+    else strcpy(cad, codigo);
 }
 
-void operator >> (ifstream &arch,class Libro &lib){
+void operator>>(ifstream &arch, class Libro &lib) {
     //ABC123, El libro de la Selva, 1, 3
-    char codigo[10],nombre[100],c;
-    int ancho,alto;
-    
-    arch.getline(codigo,10,',');
-    if (arch.eof())return ;
-    arch.getline(nombre,100,',');
+    char codigo[10], nombre[100], c;
+    int ancho, alto;
+
+    arch.getline(codigo, 10, ',');
+    if (arch.eof())return;
+    arch.getline(nombre, 100, ',');
     arch >> ancho >> c >> alto;
     arch.get(); // salto de linea
-    
+
     //
     lib.SetCodigo(codigo);
     lib.SetNombre(nombre);
@@ -92,3 +90,11 @@ void operator >> (ifstream &arch,class Libro &lib){
     lib.SetAlto(alto);
 }
 
+void operator<<(ofstream &arch, class Libro &lib) {
+    char codigo[10], nombre[100];
+    lib.GetCodigo(codigo);
+    lib.GetNombre(nombre);
+
+    arch << left << setw(15) << codigo << setw(60) << nombre << setw(10) << 
+            lib.GetAncho() << lib.GetAlto() << endl;
+}

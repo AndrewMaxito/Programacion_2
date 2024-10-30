@@ -39,6 +39,15 @@ int main(int argc, char** argv) {
     //Agregacion
     estantes[0] += libros[0];
     
+    ofstream archRep("reportePrueba.txt",ios::out);
+    if (!archRep.is_open()) {
+        cout<< "error no se pudo abrir el archivo reporte"<<endl;
+        exit(1);
+    }
+    archRep << libros[0];
+    
+    archRep << estantes[0];
+
     
 
     return 0;

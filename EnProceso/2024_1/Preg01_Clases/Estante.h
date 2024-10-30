@@ -29,9 +29,11 @@ public:
     void GetCodigo(char *cad) const;
     //
     bool operator += (class Libro &lib);
+    void espaciosEstantes(int altura,int anchura);
 //    int metodoEspacioAnchoDisponible();
     int metodoEspacioLibreAncho();
     void modificarEspacios(int posxLibre,int anchoLib,int altoLib);
+    void imprimeEstantes(ofstream &arch,int i,int j);
 private:
     char *codigo;
     int anchura;
@@ -42,5 +44,6 @@ private:
 };
 
 void operator >> (ifstream &arch,class Estante &estan);
+void operator << (ofstream &arch,class Estante &estan);
 #endif /* ESTANTE_H */
 
