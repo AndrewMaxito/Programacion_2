@@ -12,6 +12,7 @@
 using namespace std;
 #define NO_ENCONTRADO -1
 #include "Estante.h"
+//#include "Espacio.h"
 
 Estante::Estante() {
     codigo = nullptr;
@@ -70,7 +71,7 @@ void operator>>(ifstream &arch, class Estante &estan) {
 
     arch.getline(codigo, 10, ',');
     if (arch.eof())return;
-    arch >> altura >> c >> altura;
+    arch >> altura >> c >> anchura;
     arch.get(); //salto de linea
 
     //
@@ -88,21 +89,19 @@ void Estante::espaciosEstantes(int filas, int columna) {
     //pones las cordinadas a cada una y por defecto estaran disponibles
     for (int i = 0; i < filas; i++) {
         for (int j = 0; j < columna; j++) {
-            espacios[columna * j + i].SetPosx(i);
-            espacios[columna * j + i].SetPosy(j);
+            espacios[columna * i + j].SetPosx(j);
+            espacios[columna * i + j].SetPosy(i);
         }
     }
 }
 
 bool Estante::operator+=(class Libro &lib) {
-
     //primero se verifica que el al menos puede pude entarar al estante
-
     if (anchura >= lib.GetAncho() and altura >= lib.GetAlto()) { //si es compatible
         //ahora se verifica que hay un espacio disponible con las medidas para el libro
         int posxLibre = metodoEspacioLibreAncho();
         if (posxLibre != NO_ENCONTRADO and (anchura - posxLibre) >= lib.GetAncho()) {
-            libros[cantidad_libros] = lib;
+            libros[cantidad_libros] = lib; //implementar constructor copia
             modificarEspacios(posxLibre, lib.GetAncho(), lib.GetAlto());
             cantidad_libros++;
             return true;
@@ -124,9 +123,10 @@ int Estante::metodoEspacioLibreAncho() {
 
 void Estante::modificarEspacios(int posxLibre, int anchoLib, int altoLib) {
 
-    for (int i = 0; i < anchoLib; i++) {
-        for (int j = 0; j < altoLib; j++) {
-            espacios[altura * j + (posxLibre + i)].SetContenido('O');
+    for (int i = 0; i < altoLib; i++) {
+        for (int j = 0; j < anchoLib; j++) {
+
+            espacios[anchura * i + (posxLibre + j)].SetContenido('O');
         }
     }
 }
@@ -138,21 +138,34 @@ void operator<<(ofstream &arch, class Estante &estan) {
     arch << left << "Codigo Estante:  " << setw(15) << codigo <<
             "Cantidad de Libros: " << estan.GetCantidad_libros() << endl;
 
-    arch << "Anchura del Estante: " << setw(15) << estan.GetAnchura() <<
-            "Altura del Estante: " << estan.GetAltura() << endl;
+    arch << "Anchura del Estante: " << setw(11) << estan.GetAnchura() <<
+            "Altura del Estante: " << estan.GetAltura()<< endl;
 
     int fila = estan.GetAltura();
     int columna = estan.GetAnchura();
-    for (int i = 0; i < fila; i++) {
+    for (int i = fila - 1; i >= 0; i--) {
         for (int j = 0; j < columna; j++) {
             estan.imprimeEstantes(arch, i, j);
         }
+        arch << endl;
     }
-
+    arch << endl;
+    arch << setw(16) << "Codigo" << setw(57) << "Nombre" << setw(15) << "ANCHO" 
+            << "ALTO" << endl;
+    for (int i = 0; i < estan.GetCantidad_libros(); i++) {
+        estan.imprimirLibros(arch, i);
+    }
 }
-void Estante::imprimeEstantes(ofstream &arch, int i, int j){
-    
-    
-    
+
+void Estante::imprimeEstantes(ofstream &arch, int i, int j) {
+    arch << espacios[anchura * i + j];
+}
+
+void Estante::imprimirLibros(ofstream &arch, int i) {
+    char codigo[10], nombre[100];
+    libros[i].GetCodigo(codigo);
+    libros[i].GetNombre(nombre);
+    arch << setw(15) << codigo << setw(60) << nombre << setw(15) <<
+            libros[i].GetAncho() << libros[i].GetAlto() << endl;
 }
 

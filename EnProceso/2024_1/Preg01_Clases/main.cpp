@@ -45,11 +45,7 @@ int main(int argc, char** argv) {
         exit(1);
     }
     archRep << libros[0];
-    
     archRep << estantes[0];
-
-    
-
     return 0;
 }
 

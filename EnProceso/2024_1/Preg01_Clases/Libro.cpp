@@ -96,5 +96,5 @@ void operator<<(ofstream &arch, class Libro &lib) {
     lib.GetNombre(nombre);
 
     arch << left << setw(15) << codigo << setw(60) << nombre << setw(10) << 
-            lib.GetAncho() << lib.GetAlto() << endl;
+            lib.GetAncho() << lib.GetAlto()<< endl;
 }

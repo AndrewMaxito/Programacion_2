@@ -1,3 +1,12 @@
 ABC123          El libro de la Selva                                       1         3
-Codigo Estante:  AAA            Cantidad de Libros: 0
-Anchura del Estante: 0              Altura del Estante: 4
+Codigo Estante:  AAA            Cantidad de Libros: 1
+Anchura del Estante: 4          Altura del Estante: 6
+[   ][   ][   ][   ]
+[   ][   ][   ][   ]
+[   ][   ][   ][   ]
+[ * ][   ][   ][   ]
+[ * ][   ][   ][   ]
+[ * ][   ][   ][   ]
+
+Codigo          Nombre                                                   ANCHO          ALTO
+ABC123          El libro de la Selva                                       1              3

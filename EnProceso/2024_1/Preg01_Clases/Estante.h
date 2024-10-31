@@ -34,6 +34,7 @@ public:
     int metodoEspacioLibreAncho();
     void modificarEspacios(int posxLibre,int anchoLib,int altoLib);
     void imprimeEstantes(ofstream &arch,int i,int j);
+    void imprimirLibros(ofstream &arch,int i);
 private:
     char *codigo;
     int anchura;
