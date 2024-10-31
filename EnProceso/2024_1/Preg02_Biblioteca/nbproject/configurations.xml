@@ -4,6 +4,10 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>Biblioteca.h</itemPath>
+      <itemPath>Espacio.h</itemPath>
+      <itemPath>Estante.h</itemPath>
+      <itemPath>Libro.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -12,6 +16,10 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>Biblioteca.cpp</itemPath>
+      <itemPath>Espacio.cpp</itemPath>
+      <itemPath>Estante.cpp</itemPath>
+      <itemPath>Libro.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -36,6 +44,22 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="Biblioteca.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biblioteca.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Espacio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Espacio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Estante.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Estante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Libro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Libro.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -59,6 +83,22 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Biblioteca.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biblioteca.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Espacio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Espacio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Estante.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Estante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Libro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Libro.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
