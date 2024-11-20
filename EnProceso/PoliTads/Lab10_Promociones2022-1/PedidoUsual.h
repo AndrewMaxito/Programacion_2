@@ -18,6 +18,8 @@ class PedidoUsual: public Pedido {
 public:
     PedidoUsual();
     void lee(ifstream& arch, int codigo) override;
+    void imprime(ofstream& arch) override;
+    void modificarFlete() override;
 
     
 private:

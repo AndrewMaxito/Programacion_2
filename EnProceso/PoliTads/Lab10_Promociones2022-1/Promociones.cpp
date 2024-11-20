@@ -41,3 +41,40 @@ void Promociones::leePedidos(){
         Lpedidos.insertarOrdenado(pedido);
     }
 }
+
+void Promociones::imprimePedidos() {
+    ofstream arch("ReporteInicial.txt",ios::out);
+    if (!arch) {
+        cout << "No se pudo abrir el archivo ReporteInicial.txt"<<endl;
+        exit(1);
+    }
+    
+    arch << setw(40)<<' '<<"Reporte De Promociones"<<endl;
+    imprimeLineas(arch,100,'=');
+    arch << fixed <<setprecision(2);
+    Lpedidos.imprimirLista(arch);
+}
+
+void Promociones::imprimeLineas(ofstream& arch, int cant,char car) {
+    for (int i=0;i < cant;i++)arch<< car;
+    arch <<endl;
+}
+//33713901,06/06/2019
+//57263719,01/10/2020
+void Promociones::actualizarPedidos() {
+    ifstream arch("promocion.csv",ios::in);
+    if (!arch){
+        cout << "No se pudo abrir el archivo promocion.csv"<<endl;
+        exit(1);
+    }
+    int dniPer,aa,mm,dd;
+    int fecha;
+    char c;
+    while (true) {
+        arch >> dniPer;
+        if (arch.eof())break;
+        arch >> c >> dd >> c >> mm >> c >> aa;
+        fecha  = aa*10000+mm*100+dd;
+        Lpedidos.modificarFlete(dniPer,fecha);
+    }
+}

@@ -29,6 +29,9 @@ public:
     int GetDni() const;
     void SetCantidad(int cantidad);
     int GetCantidad() const;
+    virtual void imprime(ofstream &arch);
+    //
+    virtual void modificarFlete() = 0;
 
 private:
     int codigo;

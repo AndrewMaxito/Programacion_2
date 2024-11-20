@@ -25,5 +25,17 @@ void PedidoUsual::lee(ifstream& arch, int codigo) {
     Pedido::lee(arch,codigo);
 }
 
+void PedidoUsual::imprime(ofstream& arch) {
+    Pedido::imprime(arch);
+    arch << "Tipo: Pedido Usual"<<endl;
+    arch << setw(15)<<"Descuento: "<<descuento<<"%"<<endl;
+    arch <<setw(15)<<"Flete: "<<flete<<"%"<<endl;
+}
+
+void PedidoUsual::modificarFlete() {
+    flete = 0;
+}
+
+
 
 

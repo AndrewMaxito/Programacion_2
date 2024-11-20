@@ -17,6 +17,7 @@ public:
     Nodo();
     friend class Lista;
 private:
+    
     Pedido *ped;
     Nodo *sig;
     Nodo *ant;

@@ -16,10 +16,19 @@ Lista::Lista() {
     lini = nullptr;
     lfin = nullptr;
 }
-
 Lista::~Lista() {
-    //Destruir lista
+    // Destruir lista
+    Nodo *recorridoInv = lfin;
+    while (recorridoInv) {
+        Nodo *eliminar = recorridoInv;
+        recorridoInv = recorridoInv->ant; // Avanza al nodo anterior
+        delete eliminar->ped;            // Libera la memoria del contenido
+        delete eliminar;                 // Libera la memoria del nodo
+    }
+    lfin = nullptr; // Establece los punteros de la lista a nullptr
+    lini = nullptr;
 }
+
 void Lista::insertarOrdenado(Pedido *pedido) {
     Nodo *nuevoNodo = new Nodo;
     nuevoNodo->ped = pedido;
@@ -32,8 +41,8 @@ void Lista::insertarOrdenado(Pedido *pedido) {
     }
 
     // Caso 2: Insertar al inicio
-    if (pedido->GetDni() < lini->ped->GetDni() or 
-        (pedido->GetDni() == lini->ped->GetDni() and pedido->GetFecha() < lini->ped->GetFecha())) {
+    if (pedido->GetDni() < lini->ped->GetDni() or
+            (pedido->GetDni() == lini->ped->GetDni() and pedido->GetFecha() < lini->ped->GetFecha())) {
         nuevoNodo->sig = lini;
         lini->ant = nuevoNodo;
         lini = nuevoNodo;
@@ -43,8 +52,8 @@ void Lista::insertarOrdenado(Pedido *pedido) {
     // Caso 3: Insertar en el medio
     Nodo *recorrer = lini;
     while (recorrer) {
-        if (pedido->GetDni() < recorrer->ped->GetDni() or 
-            (pedido->GetDni() == recorrer->ped->GetDni() and pedido->GetFecha() < recorrer->ped->GetFecha())) {
+        if (pedido->GetDni() < recorrer->ped->GetDni() or
+                (pedido->GetDni() == recorrer->ped->GetDni() and pedido->GetFecha() < recorrer->ped->GetFecha())) {
             nuevoNodo->sig = recorrer;
             nuevoNodo->ant = recorrer->ant;
             if (recorrer->ant) {
@@ -96,10 +105,32 @@ bool Lista::esListaVacia() {
     return lini == nullptr;
 }
 
+void Lista::imprimirLista(ofstream& arch) {
+    if (esListaVacia()) {
+        cout << "La lista esta vacia no hay ningun dato" << endl;
+        return;
+    }
 
+    Nodo *recorrido = lini;
+    while (recorrido) {
+        recorrido->ped->imprime(arch);
+        recorrido = recorrido->sig;
+    }
+}
 
+void Lista::modificarFlete(int dniPer, int fecha) {
+    if (esListaVacia()) {
+        cout << "La lista esta vacia no hay ningun dato" << endl;
+        return;
+    }
 
-
-
-
-
+    Nodo *recorridoInv = lfin;
+    while (recorridoInv) {
+        if (recorridoInv->ped->GetDni() == dniPer) {
+            if (recorridoInv->ped->GetFecha() < fecha) {
+                recorridoInv->ped->modificarFlete();
+            }
+        }
+        recorridoInv = recorridoInv->ant;
+    }
+}

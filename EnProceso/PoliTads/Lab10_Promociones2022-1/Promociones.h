@@ -15,7 +15,10 @@
 class Promociones {
 public:
     void leePedidos();
-    
+    void imprimePedidos();
+    void imprimeLineas(ofstream &arch,int cant,char car);
+    void actualizarPedidos();
+
 private:
     Lista Lpedidos;
 };

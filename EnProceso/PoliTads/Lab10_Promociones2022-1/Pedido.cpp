@@ -20,20 +20,19 @@ Pedido::Pedido() {
     total = 0.0;
 }
 
-
 Pedido::~Pedido() {
     if (nombre != nullptr)delete[] nombre;
 }
 
 void Pedido::SetNombre(const char* cad) {
-    if(nombre != nullptr)delete[] nombre;
-    nombre = new char [strlen(cad)+1];
-    strcpy(nombre,cad);
+    if (nombre != nullptr)delete[] nombre;
+    nombre = new char [strlen(cad) + 1];
+    strcpy(nombre, cad);
 }
 
 void Pedido::GetNombre(char *cad) const {
     if (nombre == nullptr)cad[0] = 0;
-    else strcpy(cad,nombre);
+    else strcpy(cad, nombre);
 }
 
 void Pedido::SetCodigo(int codigo) {
@@ -45,13 +44,13 @@ int Pedido::GetCodigo() const {
 }
 
 void Pedido::lee(ifstream& arch, int codigo) {
-    char nom[100],c;
-    int dd,mm,aa;
+    char nom[100], c;
+    int dd, mm, aa;
     this->codigo = codigo;
-    arch.getline(nom,100,',');
+    arch.getline(nom, 100, ',');
     SetNombre(nom);
     arch >> cantidad >> c >> total >> c >> dni >> c >> dd >> c >> mm >> c >> aa;
-    fecha = aa*10000+mm*100+dd;
+    fecha = aa * 10000 + mm * 100 + dd;
 }
 
 void Pedido::SetTotal(double total) {
@@ -86,6 +85,16 @@ int Pedido::GetCantidad() const {
     return cantidad;
 }
 
-
+void Pedido::imprime(ofstream& arch) {
+    int aa, mm, dd;
+    aa = fecha / 10000;
+    mm = (fecha - aa * 10000) / 100;
+    dd = fecha % 100;
+    arch << "Fecha del Pedido: " << right << setfill('0')<<setw(2)<<dd << '/'<<
+            setw(2)<<mm<<'/'<<aa<<setfill(' ')<<left<<endl; 
+    arch << left << setw(10) << codigo << nombre << endl;
+    arch  << setw(14)<<"DNI: " << dni << endl;
+    arch << setw(10)<<"Cantidad"<<setw(10)<<cantidad<<setw(18)<<"Monto Total: "<< total<<endl;
+}
 
 

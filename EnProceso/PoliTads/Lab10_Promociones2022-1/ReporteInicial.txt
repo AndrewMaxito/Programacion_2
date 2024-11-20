@@ -1,0 +1,869 @@
+                                        Reporte De Promociones
+====================================================================================================
+Fecha del Pedido: 23/09/2019
+422763    GALLETAS SUAVICREMAS FRESA 158GR
+DNI:          17913944
+Cantidad  2         Monto Total:      1.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 20/10/2019
+675770    JARABE DE MAMEY 1.25KG
+DNI:          17913944
+Cantidad  5         Monto Total:      25.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 28/12/2019
+696000    MEDIA CREMA NESTLE 1LT
+DNI:          17913944
+Cantidad  1         Monto Total:      5.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 13/08/2020
+415932    SOPA MARUCHAN CAMARON 71GR
+DNI:          17913944
+Cantidad  1         Monto Total:      3.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 15/10/2020
+856894    HARINA MAZATL 5KG
+DNI:          17913944
+Cantidad  7         Monto Total:      70.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 29/11/2020
+434681    ELOTE DORADO DEL MONTE 225GR
+DNI:          17913944
+Cantidad  9         Monto Total:      9.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 05/02/2021
+422763    GALLETAS SUAVICREMAS FRESA 158GR
+DNI:          17913944
+Cantidad  3         Monto Total:      1.50
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 22/03/2021
+317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR
+DNI:          17913944
+Cantidad  2         Monto Total:      4.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 22/04/2021
+390920    AGUA NIAGARA 500ML
+DNI:          17913944
+Cantidad  8         Monto Total:      16.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 04/07/2021
+415932    SOPA MARUCHAN CAMARON 71GR
+DNI:          17913944
+Cantidad  1         Monto Total:      3.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 29/11/2021
+582920    PINGUINOS MARINELA 40GR
+DNI:          17913944
+Cantidad  6         Monto Total:      24.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 30/12/2019
+935218    FRIJOL AMARILLO KG
+DNI:          29847168
+Cantidad  1         Monto Total:      3.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 04/03/2020
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR
+DNI:          29847168
+Cantidad  11        Monto Total:      22.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 26/06/2020
+961802    ACHIOTE LA EXTRA 1KG
+DNI:          29847168
+Cantidad  1         Monto Total:      1.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 01/01/2021
+580927    TORTILLAS DE HARINA DEL HOGAR 22P. 840GR
+DNI:          29847168
+Cantidad  4         Monto Total:      20.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 23/04/2021
+620036    SABRITAS ORIGINAL SAL 490GR
+DNI:          29847168
+Cantidad  8         Monto Total:      40.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 02/08/2021
+422763    GALLETAS SUAVICREMAS FRESA 158GR
+DNI:          29847168
+Cantidad  4         Monto Total:      2.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 02/11/2021
+979865    GALLETAS MARIAS CUETARA 160GR
+DNI:          29847168
+Cantidad  9         Monto Total:      4.50
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 10/02/2020
+151641    YOGHURT P BEBER LACTIGURT COCO 250G
+DNI:          32821689
+Cantidad  4         Monto Total:      8.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 19/04/2020
+872819    GELATINA DE LECHE VAINILLA DANETTE 100GR
+DNI:          32821689
+Cantidad  6         Monto Total:      12.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 28/04/2020
+422763    GALLETAS SUAVICREMAS FRESA 158GR
+DNI:          32821689
+Cantidad  4         Monto Total:      2.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 10/10/2020
+992564    LECHUGA ROMANA
+DNI:          32821689
+Cantidad  2         Monto Total:      1.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 01/01/2021
+882099    NESQUIK CHOCOLATE 200GR
+DNI:          32821689
+Cantidad  1         Monto Total:      5.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 01/07/2021
+793026    YOGHURT NATURAL LIGHT LALA 1KG
+DNI:          32821689
+Cantidad  10        Monto Total:      50.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 19/10/2021
+406688    CHURROMAIS CON LIMON 38GR
+DNI:          32821689
+Cantidad  9         Monto Total:      4.50
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 01/01/2019
+285807    YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G
+DNI:          33397650
+Cantidad  4         Monto Total:      20.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 01/02/2019
+947176    SALSA DE CHILE HABANERO ROJO 260GR
+DNI:          33397650
+Cantidad  6         Monto Total:      18.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 05/06/2019
+415932    SOPA MARUCHAN CAMARON 71GR
+DNI:          33397650
+Cantidad  7         Monto Total:      21.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 28/06/2019
+412041    TORTILLAS DE MAIZ 1KG
+DNI:          33397650
+Cantidad  9         Monto Total:      45.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 29/07/2019
+941699    MAIZ POZOLERO EXTRA 1KGR
+DNI:          33397650
+Cantidad  3         Monto Total:      9.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 17/08/2019
+365906    AGUACATE REGIONAL KG.1.000 GR
+DNI:          33397650
+Cantidad  11        Monto Total:      11.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 07/10/2020
+374253    TE DE MANZANILLA NEBO 24 1GR
+DNI:          33397650
+Cantidad  9         Monto Total:      9.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 13/12/2020
+459032    GELATINA DANY LIMON 125GR
+DNI:          33397650
+Cantidad  5         Monto Total:      15.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 15/01/2021
+179485    MOLE SURTIDO CON ESPECIAS 250GR
+DNI:          33397650
+Cantidad  11        Monto Total:      55.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 24/03/2021
+374253    TE DE MANZANILLA NEBO 24 1GR
+DNI:          33397650
+Cantidad  4         Monto Total:      4.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 11/11/2021
+651034    MANGO EN REBANADAS LA MORENA 800GR
+DNI:          33397650
+Cantidad  3         Monto Total:      15.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 26/12/2021
+178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR
+DNI:          33397650
+Cantidad  9         Monto Total:      27.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 19/03/2019
+511824    FLAN LALA SABOR VAINILLA 100GR
+DNI:          33713901
+Cantidad  7         Monto Total:      21.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         0.00%
+Fecha del Pedido: 06/05/2019
+415932    SOPA MARUCHAN CAMARON 71GR
+DNI:          33713901
+Cantidad  11        Monto Total:      33.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         0.00%
+Fecha del Pedido: 02/12/2019
+696000    MEDIA CREMA NESTLE 1LT
+DNI:          33713901
+Cantidad  8         Monto Total:      40.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 03/12/2019
+536472    SABRITAS CASERAS JALAPENO 42GR
+DNI:          33713901
+Cantidad  6         Monto Total:      30.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 26/01/2020
+126218    TANJERINA
+DNI:          33713901
+Cantidad  11        Monto Total:      5.50
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 19/04/2020
+406688    CHURROMAIS CON LIMON 38GR
+DNI:          33713901
+Cantidad  1         Monto Total:      0.50
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 05/08/2020
+785062    CORAZON DE ALCACHOFA SAN MIGUEL
+DNI:          33713901
+Cantidad  4         Monto Total:      8.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 02/09/2021
+901816    JUGO VALLE FRUT CITRUS 12 250ML
+DNI:          33713901
+Cantidad  5         Monto Total:      15.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 05/01/2019
+690039    CORAZONES DE OREJONA PZA
+DNI:          45783712
+Cantidad  8         Monto Total:      8.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 01/07/2019
+412041    TORTILLAS DE MAIZ 1KG
+DNI:          45783712
+Cantidad  3         Monto Total:      15.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 27/09/2019
+979865    GALLETAS MARIAS CUETARA 160GR
+DNI:          45783712
+Cantidad  10        Monto Total:      5.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 06/07/2020
+170844    EMPANIZADOR CONTADINA TRADICIONAL 283GR
+DNI:          45783712
+Cantidad  9         Monto Total:      27.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 02/10/2020
+696000    MEDIA CREMA NESTLE 1LT
+DNI:          45783712
+Cantidad  8         Monto Total:      40.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 27/05/2019
+178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR
+DNI:          46462527
+Cantidad  1         Monto Total:      3.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 26/07/2019
+748899    NARANJA SIN SEMILLA
+DNI:          46462527
+Cantidad  11        Monto Total:      11.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 09/10/2019
+900698    VAINILLA MOLINA 500ML
+DNI:          46462527
+Cantidad  5         Monto Total:      25.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 12/10/2019
+182942    ZAPOTE
+DNI:          46462527
+Cantidad  2         Monto Total:      2.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 18/10/2019
+397718    LECHE LALA SEMI DESLACTOSADA 1LT
+DNI:          46462527
+Cantidad  0         Monto Total:      0.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 12/03/2020
+390920    AGUA NIAGARA 500ML
+DNI:          46462527
+Cantidad  5         Monto Total:      10.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 14/07/2020
+434681    ELOTE DORADO DEL MONTE 225GR
+DNI:          46462527
+Cantidad  4         Monto Total:      4.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 16/08/2020
+582920    PINGUINOS MARINELA 40GR
+DNI:          46462527
+Cantidad  10        Monto Total:      40.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 16/03/2021
+178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR
+DNI:          46462527
+Cantidad  2         Monto Total:      6.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 29/05/2021
+826317    CHAMYTO BIG 114ML
+DNI:          46462527
+Cantidad  4         Monto Total:      4.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 06/06/2021
+317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR
+DNI:          46462527
+Cantidad  11        Monto Total:      22.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 23/08/2021
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR
+DNI:          46462527
+Cantidad  6         Monto Total:      12.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 03/10/2021
+330512    YOGHURT LALA LIGHT 240GR
+DNI:          46462527
+Cantidad  1         Monto Total:      3.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 27/12/2021
+901816    JUGO VALLE FRUT CITRUS 12 250ML
+DNI:          46462527
+Cantidad  2         Monto Total:      6.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 18/04/2019
+748008    SANDWICH COMBINADA 3 FLORES 150GR
+DNI:          48184351
+Cantidad  3         Monto Total:      15.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 02/06/2019
+856894    HARINA MAZATL 5KG
+DNI:          48184351
+Cantidad  5         Monto Total:      50.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 25/07/2019
+485302    YOGHURT LALA FRESA 240GR
+DNI:          48184351
+Cantidad  1         Monto Total:      5.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 17/04/2020
+856894    HARINA MAZATL 5KG
+DNI:          48184351
+Cantidad  12        Monto Total:      120.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 31/05/2020
+511824    FLAN LALA SABOR VAINILLA 100GR
+DNI:          48184351
+Cantidad  4         Monto Total:      12.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 31/12/2020
+536472    SABRITAS CASERAS JALAPENO 42GR
+DNI:          48184351
+Cantidad  12        Monto Total:      60.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 29/09/2021
+317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR
+DNI:          48184351
+Cantidad  5         Monto Total:      10.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 02/02/2022
+204890    LECHE YAQUI DESLACTOSADA 1LT
+DNI:          48184351
+Cantidad  1         Monto Total:      2.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 29/03/2022
+565169    PASTILLA PEPTO BISMOL
+DNI:          48184351
+Cantidad  6         Monto Total:      12.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 19/05/2020
+620036    SABRITAS ORIGINAL SAL 490GR
+DNI:          57263719
+Cantidad  4         Monto Total:      20.00
+Tipo: Pedido Eventual
+Flete: 0.00%
+Fecha del Pedido: 27/07/2020
+941699    MAIZ POZOLERO EXTRA 1KGR
+DNI:          57263719
+Cantidad  9         Monto Total:      27.00
+Tipo: Pedido Eventual
+Flete: 0.00%
+Fecha del Pedido: 25/09/2020
+856894    HARINA MAZATL 5KG
+DNI:          57263719
+Cantidad  1         Monto Total:      10.00
+Tipo: Pedido Eventual
+Flete: 0.00%
+Fecha del Pedido: 10/10/2021
+565169    PASTILLA PEPTO BISMOL
+DNI:          57263719
+Cantidad  11        Monto Total:      22.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 22/11/2021
+778066    CHILES CHIPOTLES LA COSTENA 380GR
+DNI:          57263719
+Cantidad  9         Monto Total:      9.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 01/01/2022
+662083    TAKIS SALSA BRAVA 62GR
+DNI:          57263719
+Cantidad  5         Monto Total:      10.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 06/01/2022
+793026    YOGHURT NATURAL LIGHT LALA 1KG
+DNI:          57263719
+Cantidad  5         Monto Total:      25.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 30/07/2020
+311343    YOGHURT FRESA NESTLE 1KG
+DNI:          62566305
+Cantidad  11        Monto Total:      55.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 23/11/2020
+714788    PAPA EN CUBOS DEL FUERTE 12 380GR.
+DNI:          62566305
+Cantidad  7         Monto Total:      21.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 27/02/2021
+882099    NESQUIK CHOCOLATE 200GR
+DNI:          62566305
+Cantidad  2         Monto Total:      10.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 23/01/2022
+882099    NESQUIK CHOCOLATE 200GR
+DNI:          62566305
+Cantidad  12        Monto Total:      60.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 24/04/2019
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR
+DNI:          71378466
+Cantidad  3         Monto Total:      6.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 19/03/2020
+923804    SAL BAJA PACIFIC BOLSA 1KGR
+DNI:          71378466
+Cantidad  7         Monto Total:      7.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 29/05/2020
+459032    GELATINA DANY LIMON 125GR
+DNI:          71378466
+Cantidad  10        Monto Total:      30.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 26/10/2020
+412041    TORTILLAS DE MAIZ 1KG
+DNI:          71378466
+Cantidad  2         Monto Total:      10.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 04/01/2021
+485302    YOGHURT LALA FRESA 240GR
+DNI:          71378466
+Cantidad  5         Monto Total:      25.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 17/01/2021
+485302    YOGHURT LALA FRESA 240GR
+DNI:          71378466
+Cantidad  8         Monto Total:      40.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 19/12/2021
+330512    YOGHURT LALA LIGHT 240GR
+DNI:          71378466
+Cantidad  1         Monto Total:      3.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 07/08/2019
+874503    GALLETAS LORS SNACKS MARINELA 75GR
+DNI:          71984468
+Cantidad  1         Monto Total:      1.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 06/10/2019
+997564    MANGO ECUATORIANO
+DNI:          71984468
+Cantidad  1         Monto Total:      1.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 26/11/2020
+330512    YOGHURT LALA LIGHT 240GR
+DNI:          71984468
+Cantidad  6         Monto Total:      18.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 05/03/2021
+283781    FRIJOLES REFRITOS ISADORA 430GR
+DNI:          71984468
+Cantidad  7         Monto Total:      35.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 28/11/2021
+126218    TANJERINA
+DNI:          71984468
+Cantidad  6         Monto Total:      3.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 11/02/2022
+651034    MANGO EN REBANADAS LA MORENA 800GR
+DNI:          71984468
+Cantidad  8         Monto Total:      40.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 05/01/2019
+374253    TE DE MANZANILLA NEBO 24 1GR
+DNI:          76388967
+Cantidad  5         Monto Total:      5.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 03/02/2019
+947176    SALSA DE CHILE HABANERO ROJO 260GR
+DNI:          76388967
+Cantidad  6         Monto Total:      18.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 21/04/2019
+935218    FRIJOL AMARILLO KG
+DNI:          76388967
+Cantidad  2         Monto Total:      6.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 09/05/2020
+997564    MANGO ECUATORIANO
+DNI:          76388967
+Cantidad  12        Monto Total:      12.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 29/11/2020
+536472    SABRITAS CASERAS JALAPENO 42GR
+DNI:          76388967
+Cantidad  3         Monto Total:      15.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 18/05/2019
+430669    AJO GRANULADO DE CALIFORNIA KIRKLAND 51.
+DNI:          79140840
+Cantidad  10        Monto Total:      30.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 29/05/2019
+459032    GELATINA DANY LIMON 125GR
+DNI:          79140840
+Cantidad  8         Monto Total:      24.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 15/04/2021
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR
+DNI:          79140840
+Cantidad  10        Monto Total:      20.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 20/05/2021
+317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR
+DNI:          79140840
+Cantidad  3         Monto Total:      6.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 28/05/2021
+455703    PALOMITAS POFETS FLAMIN HOT 28GR
+DNI:          79140840
+Cantidad  2         Monto Total:      10.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 17/07/2021
+126218    TANJERINA
+DNI:          79140840
+Cantidad  3         Monto Total:      1.50
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 21/02/2022
+748008    SANDWICH COMBINADA 3 FLORES 150GR
+DNI:          79140840
+Cantidad  8         Monto Total:      40.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 16/12/2019
+118050    PAPAYA
+DNI:          79475585
+Cantidad  8         Monto Total:      8.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 30/04/2020
+118050    PAPAYA
+DNI:          79475585
+Cantidad  5         Monto Total:      5.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 14/05/2020
+390920    AGUA NIAGARA 500ML
+DNI:          79475585
+Cantidad  4         Monto Total:      8.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 18/07/2020
+565169    PASTILLA PEPTO BISMOL
+DNI:          79475585
+Cantidad  5         Monto Total:      10.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 07/09/2020
+793026    YOGHURT NATURAL LIGHT LALA 1KG
+DNI:          79475585
+Cantidad  7         Monto Total:      35.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 24/01/2021
+748899    NARANJA SIN SEMILLA
+DNI:          79475585
+Cantidad  9         Monto Total:      9.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 19/05/2019
+900698    VAINILLA MOLINA 500ML
+DNI:          81114108
+Cantidad  5         Monto Total:      25.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 10/07/2019
+662083    TAKIS SALSA BRAVA 62GR
+DNI:          81114108
+Cantidad  2         Monto Total:      10.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 09/03/2020
+118050    PAPAYA
+DNI:          81114108
+Cantidad  11        Monto Total:      11.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 05/06/2020
+565169    PASTILLA PEPTO BISMOL
+DNI:          81114108
+Cantidad  5         Monto Total:      10.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 21/09/2020
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR
+DNI:          81114108
+Cantidad  7         Monto Total:      14.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 06/10/2020
+182942    ZAPOTE
+DNI:          81114108
+Cantidad  3         Monto Total:      3.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 05/11/2020
+992564    LECHUGA ROMANA
+DNI:          81114108
+Cantidad  3         Monto Total:      1.50
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 13/07/2021
+793026    YOGHURT NATURAL LIGHT LALA 1KG
+DNI:          81114108
+Cantidad  7         Monto Total:      35.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 24/01/2022
+455703    PALOMITAS POFETS FLAMIN HOT 28GR
+DNI:          81114108
+Cantidad  12        Monto Total:      60.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 05/02/2022
+941699    MAIZ POZOLERO EXTRA 1KGR
+DNI:          81114108
+Cantidad  6         Monto Total:      18.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 13/07/2019
+365379    YOGHURT FRESA CON GRANOLA CHELSY 240GR
+DNI:          83236386
+Cantidad  4         Monto Total:      16.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 03/08/2019
+406688    CHURROMAIS CON LIMON 38GR
+DNI:          83236386
+Cantidad  9         Monto Total:      4.50
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 15/08/2019
+923804    SAL BAJA PACIFIC BOLSA 1KGR
+DNI:          83236386
+Cantidad  11        Monto Total:      11.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 06/08/2020
+311343    YOGHURT FRESA NESTLE 1KG
+DNI:          83236386
+Cantidad  4         Monto Total:      20.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 11/09/2020
+675770    JARABE DE MAMEY 1.25KG
+DNI:          83236386
+Cantidad  2         Monto Total:      10.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 20/10/2021
+872819    GELATINA DE LECHE VAINILLA DANETTE 100GR
+DNI:          83236386
+Cantidad  1         Monto Total:      2.00
+Tipo: Pedido Eventual
+Flete: 5.00%
+Fecha del Pedido: 13/03/2019
+204890    LECHE YAQUI DESLACTOSADA 1LT
+DNI:          91897732
+Cantidad  6         Monto Total:      12.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 20/07/2020
+151641    YOGHURT P BEBER LACTIGURT COCO 250G
+DNI:          91897732
+Cantidad  6         Monto Total:      12.00
+Tipo: Pedido Especial
+Descuento: 10.00%
+Fecha del Pedido: 09/03/2021
+947176    SALSA DE CHILE HABANERO ROJO 260GR
+DNI:          91897732
+Cantidad  2         Monto Total:      6.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 05/07/2021
+485302    YOGHURT LALA FRESA 240GR
+DNI:          91897732
+Cantidad  9         Monto Total:      45.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 04/10/2021
+961802    ACHIOTE LA EXTRA 1KG
+DNI:          91897732
+Cantidad  12        Monto Total:      12.00
+Tipo: Pedido Eventual
+Flete: 10.00%
+Fecha del Pedido: 09/11/2021
+423073    POLVO PARA HORNEAR REXAL 15KILOS
+DNI:          91897732
+Cantidad  12        Monto Total:      12.00
+Tipo: Pedido Usual
+Descuento:     5.00%
+Flete:         10.00%
+Fecha del Pedido: 17/12/2021
+365906    AGUACATE REGIONAL KG.1.000 GR
+DNI:          91897732
+Cantidad  9         Monto Total:      9.00
+Tipo: Pedido Especial
+Descuento: 10.00%

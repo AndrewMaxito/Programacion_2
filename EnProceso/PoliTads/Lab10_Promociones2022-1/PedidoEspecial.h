@@ -16,6 +16,9 @@ class PedidoEspecial: public Pedido {
 public:
     PedidoEspecial();
     void lee(ifstream& arch,int codigo) override;
+    void imprime(ofstream& arch) override;
+    void modificarFlete() override;
+
 
 private:
     double descuento;

@@ -20,6 +20,8 @@ public:
     virtual ~Lista();
     void insertarOrdenado(Pedido *pedido);
     bool esListaVacia();
+    void imprimirLista(ofstream &arch);
+    void modificarFlete(int dniPer,int fecha);
     
     
     

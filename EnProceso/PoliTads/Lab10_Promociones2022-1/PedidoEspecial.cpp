@@ -21,3 +21,14 @@ void PedidoEspecial::lee(ifstream& arch, int codigo) {
     arch.get();
     Pedido::lee(arch,codigo);
 }
+
+void PedidoEspecial::imprime(ofstream& arch) {
+    Pedido::imprime(arch);
+    arch << "Tipo: Pedido Especial"<<endl;
+    arch << "Descuento: " << descuento <<"%"<<endl;
+}
+
+void PedidoEspecial::modificarFlete() {
+    
+}
+

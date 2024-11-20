@@ -23,5 +23,17 @@ void PedidoEventual::lee(ifstream& arch, int codigo) {
     Pedido::lee(arch,codigo);
 }
 
+void PedidoEventual::imprime(ofstream& arch) {
+    Pedido::imprime(arch);
+    arch << "Tipo: Pedido Eventual"<<endl;
+    arch << "Flete: "<<flete<<"%"<<endl;
+}
+
+void PedidoEventual::modificarFlete() {
+    flete = 0;
+}
+
+
+
 
 

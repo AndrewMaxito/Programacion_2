@@ -17,7 +17,8 @@ class PedidoEventual: public Pedido {
 public:
     PedidoEventual();
     void lee(ifstream& arch, int codigo) override;
-
+    void imprime(ofstream& arch) override;
+    void modificarFlete() override;
 private:
     double flete;
 };
