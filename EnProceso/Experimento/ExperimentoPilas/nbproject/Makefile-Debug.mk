@@ -39,6 +39,7 @@ OBJECTFILES= \
 	${OBJECTDIR}/Nodo.o \
 	${OBJECTDIR}/Padre.o \
 	${OBJECTDIR}/Pila.o \
+	${OBJECTDIR}/Registros.o \
 	${OBJECTDIR}/hijo1.o \
 	${OBJECTDIR}/hijo2.o \
 	${OBJECTDIR}/main.o
@@ -87,6 +88,11 @@ ${OBJECTDIR}/Pila.o: Pila.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Pila.o Pila.cpp
+
+${OBJECTDIR}/Registros.o: Registros.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Registros.o Registros.cpp
 
 ${OBJECTDIR}/hijo1.o: hijo1.cpp
 	${MKDIR} -p ${OBJECTDIR}

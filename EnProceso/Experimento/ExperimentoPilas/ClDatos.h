@@ -8,7 +8,8 @@
 
 #ifndef CLDATOS_H
 #define CLDATOS_H
-
+#include <fstream>
+using namespace std;
 #include "Padre.h"
 
 class ClDatos {
@@ -20,9 +21,13 @@ public:
     void operator=(const ClDatos &datos);
     void SetNombre(const char* cad);
     void GetNombre(char* cad) const;
+    void SetCodigoDato(int codigoDato);
+    int GetCodigoDato() const;
+    //
+    void cargarDatoObj(ifstream &arch);
 private:
-    int codigo;
-    char *nombre;
+    int codigoDato;
+    char *nombreDato;
     Padre *objPadre;
 };
 

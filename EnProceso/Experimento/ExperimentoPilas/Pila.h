@@ -25,6 +25,7 @@ public:
     ClDatos cima();
     void eliminarCabeza();
     void destruir();
+    void imprimir();
 private:
     Nodo *cabeza;
     int longitud;

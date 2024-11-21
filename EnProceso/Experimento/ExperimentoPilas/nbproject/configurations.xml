@@ -8,6 +8,7 @@
       <itemPath>Nodo.h</itemPath>
       <itemPath>Padre.h</itemPath>
       <itemPath>Pila.h</itemPath>
+      <itemPath>Registros.h</itemPath>
       <itemPath>hijo1.h</itemPath>
       <itemPath>hijo2.h</itemPath>
     </logicalFolder>
@@ -22,6 +23,7 @@
       <itemPath>Nodo.cpp</itemPath>
       <itemPath>Padre.cpp</itemPath>
       <itemPath>Pila.cpp</itemPath>
+      <itemPath>Registros.cpp</itemPath>
       <itemPath>hijo1.cpp</itemPath>
       <itemPath>hijo2.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
@@ -63,6 +65,10 @@
       <item path="Pila.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Pila.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Registros.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Registros.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="hijo1.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -110,6 +116,10 @@
       <item path="Pila.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Pila.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Registros.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Registros.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="hijo1.cpp" ex="false" tool="1" flavor2="0">
       </item>

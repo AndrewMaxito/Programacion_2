@@ -13,16 +13,16 @@
 
 #include <iostream>
 #include <iomanip>
-
-#include "Pila.h"
-
+#include "Registros.h"
 using namespace std;
 
 
 int main(int argc, char** argv) {
-    Pila pilaPrueba;
-    
-
+    //
+    Registros registroDat;
+    registroDat.cargarDatos();
+    registroDat.UsoTad();
+    registroDat.sacarDatosTad();
     return 0;
 }
 

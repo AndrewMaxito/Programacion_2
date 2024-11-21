@@ -11,12 +11,18 @@
 
 #include "Padre.h"
 
-
-class hijo2: public Padre {
+class hijo2 : public Padre {
 public:
     hijo2();
     hijo2(const hijo2& orig);
     virtual ~hijo2();
+    //
+    void leer(ifstream& arch) override;
+    void setNumerohijo2(int numerohijo2);
+    int getNumerohijo2() const;
+    void setCarHijo2(const char* cad);
+    void getCarHijo2(char *cad) const;
+
 private:
     char *carHijo2;
     int numerohijo2;

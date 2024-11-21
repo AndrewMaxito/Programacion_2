@@ -76,5 +76,21 @@ void Pila::destruir() {
     longitud = 0;
 }
 
+void Pila::imprimir() {
+    if (esPilaVacia()){
+        cout << "La pila esta vacia no hay nada que mostrar"<<endl;
+    }else{
+        Nodo *recorrido = cabeza;
+        int estaImprimiendoLaCabeza = 1;
+        cout << "[";
+        while (recorrido) {
+            if (!estaImprimiendoLaCabeza) cout << ", ";
+            estaImprimiendoLaCabeza = 0;
+            cout << recorrido->dato.GetCodigoDato();
+            recorrido = recorrido->siguiente;
+        }
+        cout << "]" <<endl;
+    }
+}
 
 

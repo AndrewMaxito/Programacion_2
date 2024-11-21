@@ -1,0 +1,2 @@
+1,Dato numero 1,A,10,Padre 1,hijo 10,10
+2,Dato numero 2,B,20,Padre 2,hijo 20,20
