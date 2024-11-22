@@ -1,8 +1,9 @@
+
 /* 
  * File:   Nodo.h
  * Author: andre
  *
- * Created on 20 de noviembre de 2024, 09:38 PM
+ * Created on 21 de noviembre de 2024, 08:15 PM
  */
 
 #ifndef NODO_H
@@ -14,10 +15,11 @@
 class Nodo {
 public:
     Nodo();
-    //
-    friend class Pila;
+    Nodo(const Nodo& orig);
+    virtual ~Nodo();
+    friend class Cola;
 private:
-    ClDatos dato;
+    ClDatos elemento;
     Nodo *siguiente;
 };
 
