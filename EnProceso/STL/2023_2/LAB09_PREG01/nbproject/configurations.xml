@@ -4,6 +4,12 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>Camion.h</itemPath>
+      <itemPath>Flota.h</itemPath>
+      <itemPath>Furgon.h</itemPath>
+      <itemPath>NPedido.h</itemPath>
+      <itemPath>NVehiculo.h</itemPath>
+      <itemPath>Vehiculo.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -12,6 +18,12 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>Camion.cpp</itemPath>
+      <itemPath>Flota.cpp</itemPath>
+      <itemPath>Furgon.cpp</itemPath>
+      <itemPath>NPedido.cpp</itemPath>
+      <itemPath>NVehiculo.cpp</itemPath>
+      <itemPath>Vehiculo.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -35,7 +47,34 @@
         <rebuildPropChanged>false</rebuildPropChanged>
       </toolsSet>
       <compileType>
+        <ccTool>
+          <standard>11</standard>
+        </ccTool>
       </compileType>
+      <item path="Camion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Camion.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Flota.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Flota.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Furgon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Furgon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NPedido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NPedido.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NVehiculo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NVehiculo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Vehiculo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Vehiculo.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -59,6 +98,30 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Camion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Camion.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Flota.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Flota.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Furgon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Furgon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NPedido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NPedido.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NVehiculo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NVehiculo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Vehiculo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Vehiculo.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>

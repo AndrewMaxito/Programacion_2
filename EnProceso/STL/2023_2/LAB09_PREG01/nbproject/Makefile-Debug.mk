@@ -35,6 +35,12 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 
 # Object Files
 OBJECTFILES= \
+	${OBJECTDIR}/Camion.o \
+	${OBJECTDIR}/Flota.o \
+	${OBJECTDIR}/Furgon.o \
+	${OBJECTDIR}/NPedido.o \
+	${OBJECTDIR}/NVehiculo.o \
+	${OBJECTDIR}/Vehiculo.o \
 	${OBJECTDIR}/main.o
 
 
@@ -62,10 +68,40 @@ ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab09_preg01.exe: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab09_preg01 ${OBJECTFILES} ${LDLIBSOPTIONS}
 
+${OBJECTDIR}/Camion.o: Camion.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Camion.o Camion.cpp
+
+${OBJECTDIR}/Flota.o: Flota.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Flota.o Flota.cpp
+
+${OBJECTDIR}/Furgon.o: Furgon.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Furgon.o Furgon.cpp
+
+${OBJECTDIR}/NPedido.o: NPedido.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/NPedido.o NPedido.cpp
+
+${OBJECTDIR}/NVehiculo.o: NVehiculo.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/NVehiculo.o NVehiculo.cpp
+
+${OBJECTDIR}/Vehiculo.o: Vehiculo.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Vehiculo.o Vehiculo.cpp
+
 ${OBJECTDIR}/main.o: main.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/main.o main.cpp
+	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/main.o main.cpp
 
 # Subprojects
 .build-subprojects:
