@@ -1,0 +1,111 @@
+Codigo Plato        Nombre del Plato                                                           Precio         Total Pedidos  Monto Recaudado
+AP-500            CHORIZOS COCKTAIL                                                           12.9                   0              0
+AP-410            ANTICUCHO                                                                   12.9                   1           12.9
+AP-428            TEQUEÑOS                                                                    19.5                   1           19.5
+PI-488            PIQUEOS CHORIZOS COCKTAIL                                                   16.9                   1           16.9
+PI-404            PIQUEOS BROCHETA                                                            17.9                   2           35.8
+PI-153            PIQUEOS MOLLEJITAS                                                          18.9                   1           18.9
+PI-392            PIQUEOS ANTICUCHO                                                           18.9                   2           37.8
+PI-539            PIQUEOS MINI POLLITOS PANKO                                                 21.9                   4           87.6
+PI-608            PIQUEOS CHICHARRON DE POLLO                                                 27.9                   2           55.8
+PA-871            LOMO A LA PARRILLA                                                          54.9                   1           54.9
+PA-850            BIFE A LA PARRILLA                                                          53.9                   2          107.8
+PA-692            PARRILLA PARA DOS                                                           89.9                   1           89.9
+PA-500            PARRILLA PARA CUATRO                                                       128.9                   2          257.8
+EN-758            BROCHETAS DE POLLO                                                          25.9                   3           77.7
+EN-766            ANTICUCHO DE CORAZON                                                        25.9                   3           77.7
+EN-365            MOLLEGITAS A LA PARRILLA                                                    25.9                   0              0
+BR-921            1/4 POLLO - PAPAS - ENSALADA                                                29.5                   2             59
+BR-378            1/4 POLLO - ARROCERO                                                        33.5                   0              0
+BR-724            1/4 POLLO - ENCAMOTADO                                                      31.5                   0              0
+BR-578            1/4 POLLO A LO BRAVO                                                        33.5                   2             67
+BR-592            1/4 POLLO - ANTICUCHO                                                       33.9                   5          169.5
+BR-611            1/2 POLLO - PAPAS - ENSALADA                                                46.9                   1           46.9
+BR-197            1/2 POLLO - ARROCERO                                                        47.5                   3          142.5
+BR-116            1/2 POLLO - ENCAMOTADO                                                      49.9                   0              0
+BR-756            1/2 POLLO A LO BRAVO                                                        50.9                   4          203.6
+BR-525            1/2  POLLO - ANTICUCHO                                                      58.5                   3          175.5
+BR-864            1/4 POLLO PARRILLERO ORIGINAL - PAPAS - ENSALADA                            32.5                   1           32.5
+BR-283            1/4 POLLO  PARRILLERO ORIGINAL- ARROCERO                                    33.5                   4            134
+BR-510            1/4 POLLO PARRILLERO ORIGINAL - ENCAMOTADO                                  35.9                   1           35.9
+BR-326            1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO                                    36.9                   2           73.8
+BR-950            1/4 POLLO PARRILLERO ORIGINAL - ANTICUCHO                                   43.9                   2           87.8
+BR-621            1/4 POLLO BBQ/HOT - PAPAS - ENSALADA                                        33.5                   1           33.5
+BR-760            1/4 POLLO BBQ/HOT - ARROCERO                                                34.5                   3          103.5
+BR-823            1/4 POLLO BBQ/HOT - ENCAMOTADO                                              36.9                   1           36.9
+BR-419            1/4 POLLO BBQ/HOT A LO BRAVO                                                37.9                   1           37.9
+BR-365            1/4 POLLO BBQ/HOT - ANTICUCHO                                               44.9                   1           44.9
+BR-319            1/2 POLLO PARRILLERO ORIGINAL - PAPAS - ENSALADA                            47.9                   2           95.8
+BR-745            1/2 POLLO  PARRILLERO ORIGINAL- ARROCERO                                    48.9                   1           48.9
+BR-665            1/2 POLLO PARRILLERO ORIGINAL - ENCAMOTADO                                  50.9                   4          203.6
+BR-479            1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO                                    51.9                   1           51.9
+BR-272            1/2 POLLO PARRILLERO ORIGINAL - ANTICUCHO                                   59.9                   6          359.4
+BR-945            1/2 POLLO BBQ/HOT - PAPAS - ENSALADA                                        48.9                   2           97.8
+BR-926            1/2 POLLO BBQ/HOT - ARROCERO                                                49.9                   2           99.8
+BR-297            1/2 POLLO BBQ/HOT - ENCAMOTADO                                              51.9                   1           51.9
+BR-142            1/2 POLLO BBQ/HOT A LO BRAVO                                                52.9                   3          158.7
+BR-136            1/2 POLLO BBQ/HOT - ANTICUCHO                                               60.5                   1           60.5
+SA-338            SANGUCHE BRASA                                                              22.9                   2           45.8
+SA-330            SANGUCHE PARRILLERO                                                         24.9                   3           74.7
+ES-815            MOLLEJITAS AL PLATO                                                         30.9                   1           30.9
+ES-796            ANTICUCHO DE CORAZON AL PLATO                                               31.9                   2           63.8
+ES-644            CHICHARRON DE POLLO AL PLATO                                                33.9                   1           33.9
+EN-549            COCIDA REGULAR                                                              18.9                   2           37.8
+EN-572            FRESCA REGULAR                                                              18.9                   1           18.9
+EN-910            DELICIA MEDIANA CON POLLO                                                   22.9                   3           68.7
+EN-493            CESARS MEDIANA CON POLLO                                                    23.9                   2           47.8
+EN-691            SENSACION MEDIANA CON POLLO                                                 23.9                   1           23.9
+EN-971            HONEY MEDIANA CON POLLO                                                     23.9                   0              0
+EN-156            COCIDA GRANDE                                                               22.9                   1           22.9
+EN-214            FRESCA GRANDE                                                               22.9                   4           91.6
+EN-762            DELICIA GRANDE SOLO                                                         23.9                   0              0
+EN-487            CESARS GRANDE SOLO                                                          24.9                   2           49.8
+EN-703            SENSACION GRANDE SOLO                                                       24.9                   0              0
+EN-606            HONEY GRANDE SOLO                                                           24.9                   2           49.8
+EN-419            DELICIA GRANDE CON POLLO                                                    31.9                   4          127.6
+EN-690            CESARS GRANDE CON POLLO                                                     32.9                   3           98.7
+EN-894            SENSACION GRANDE CON POLLO                                                  32.9                   1           32.9
+EN-381            HONEY GRANDE CON POLLO                                                      32.9                   1           32.9
+AD-991            HUEVO                                                                        3.9                   1            3.9
+AD-939            TEQUENO                                                                      4.9                   1            4.9
+AD-377            PLATANO                                                                      3.9                   2            7.8
+AD-265            ANTICUCHO                                                                   12.9                   2           25.8
+AD-760            ARROZ                                                                        6.9                   2           13.8
+AD-764            PLATANO-HUEVO                                                                6.9                   4           27.6
+AD-518            PAPAS FRITAS                                                                15.9                   5           79.5
+AD-957            PAPAS FRITAS 1/2 PORCION                                                    10.9                   1           10.9
+AD-477            PAPAS DORADAS                                                               15.9                   1           15.9
+AD-502            PORCION DE CAMOTE                                                           15.9                   0              0
+AD-814            PALTA                                                                        9.9                   2           19.8
+AD-546            CHOCLO                                                                       9.9                   1            9.9
+BE-747            COCA COLA 1/2 LITRO                                                            7                   1              7
+BE-864            INKA COLA 1/2 LITRO                                                            7                   2             14
+BE-489            FANTA 1/2 LITRO                                                                7                   1              7
+BE-227            SPRITE1/2 LITRO                                                                7                   1              7
+BE-903            CHICHA1/2 LITRO                                                             10.5                   1           10.5
+BE-199            LIMONADA 1 LITRO                                                            10.5                   4             42
+BE-584            COCA COLA 1 LITRO                                                           15.5                   0              0
+BE-160            INKA COLA 1 LITRO                                                           15.5                   1           15.5
+BE-987            FANTA 1 LITRO                                                               15.5                   2             31
+BE-536            SPRITE 1 LITRO                                                              15.5                   3           46.5
+BE-141            CHICHA 1 LITRO                                                              21.9                   1           21.9
+BE-442            LIMONADA 1 LITRO                                                            21.9                   1           21.9
+BE-137            CERVEZA PILSEN                                                                12                   5             60
+BE-431            CERVEZA CUSQUENA                                                            12.5                   1           12.5
+BE-738            CERVEZA HEINEKEN                                                            18.9                   0              0
+BE-695            SANGRIA                                                                     36.9                   1           36.9
+BE-475            INTIPALKA SYRAH                                                             71.9                   2          143.8
+BE-810            INTIPALKA MALBEC                                                            71.9                   4          287.6
+BE-955            CASILLERO DEL DIABLO TINTO                                                  73.9                   2          147.8
+BE-851            CASILLERO DEL DIABLO BLANCO                                                 73.9                   0              0
+BE-265            TABERNERO GRAN TINTO                                                        49.9                   2           99.8
+BE-896            FINA RESERVA TINTO                                                         128.9                   4          515.6
+PO-751            MAZAMORRA MORADA                                                             8.9                   2           17.8
+PO-731            ARROZ CON LECHE                                                              8.9                   1            8.9
+PO-171            TORTA DE CHOCOLATE                                                          15.9                   0              0
+PO-172            TORTA DE NARANJA                                                            15.9                   1           15.9
+PO-611            TRES LECHES                                                                 15.9                   2           31.8
+PO-620            CHEESECAKE DE FRESA                                                         15.9                   2           31.8
+P0-621            CHEESECAKE DE MARACUYA                                                      15.9                   3           47.7
+PO-471            1 BOLA DE HELADO                                                             8.9                   1            8.9
+PO-283            2 BOLAS DE HELADO                                                           14.9                   0              0
