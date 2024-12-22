@@ -29,6 +29,10 @@ void inicializar_buffer_de_conjunto_de_pedidos(ConjuntoDePedidos &conjuntoDePedi
 
 void operator<<(ConjuntoDePedidos &buffer_de_conjuntoDePedidos, const Pedido &pedido);
 
+void inciializarDatosConjuntoPedidos(ConjuntoDePedidos &buffer_de_conjuntoDePedidos,
+        const Pedido &pedido, const int posCliente);
+
+
 void operator>>(const ConjuntoDePedidos &buffer_de_conjuntoDePedidos, ConjuntoDePedidos &conjuntoDePedidos);
 
 int buscar_cliente(const ConjuntoDePedidos &conjuntoDePedidos, int dni);

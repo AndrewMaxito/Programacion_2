@@ -35,7 +35,6 @@ void test07() {
     ++conjuntoDePedidos;
     !conjuntoDePedidos;
     *conjuntoDePedidos;
-    
     liberar_conjunto_de_pedidos(conjuntoDePedidos);
 }
 
